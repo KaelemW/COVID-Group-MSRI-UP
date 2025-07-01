@@ -16,3 +16,5 @@ svi_2020 <- svi_2020_full |>
 # rems = racial and ethnic minority status
 # htt = housing type / transportation
 
+#Here is how I got the cleaned data frame into a csv file:
+# write_csv(svi_2020, "svi_2020.csv")
