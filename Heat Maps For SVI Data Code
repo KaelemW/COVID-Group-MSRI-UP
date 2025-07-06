@@ -12,7 +12,8 @@ ca_counties$NAME <- toupper(ca_counties$NAME)
 ca_svi_map <- ca_counties |>
   left_join(svi_2020, by = c("NAME" = "County"))
 
-svi_map <- ggplot(ca_svi_map) +
+#svi map
+ggplot(ca_svi_map) +
   geom_sf(aes(fill = svi), color = "white") +
   scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SVI (Overall)") +
   theme_minimal() +
@@ -21,7 +22,8 @@ svi_map <- ggplot(ca_svi_map) +
     subtitle = "Based on CDC",
     caption = "Data source: CDC SVI 2020"
   )
-ses_map <- ggplot(ca_svi_map) +
+#ses map
+ggplot(ca_svi_map) +
   geom_sf(aes(fill = ses), color = "white") + 
   scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SES (Overall)") +
   theme_minimal() +
@@ -30,7 +32,8 @@ ses_map <- ggplot(ca_svi_map) +
     subtitle = "Based on CDC",
     caption = "Data Source: CDC SVI 2020"
   )
-hhc_map <- ggplot(ca_svi_map) +
+#hhc map
+ggplot(ca_svi_map) +
   geom_sf(aes(fill = hhc), color = "white") + 
   scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SES (Overall)") +
   theme_minimal() +
@@ -39,7 +42,8 @@ hhc_map <- ggplot(ca_svi_map) +
     subtitle = "Based on CDC",
     caption = "Data Source: CDC SVI 2020"
   )
-rems_map <- ggplot(ca_svi_map) +
+#rems map
+ggplot(ca_svi_map) +
   geom_sf(aes(fill = rems), color = "white") + 
   scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SES (Overall)") +
   theme_minimal() +
@@ -48,7 +52,8 @@ rems_map <- ggplot(ca_svi_map) +
     subtitle = "Based on CDC",
     caption = "Data Source: CDC SVI 2020"
   )
-htt_map <- ggplot(ca_svi_map) +
+#htt map
+ggplot(ca_svi_map) +
   geom_sf(aes(fill = htt), color = "white") + 
   scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SES (Overall)") +
   theme_minimal() +
