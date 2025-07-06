@@ -1,0 +1,59 @@
+#heat map of california for svi
+library(sf)
+library(ggplot2)
+install.packages("tigris")
+library(tigris)
+options(tigris_use_cache = TRUE)
+ca_counties <- counties(state = "CA", cb = TRUE, class = "sf")
+
+#Change the county name to all caps to join data sets
+svi_2020$County <- toupper(svi_2020$County)
+ca_counties$NAME <- toupper(ca_counties$NAME)
+ca_svi_map <- ca_counties |>
+  left_join(svi_2020, by = c("NAME" = "County"))
+
+svi_map <- ggplot(ca_svi_map) +
+  geom_sf(aes(fill = svi), color = "white") +
+  scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SVI (Overall)") +
+  theme_minimal() +
+  labs(
+    title = "Social Vulnerability Index by California County (2020)",
+    subtitle = "Based on CDC",
+    caption = "Data source: CDC SVI 2020"
+  )
+ses_map <- ggplot(ca_svi_map) +
+  geom_sf(aes(fill = ses), color = "white") + 
+  scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SES (Overall)") +
+  theme_minimal() +
+  labs(
+    title = "Socioeconomic Status by California County (2020)",
+    subtitle = "Based on CDC",
+    caption = "Data Source: CDC SVI 2020"
+  )
+hhc_map <- ggplot(ca_svi_map) +
+  geom_sf(aes(fill = hhc), color = "white") + 
+  scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SES (Overall)") +
+  theme_minimal() +
+  labs(
+    title = "Household Characteristics by California County (2020)",
+    subtitle = "Based on CDC",
+    caption = "Data Source: CDC SVI 2020"
+  )
+rems_map <- ggplot(ca_svi_map) +
+  geom_sf(aes(fill = rems), color = "white") + 
+  scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SES (Overall)") +
+  theme_minimal() +
+  labs(
+    title = "Race & Ethnic Minority Status by California County (2020)",
+    subtitle = "Based on CDC",
+    caption = "Data Source: CDC SVI 2020"
+  )
+htt_map <- ggplot(ca_svi_map) +
+  geom_sf(aes(fill = htt), color = "white") + 
+  scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SES (Overall)") +
+  theme_minimal() +
+  labs(
+    title = "Housing Type & Transportation by California County (2020)",
+    subtitle = "Based on CDC",
+    caption = "Data Source: CDC SVI 2020"
+  )
