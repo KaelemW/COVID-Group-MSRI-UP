@@ -1,0 +1,3069 @@
+county,state,date,cumulative_cases,New.cases
+Amador County,CA,2021-01-06,2717,311
+Amador County,CA,2021-01-13,2921,204
+Amador County,CA,2021-01-20,3048,127
+Amador County,CA,2021-01-27,3137,89
+Amador County,CA,2021-02-03,3302,165
+Amador County,CA,2021-02-10,3376,74
+Amador County,CA,2021-02-17,3442,66
+Amador County,CA,2021-02-24,3470,28
+Amador County,CA,2021-03-03,3505,35
+Amador County,CA,2021-03-10,3526,21
+Amador County,CA,2021-03-17,3542,16
+Amador County,CA,2021-03-24,3556,14
+Amador County,CA,2021-03-31,3583,27
+Amador County,CA,2021-04-07,3620,37
+Amador County,CA,2021-04-14,3642,22
+Amador County,CA,2021-04-21,3664,22
+Amador County,CA,2021-04-28,3678,14
+Amador County,CA,2021-05-05,3683,5
+Amador County,CA,2021-05-12,3690,7
+Amador County,CA,2021-05-19,3702,12
+Amador County,CA,2021-05-26,3709,7
+Amador County,CA,2021-06-02,3720,11
+Amador County,CA,2021-06-09,3737,17
+Amador County,CA,2021-06-16,3756,19
+Amador County,CA,2021-06-23,3776,20
+Amador County,CA,2021-06-30,3787,11
+Amador County,CA,2021-07-07,3801,14
+Amador County,CA,2021-07-14,3817,16
+Amador County,CA,2021-07-21,3841,24
+Amador County,CA,2021-07-28,3895,54
+Amador County,CA,2021-08-04,3987,92
+Amador County,CA,2021-08-11,4130,143
+Amador County,CA,2021-08-18,4304,174
+Amador County,CA,2021-08-25,4421,117
+Amador County,CA,2021-09-01,4598,177
+Amador County,CA,2021-09-08,4725,127
+Amador County,CA,2021-09-15,4838,113
+Amador County,CA,2021-09-22,4948,110
+Amador County,CA,2021-09-29,5101,153
+Amador County,CA,2021-10-06,5249,148
+Amador County,CA,2021-10-13,5358,109
+Amador County,CA,2021-10-20,5424,66
+Amador County,CA,2021-10-27,5522,98
+Amador County,CA,2021-11-03,5595,73
+Amador County,CA,2021-11-10,5659,64
+Amador County,CA,2021-11-17,5710,51
+Amador County,CA,2021-11-24,5738,28
+Amador County,CA,2021-12-01,5784,46
+Amador County,CA,2021-12-08,5849,65
+Amador County,CA,2021-12-15,5882,33
+Amador County,CA,2021-12-22,5921,39
+Amador County,CA,2021-12-29,5984,63
+Contra Costa County,CA,2021-01-06,44187,4354
+Contra Costa County,CA,2021-01-13,49078,4891
+Contra Costa County,CA,2021-01-20,53636,4558
+Contra Costa County,CA,2021-01-27,56310,2674
+Contra Costa County,CA,2021-02-03,58552,2242
+Contra Costa County,CA,2021-02-10,60343,1791
+Contra Costa County,CA,2021-02-17,61626,1283
+Contra Costa County,CA,2021-02-24,62693,1067
+Contra Costa County,CA,2021-03-03,63649,956
+Contra Costa County,CA,2021-03-10,64424,775
+Contra Costa County,CA,2021-03-17,65071,647
+Contra Costa County,CA,2021-03-24,65626,555
+Contra Costa County,CA,2021-03-31,66192,566
+Contra Costa County,CA,2021-04-07,66739,547
+Contra Costa County,CA,2021-04-14,67485,746
+Contra Costa County,CA,2021-04-21,68097,612
+Contra Costa County,CA,2021-04-28,68697,600
+Contra Costa County,CA,2021-05-05,69179,482
+Contra Costa County,CA,2021-05-12,69671,492
+Contra Costa County,CA,2021-05-19,70029,358
+Contra Costa County,CA,2021-05-26,70457,428
+Contra Costa County,CA,2021-06-02,70707,250
+Contra Costa County,CA,2021-06-09,71078,371
+Contra Costa County,CA,2021-06-16,71428,350
+Contra Costa County,CA,2021-06-23,71818,390
+Contra Costa County,CA,2021-06-30,72152,334
+Contra Costa County,CA,2021-07-07,72625,473
+Contra Costa County,CA,2021-07-14,73349,724
+Contra Costa County,CA,2021-07-21,74614,1265
+Contra Costa County,CA,2021-07-28,76763,2149
+Contra Costa County,CA,2021-08-04,79320,2557
+Contra Costa County,CA,2021-08-11,81649,2329
+Contra Costa County,CA,2021-08-18,84198,2549
+Contra Costa County,CA,2021-08-25,86748,2550
+Contra Costa County,CA,2021-09-01,91373,4625
+Contra Costa County,CA,2021-09-08,93048,1675
+Contra Costa County,CA,2021-09-15,94743,1695
+Contra Costa County,CA,2021-09-22,96075,1332
+Contra Costa County,CA,2021-09-29,97151,1076
+Contra Costa County,CA,2021-10-06,98183,1032
+Contra Costa County,CA,2021-10-13,99010,827
+Contra Costa County,CA,2021-10-20,99773,763
+Contra Costa County,CA,2021-10-27,100551,778
+Contra Costa County,CA,2021-11-03,101325,774
+Contra Costa County,CA,2021-11-10,102018,693
+Contra Costa County,CA,2021-11-17,102636,618
+Contra Costa County,CA,2021-11-24,103312,676
+Contra Costa County,CA,2021-12-01,103925,613
+Contra Costa County,CA,2021-12-08,104856,931
+Contra Costa County,CA,2021-12-15,105606,750
+Contra Costa County,CA,2021-12-22,106851,1245
+Contra Costa County,CA,2021-12-29,110187,3336
+El Dorado County,CA,2021-01-06,6663,796
+El Dorado County,CA,2021-01-13,7636,973
+El Dorado County,CA,2021-01-20,8274,638
+El Dorado County,CA,2021-01-27,8669,395
+El Dorado County,CA,2021-02-03,8973,304
+El Dorado County,CA,2021-02-10,9245,272
+El Dorado County,CA,2021-02-17,9428,183
+El Dorado County,CA,2021-02-24,9565,137
+El Dorado County,CA,2021-03-03,9714,149
+El Dorado County,CA,2021-03-10,9799,85
+El Dorado County,CA,2021-03-17,9851,52
+El Dorado County,CA,2021-03-24,9929,78
+El Dorado County,CA,2021-03-31,10003,74
+El Dorado County,CA,2021-04-07,10126,123
+El Dorado County,CA,2021-04-14,10270,144
+El Dorado County,CA,2021-04-21,10427,157
+El Dorado County,CA,2021-04-28,10564,137
+El Dorado County,CA,2021-05-05,10721,157
+El Dorado County,CA,2021-05-12,10830,109
+El Dorado County,CA,2021-05-19,10895,65
+El Dorado County,CA,2021-05-26,10969,74
+El Dorado County,CA,2021-06-02,11006,37
+El Dorado County,CA,2021-06-09,11047,41
+El Dorado County,CA,2021-06-16,11080,33
+El Dorado County,CA,2021-06-23,11137,57
+El Dorado County,CA,2021-06-30,11190,53
+El Dorado County,CA,2021-07-07,11263,73
+El Dorado County,CA,2021-07-14,11377,114
+El Dorado County,CA,2021-07-21,11552,175
+El Dorado County,CA,2021-07-28,11796,244
+El Dorado County,CA,2021-08-04,12178,382
+El Dorado County,CA,2021-08-11,12733,555
+El Dorado County,CA,2021-08-18,13322,589
+El Dorado County,CA,2021-08-25,13916,594
+El Dorado County,CA,2021-09-01,14807,891
+El Dorado County,CA,2021-09-08,15274,467
+El Dorado County,CA,2021-09-15,15714,440
+El Dorado County,CA,2021-09-22,16093,379
+El Dorado County,CA,2021-09-29,16351,258
+El Dorado County,CA,2021-10-06,16648,297
+El Dorado County,CA,2021-10-13,16909,261
+El Dorado County,CA,2021-10-20,17127,218
+El Dorado County,CA,2021-10-27,17365,238
+El Dorado County,CA,2021-11-03,17589,224
+El Dorado County,CA,2021-11-10,17800,211
+El Dorado County,CA,2021-11-17,17997,197
+El Dorado County,CA,2021-11-24,18167,170
+El Dorado County,CA,2021-12-01,18341,174
+El Dorado County,CA,2021-12-08,18546,205
+El Dorado County,CA,2021-12-15,18738,192
+El Dorado County,CA,2021-12-22,18952,214
+El Dorado County,CA,2021-12-29,19337,385
+Kings County,CA,2021-01-06,17516,1178
+Kings County,CA,2021-01-13,18804,1288
+Kings County,CA,2021-01-20,20181,1377
+Kings County,CA,2021-01-27,21026,845
+Kings County,CA,2021-02-03,21703,677
+Kings County,CA,2021-02-10,22219,516
+Kings County,CA,2021-02-17,22548,329
+Kings County,CA,2021-02-24,22821,273
+Kings County,CA,2021-03-03,23003,182
+Kings County,CA,2021-03-10,23157,154
+Kings County,CA,2021-03-17,23349,192
+Kings County,CA,2021-03-24,23481,132
+Kings County,CA,2021-03-31,23583,102
+Kings County,CA,2021-04-07,23647,64
+Kings County,CA,2021-04-14,23708,61
+Kings County,CA,2021-04-21,23770,62
+Kings County,CA,2021-04-28,23845,75
+Kings County,CA,2021-05-05,23920,75
+Kings County,CA,2021-05-12,23993,73
+Kings County,CA,2021-05-19,24027,34
+Kings County,CA,2021-05-26,24055,28
+Kings County,CA,2021-06-02,24091,36
+Kings County,CA,2021-06-09,24150,59
+Kings County,CA,2021-06-16,24167,17
+Kings County,CA,2021-06-23,24167,0
+Kings County,CA,2021-06-30,24167,0
+Kings County,CA,2021-07-07,24215,48
+Kings County,CA,2021-07-14,24281,66
+Kings County,CA,2021-07-21,24419,138
+Kings County,CA,2021-07-28,24652,233
+Kings County,CA,2021-08-04,25014,362
+Kings County,CA,2021-08-11,25540,526
+Kings County,CA,2021-08-18,26288,748
+Kings County,CA,2021-08-25,27047,759
+Kings County,CA,2021-09-01,27888,841
+Kings County,CA,2021-09-08,28716,828
+Kings County,CA,2021-09-15,29589,873
+Kings County,CA,2021-09-22,30227,638
+Kings County,CA,2021-09-29,30877,650
+Kings County,CA,2021-10-06,31532,655
+Kings County,CA,2021-10-13,32026,494
+Kings County,CA,2021-10-20,32638,612
+Kings County,CA,2021-10-27,33314,676
+Kings County,CA,2021-11-03,33866,552
+Kings County,CA,2021-11-10,34282,416
+Kings County,CA,2021-11-17,34638,356
+Kings County,CA,2021-11-24,34938,300
+Kings County,CA,2021-12-01,35140,202
+Kings County,CA,2021-12-08,35520,380
+Kings County,CA,2021-12-15,35790,270
+Kings County,CA,2021-12-22,36028,238
+Kings County,CA,2021-12-29,36312,284
+Lassen County,CA,2021-01-06,4611,270
+Lassen County,CA,2021-01-13,4730,119
+Lassen County,CA,2021-01-20,4833,103
+Lassen County,CA,2021-01-27,4933,100
+Lassen County,CA,2021-02-03,4997,64
+Lassen County,CA,2021-02-10,5073,76
+Lassen County,CA,2021-02-17,5141,68
+Lassen County,CA,2021-02-24,5188,47
+Lassen County,CA,2021-03-03,5213,25
+Lassen County,CA,2021-03-10,5221,8
+Lassen County,CA,2021-03-17,5228,7
+Lassen County,CA,2021-03-24,5232,4
+Lassen County,CA,2021-03-31,5236,4
+Lassen County,CA,2021-04-07,5242,6
+Lassen County,CA,2021-04-14,5243,1
+Lassen County,CA,2021-04-21,5243,0
+Lassen County,CA,2021-04-28,5244,1
+Lassen County,CA,2021-05-05,5249,5
+Lassen County,CA,2021-05-12,5257,8
+Lassen County,CA,2021-05-19,5269,12
+Lassen County,CA,2021-05-26,5279,10
+Lassen County,CA,2021-06-02,5289,10
+Lassen County,CA,2021-06-09,5317,28
+Lassen County,CA,2021-06-16,5329,12
+Lassen County,CA,2021-06-23,5372,43
+Lassen County,CA,2021-06-30,5386,14
+Lassen County,CA,2021-07-07,5407,21
+Lassen County,CA,2021-07-14,5413,6
+Lassen County,CA,2021-07-21,5427,14
+Lassen County,CA,2021-07-28,5436,9
+Lassen County,CA,2021-08-04,5469,33
+Lassen County,CA,2021-08-11,5533,64
+Lassen County,CA,2021-08-18,5645,112
+Lassen County,CA,2021-08-25,5731,86
+Lassen County,CA,2021-09-01,5878,147
+Lassen County,CA,2021-09-08,6060,182
+Lassen County,CA,2021-09-15,6232,172
+Lassen County,CA,2021-09-22,6441,209
+Lassen County,CA,2021-09-29,6646,205
+Lassen County,CA,2021-10-06,6731,85
+Lassen County,CA,2021-10-13,6854,123
+Lassen County,CA,2021-10-20,6962,108
+Lassen County,CA,2021-10-27,7056,94
+Lassen County,CA,2021-11-03,7165,109
+Lassen County,CA,2021-11-10,7256,91
+Lassen County,CA,2021-11-17,7329,73
+Lassen County,CA,2021-11-24,7380,51
+Lassen County,CA,2021-12-01,7435,55
+Lassen County,CA,2021-12-08,7480,45
+Lassen County,CA,2021-12-15,7504,24
+Lassen County,CA,2021-12-22,7516,12
+Lassen County,CA,2021-12-29,7533,17
+Mendocino County,CA,2021-01-06,2534,266
+Mendocino County,CA,2021-01-13,2805,271
+Mendocino County,CA,2021-01-20,2983,178
+Mendocino County,CA,2021-01-27,3133,150
+Mendocino County,CA,2021-02-03,3271,138
+Mendocino County,CA,2021-02-10,3434,163
+Mendocino County,CA,2021-02-17,3554,120
+Mendocino County,CA,2021-02-24,3607,53
+Mendocino County,CA,2021-03-03,3630,23
+Mendocino County,CA,2021-03-10,3665,35
+Mendocino County,CA,2021-03-17,3693,28
+Mendocino County,CA,2021-03-24,3723,30
+Mendocino County,CA,2021-03-31,3740,17
+Mendocino County,CA,2021-04-07,3757,17
+Mendocino County,CA,2021-04-14,3772,15
+Mendocino County,CA,2021-04-21,3796,24
+Mendocino County,CA,2021-04-28,3837,41
+Mendocino County,CA,2021-05-05,3868,31
+Mendocino County,CA,2021-05-12,3896,28
+Mendocino County,CA,2021-05-19,3952,56
+Mendocino County,CA,2021-05-26,4005,53
+Mendocino County,CA,2021-06-02,4043,38
+Mendocino County,CA,2021-06-09,4079,36
+Mendocino County,CA,2021-06-16,4111,32
+Mendocino County,CA,2021-06-23,4162,51
+Mendocino County,CA,2021-06-30,4185,23
+Mendocino County,CA,2021-07-07,4224,39
+Mendocino County,CA,2021-07-14,4267,43
+Mendocino County,CA,2021-07-21,4343,76
+Mendocino County,CA,2021-07-28,4458,115
+Mendocino County,CA,2021-08-04,4646,188
+Mendocino County,CA,2021-08-11,4914,268
+Mendocino County,CA,2021-08-18,5266,352
+Mendocino County,CA,2021-08-25,5599,333
+Mendocino County,CA,2021-09-01,5995,396
+Mendocino County,CA,2021-09-08,6278,283
+Mendocino County,CA,2021-09-15,6661,383
+Mendocino County,CA,2021-09-22,6906,245
+Mendocino County,CA,2021-09-29,7170,264
+Mendocino County,CA,2021-10-06,7369,199
+Mendocino County,CA,2021-10-13,7498,129
+Mendocino County,CA,2021-10-20,7619,121
+Mendocino County,CA,2021-10-27,7786,167
+Mendocino County,CA,2021-11-03,7997,211
+Mendocino County,CA,2021-11-10,8185,188
+Mendocino County,CA,2021-11-17,8341,156
+Mendocino County,CA,2021-11-24,8507,166
+Mendocino County,CA,2021-12-01,8608,101
+Mendocino County,CA,2021-12-08,8776,168
+Mendocino County,CA,2021-12-15,8880,104
+Mendocino County,CA,2021-12-22,8969,89
+Mendocino County,CA,2021-12-29,9065,96
+Nevada County,CA,2021-01-06,2890,248
+Nevada County,CA,2021-01-13,3138,248
+Nevada County,CA,2021-01-20,3354,216
+Nevada County,CA,2021-01-27,3555,201
+Nevada County,CA,2021-02-03,3699,144
+Nevada County,CA,2021-02-10,3840,141
+Nevada County,CA,2021-02-17,3932,92
+Nevada County,CA,2021-02-24,4078,146
+Nevada County,CA,2021-03-03,4150,72
+Nevada County,CA,2021-03-10,4231,81
+Nevada County,CA,2021-03-17,4307,76
+Nevada County,CA,2021-03-24,4361,54
+Nevada County,CA,2021-03-31,4452,91
+Nevada County,CA,2021-04-07,4545,93
+Nevada County,CA,2021-04-14,4606,61
+Nevada County,CA,2021-04-21,4677,71
+Nevada County,CA,2021-04-28,4751,74
+Nevada County,CA,2021-05-05,4850,99
+Nevada County,CA,2021-05-12,4931,81
+Nevada County,CA,2021-05-19,4958,27
+Nevada County,CA,2021-05-26,4992,34
+Nevada County,CA,2021-06-02,5025,33
+Nevada County,CA,2021-06-09,5062,37
+Nevada County,CA,2021-06-16,5090,28
+Nevada County,CA,2021-06-23,5125,35
+Nevada County,CA,2021-06-30,5154,29
+Nevada County,CA,2021-07-07,5191,37
+Nevada County,CA,2021-07-14,5257,66
+Nevada County,CA,2021-07-21,5354,97
+Nevada County,CA,2021-07-28,5516,162
+Nevada County,CA,2021-08-04,5902,386
+Nevada County,CA,2021-08-11,6379,477
+Nevada County,CA,2021-08-18,6840,461
+Nevada County,CA,2021-08-25,7231,391
+Nevada County,CA,2021-09-01,7726,495
+Nevada County,CA,2021-09-08,8101,375
+Nevada County,CA,2021-09-15,8335,234
+Nevada County,CA,2021-09-22,8546,211
+Nevada County,CA,2021-09-29,8719,173
+Nevada County,CA,2021-10-06,8890,171
+Nevada County,CA,2021-10-13,9037,147
+Nevada County,CA,2021-10-20,9150,113
+Nevada County,CA,2021-10-27,9299,149
+Nevada County,CA,2021-11-03,9458,159
+Nevada County,CA,2021-11-10,9630,172
+Nevada County,CA,2021-11-17,9783,153
+Nevada County,CA,2021-11-24,9937,154
+Nevada County,CA,2021-12-01,10058,121
+Nevada County,CA,2021-12-08,10220,162
+Nevada County,CA,2021-12-15,10321,101
+Nevada County,CA,2021-12-22,10470,149
+Nevada County,CA,2021-12-29,10652,182
+Plumas County,CA,2021-01-06,437,34
+Plumas County,CA,2021-01-13,492,55
+Plumas County,CA,2021-01-20,519,27
+Plumas County,CA,2021-01-27,546,27
+Plumas County,CA,2021-02-03,570,24
+Plumas County,CA,2021-02-10,594,24
+Plumas County,CA,2021-02-17,630,36
+Plumas County,CA,2021-02-24,636,6
+Plumas County,CA,2021-03-03,638,2
+Plumas County,CA,2021-03-10,649,11
+Plumas County,CA,2021-03-17,653,4
+Plumas County,CA,2021-03-24,662,9
+Plumas County,CA,2021-03-31,671,9
+Plumas County,CA,2021-04-07,675,4
+Plumas County,CA,2021-04-14,675,0
+Plumas County,CA,2021-04-21,680,5
+Plumas County,CA,2021-04-28,685,5
+Plumas County,CA,2021-05-05,685,0
+Plumas County,CA,2021-05-12,689,4
+Plumas County,CA,2021-05-19,692,3
+Plumas County,CA,2021-05-26,695,3
+Plumas County,CA,2021-06-02,701,6
+Plumas County,CA,2021-06-09,703,2
+Plumas County,CA,2021-06-16,708,5
+Plumas County,CA,2021-06-23,708,0
+Plumas County,CA,2021-06-30,716,8
+Plumas County,CA,2021-07-07,722,6
+Plumas County,CA,2021-07-14,730,8
+Plumas County,CA,2021-07-21,750,20
+Plumas County,CA,2021-07-28,757,7
+Plumas County,CA,2021-08-04,793,36
+Plumas County,CA,2021-08-11,831,38
+Plumas County,CA,2021-08-18,875,44
+Plumas County,CA,2021-08-25,970,95
+Plumas County,CA,2021-09-01,1036,66
+Plumas County,CA,2021-09-08,1094,58
+Plumas County,CA,2021-09-15,1173,79
+Plumas County,CA,2021-09-22,1252,79
+Plumas County,CA,2021-09-29,1304,52
+Plumas County,CA,2021-10-06,1385,81
+Plumas County,CA,2021-10-13,1520,135
+Plumas County,CA,2021-10-20,1623,103
+Plumas County,CA,2021-10-27,1683,60
+Plumas County,CA,2021-11-03,1762,79
+Plumas County,CA,2021-11-10,1851,89
+Plumas County,CA,2021-11-17,1883,32
+Plumas County,CA,2021-11-24,1911,28
+Plumas County,CA,2021-12-01,1939,28
+Plumas County,CA,2021-12-08,1969,30
+Plumas County,CA,2021-12-15,2006,37
+Plumas County,CA,2021-12-22,2035,29
+Plumas County,CA,2021-12-29,2056,21
+Riverside County,CA,2021-01-06,210753,24307
+Riverside County,CA,2021-01-13,237017,26264
+Riverside County,CA,2021-01-20,258446,21429
+Riverside County,CA,2021-01-27,272087,13641
+Riverside County,CA,2021-02-03,280894,8807
+Riverside County,CA,2021-02-10,286645,5751
+Riverside County,CA,2021-02-17,289235,2590
+Riverside County,CA,2021-02-24,291470,2235
+Riverside County,CA,2021-03-03,292958,1488
+Riverside County,CA,2021-03-10,294092,1134
+Riverside County,CA,2021-03-17,295136,1044
+Riverside County,CA,2021-03-24,295972,836
+Riverside County,CA,2021-03-31,296628,656
+Riverside County,CA,2021-04-07,297368,740
+Riverside County,CA,2021-04-14,299306,1938
+Riverside County,CA,2021-04-21,300037,731
+Riverside County,CA,2021-04-28,300707,670
+Riverside County,CA,2021-05-05,301204,497
+Riverside County,CA,2021-05-12,301713,509
+Riverside County,CA,2021-05-19,302343,630
+Riverside County,CA,2021-05-26,302750,407
+Riverside County,CA,2021-06-02,303053,303
+Riverside County,CA,2021-06-09,303363,310
+Riverside County,CA,2021-06-16,303627,264
+Riverside County,CA,2021-06-23,303983,356
+Riverside County,CA,2021-06-30,307154,3171
+Riverside County,CA,2021-07-07,307487,333
+Riverside County,CA,2021-07-14,308667,1180
+Riverside County,CA,2021-07-21,310676,2009
+Riverside County,CA,2021-07-28,313821,3145
+Riverside County,CA,2021-08-04,318273,4452
+Riverside County,CA,2021-08-11,324447,6174
+Riverside County,CA,2021-08-18,331187,6740
+Riverside County,CA,2021-08-25,337978,6791
+Riverside County,CA,2021-09-01,344064,6086
+Riverside County,CA,2021-09-08,349049,4985
+Riverside County,CA,2021-09-15,354327,5278
+Riverside County,CA,2021-09-22,358365,4038
+Riverside County,CA,2021-09-29,362100,3735
+Riverside County,CA,2021-10-06,365471,3371
+Riverside County,CA,2021-10-13,367978,2507
+Riverside County,CA,2021-10-20,370179,2201
+Riverside County,CA,2021-10-27,373148,2969
+Riverside County,CA,2021-11-03,376051,2903
+Riverside County,CA,2021-11-10,379107,3056
+Riverside County,CA,2021-11-17,381714,2607
+Riverside County,CA,2021-11-24,384323,2609
+Riverside County,CA,2021-12-01,387533,3210
+Riverside County,CA,2021-12-08,391455,3922
+Riverside County,CA,2021-12-15,395253,3798
+Riverside County,CA,2021-12-22,399698,4445
+Riverside County,CA,2021-12-29,408509,8811
+San Benito County,CA,2021-01-06,3997,493
+San Benito County,CA,2021-01-13,4567,570
+San Benito County,CA,2021-01-20,5046,479
+San Benito County,CA,2021-01-27,5321,275
+San Benito County,CA,2021-02-03,5519,198
+San Benito County,CA,2021-02-10,5648,129
+San Benito County,CA,2021-02-17,5744,96
+San Benito County,CA,2021-02-24,5821,77
+San Benito County,CA,2021-03-03,5864,43
+San Benito County,CA,2021-03-10,5892,28
+San Benito County,CA,2021-03-17,5923,31
+San Benito County,CA,2021-03-24,5938,15
+San Benito County,CA,2021-03-31,5966,28
+San Benito County,CA,2021-04-07,6011,45
+San Benito County,CA,2021-04-14,6057,46
+San Benito County,CA,2021-04-21,6101,44
+San Benito County,CA,2021-04-28,6129,28
+San Benito County,CA,2021-05-05,6153,24
+San Benito County,CA,2021-05-12,6172,19
+San Benito County,CA,2021-05-19,6182,10
+San Benito County,CA,2021-05-26,6187,5
+San Benito County,CA,2021-06-02,6188,1
+San Benito County,CA,2021-06-09,6192,4
+San Benito County,CA,2021-06-16,6205,13
+San Benito County,CA,2021-06-23,6214,9
+San Benito County,CA,2021-06-30,6217,3
+San Benito County,CA,2021-07-07,6253,36
+San Benito County,CA,2021-07-14,6289,36
+San Benito County,CA,2021-07-21,6312,23
+San Benito County,CA,2021-07-28,6346,34
+San Benito County,CA,2021-08-04,6402,56
+San Benito County,CA,2021-08-11,6493,91
+San Benito County,CA,2021-08-18,6597,104
+San Benito County,CA,2021-08-25,6709,112
+San Benito County,CA,2021-09-01,6828,119
+San Benito County,CA,2021-09-08,6926,98
+San Benito County,CA,2021-09-15,7031,105
+San Benito County,CA,2021-09-22,7097,66
+San Benito County,CA,2021-09-29,7179,82
+San Benito County,CA,2021-10-06,7257,78
+San Benito County,CA,2021-10-13,7356,99
+San Benito County,CA,2021-10-20,7430,74
+San Benito County,CA,2021-10-27,7496,66
+San Benito County,CA,2021-11-03,7583,87
+San Benito County,CA,2021-11-10,7648,65
+San Benito County,CA,2021-11-17,7694,46
+San Benito County,CA,2021-11-24,7759,65
+San Benito County,CA,2021-12-01,7833,74
+San Benito County,CA,2021-12-08,7966,133
+San Benito County,CA,2021-12-15,8062,96
+San Benito County,CA,2021-12-22,8144,82
+San Benito County,CA,2021-12-29,8393,249
+San Luis Obispo County,CA,2021-01-06,12339,1687
+San Luis Obispo County,CA,2021-01-13,14754,2415
+San Luis Obispo County,CA,2021-01-20,16299,1545
+San Luis Obispo County,CA,2021-01-27,17493,1194
+San Luis Obispo County,CA,2021-02-03,18316,823
+San Luis Obispo County,CA,2021-02-10,19021,705
+San Luis Obispo County,CA,2021-02-17,19476,455
+San Luis Obispo County,CA,2021-02-24,19797,321
+San Luis Obispo County,CA,2021-03-03,20028,231
+San Luis Obispo County,CA,2021-03-10,20263,235
+San Luis Obispo County,CA,2021-03-17,20444,181
+San Luis Obispo County,CA,2021-03-24,20639,195
+San Luis Obispo County,CA,2021-03-31,20833,194
+San Luis Obispo County,CA,2021-04-07,21000,167
+San Luis Obispo County,CA,2021-04-14,21211,211
+San Luis Obispo County,CA,2021-04-21,21405,194
+San Luis Obispo County,CA,2021-04-28,21569,164
+San Luis Obispo County,CA,2021-05-05,21655,86
+San Luis Obispo County,CA,2021-05-12,21745,90
+San Luis Obispo County,CA,2021-05-19,21824,79
+San Luis Obispo County,CA,2021-05-26,21908,84
+San Luis Obispo County,CA,2021-06-02,21975,67
+San Luis Obispo County,CA,2021-06-09,22012,37
+San Luis Obispo County,CA,2021-06-16,22055,43
+San Luis Obispo County,CA,2021-06-23,22085,30
+San Luis Obispo County,CA,2021-06-30,22094,9
+San Luis Obispo County,CA,2021-07-07,22130,36
+San Luis Obispo County,CA,2021-07-14,22208,78
+San Luis Obispo County,CA,2021-07-21,22353,145
+San Luis Obispo County,CA,2021-07-28,22616,263
+San Luis Obispo County,CA,2021-08-04,23008,392
+San Luis Obispo County,CA,2021-08-11,23660,652
+San Luis Obispo County,CA,2021-08-18,24486,826
+San Luis Obispo County,CA,2021-08-25,25407,921
+San Luis Obispo County,CA,2021-09-01,26521,1114
+San Luis Obispo County,CA,2021-09-08,27276,755
+San Luis Obispo County,CA,2021-09-15,27904,628
+San Luis Obispo County,CA,2021-09-22,28423,519
+San Luis Obispo County,CA,2021-09-29,28886,463
+San Luis Obispo County,CA,2021-10-06,29273,387
+San Luis Obispo County,CA,2021-10-13,29557,284
+San Luis Obispo County,CA,2021-10-20,29870,313
+San Luis Obispo County,CA,2021-10-27,30151,281
+San Luis Obispo County,CA,2021-11-03,30468,317
+San Luis Obispo County,CA,2021-11-10,30759,291
+San Luis Obispo County,CA,2021-11-17,30997,238
+San Luis Obispo County,CA,2021-11-24,31288,291
+San Luis Obispo County,CA,2021-12-01,31523,235
+San Luis Obispo County,CA,2021-12-08,31844,321
+San Luis Obispo County,CA,2021-12-15,32123,279
+San Luis Obispo County,CA,2021-12-22,32520,397
+San Luis Obispo County,CA,2021-12-29,33269,749
+Santa Barbara County,CA,2021-01-06,19709,2384
+Santa Barbara County,CA,2021-01-13,22918,3209
+Santa Barbara County,CA,2021-01-20,25853,2935
+Santa Barbara County,CA,2021-01-27,28264,2411
+Santa Barbara County,CA,2021-02-03,29951,1687
+Santa Barbara County,CA,2021-02-10,31186,1235
+Santa Barbara County,CA,2021-02-17,31964,778
+Santa Barbara County,CA,2021-02-24,32602,638
+Santa Barbara County,CA,2021-03-03,33092,490
+Santa Barbara County,CA,2021-03-10,33454,362
+Santa Barbara County,CA,2021-03-17,33714,260
+Santa Barbara County,CA,2021-03-24,33936,222
+Santa Barbara County,CA,2021-03-31,34185,249
+Santa Barbara County,CA,2021-04-07,34434,249
+Santa Barbara County,CA,2021-04-14,34801,367
+Santa Barbara County,CA,2021-04-21,35002,201
+Santa Barbara County,CA,2021-04-28,35177,175
+Santa Barbara County,CA,2021-05-05,35339,162
+Santa Barbara County,CA,2021-05-12,35418,79
+Santa Barbara County,CA,2021-05-19,35489,71
+Santa Barbara County,CA,2021-05-26,35549,60
+Santa Barbara County,CA,2021-06-02,35589,40
+Santa Barbara County,CA,2021-06-09,35636,47
+Santa Barbara County,CA,2021-06-16,35670,34
+Santa Barbara County,CA,2021-06-23,35719,49
+Santa Barbara County,CA,2021-06-30,35733,14
+Santa Barbara County,CA,2021-07-07,35801,68
+Santa Barbara County,CA,2021-07-14,35915,114
+Santa Barbara County,CA,2021-07-21,36184,269
+Santa Barbara County,CA,2021-07-28,36648,464
+Santa Barbara County,CA,2021-08-04,37230,582
+Santa Barbara County,CA,2021-08-11,37934,704
+Santa Barbara County,CA,2021-08-18,38883,949
+Santa Barbara County,CA,2021-08-25,39748,865
+Santa Barbara County,CA,2021-09-01,40547,799
+Santa Barbara County,CA,2021-09-08,41467,920
+Santa Barbara County,CA,2021-09-15,42325,858
+Santa Barbara County,CA,2021-09-22,43206,881
+Santa Barbara County,CA,2021-09-29,43804,598
+Santa Barbara County,CA,2021-10-06,44190,386
+Santa Barbara County,CA,2021-10-13,44686,496
+Santa Barbara County,CA,2021-10-20,45032,346
+Santa Barbara County,CA,2021-10-27,45463,431
+Santa Barbara County,CA,2021-11-03,45824,361
+Santa Barbara County,CA,2021-11-10,46237,413
+Santa Barbara County,CA,2021-11-17,46612,375
+Santa Barbara County,CA,2021-11-24,47011,399
+Santa Barbara County,CA,2021-12-01,47341,330
+Santa Barbara County,CA,2021-12-08,47939,598
+Santa Barbara County,CA,2021-12-15,48402,463
+Santa Barbara County,CA,2021-12-22,48979,577
+Santa Barbara County,CA,2021-12-29,50390,1411
+Santa Clara County,CA,2021-01-06,76696,8813
+Santa Clara County,CA,2021-01-13,86473,9777
+Santa Clara County,CA,2021-01-20,94918,8445
+Santa Clara County,CA,2021-01-27,99679,4761
+Santa Clara County,CA,2021-02-03,103361,3682
+Santa Clara County,CA,2021-02-10,106286,2925
+Santa Clara County,CA,2021-02-17,108303,2017
+Santa Clara County,CA,2021-02-24,110031,1728
+Santa Clara County,CA,2021-03-03,111429,1398
+Santa Clara County,CA,2021-03-10,112573,1144
+Santa Clara County,CA,2021-03-17,113472,899
+Santa Clara County,CA,2021-03-24,114285,813
+Santa Clara County,CA,2021-03-31,115073,788
+Santa Clara County,CA,2021-04-07,115860,787
+Santa Clara County,CA,2021-04-14,117051,1191
+Santa Clara County,CA,2021-04-21,117951,900
+Santa Clara County,CA,2021-04-28,118690,739
+Santa Clara County,CA,2021-05-05,119190,500
+Santa Clara County,CA,2021-05-12,119623,433
+Santa Clara County,CA,2021-05-19,119687,64
+Santa Clara County,CA,2021-05-26,119687,0
+Santa Clara County,CA,2021-06-02,119687,0
+Santa Clara County,CA,2021-06-09,119687,0
+Santa Clara County,CA,2021-06-16,119687,0
+Santa Clara County,CA,2021-06-23,119687,0
+Santa Clara County,CA,2021-06-30,119687,0
+Santa Clara County,CA,2021-07-07,119995,308
+Santa Clara County,CA,2021-07-14,120540,545
+Santa Clara County,CA,2021-07-21,121547,1007
+Santa Clara County,CA,2021-07-28,123022,1475
+Santa Clara County,CA,2021-08-04,124810,1788
+Santa Clara County,CA,2021-08-11,126954,2144
+Santa Clara County,CA,2021-08-18,129333,2379
+Santa Clara County,CA,2021-08-25,131778,2445
+Santa Clara County,CA,2021-09-01,135684,3906
+Santa Clara County,CA,2021-09-08,137711,2027
+Santa Clara County,CA,2021-09-15,139433,1722
+Santa Clara County,CA,2021-09-22,140793,1360
+Santa Clara County,CA,2021-09-29,142059,1266
+Santa Clara County,CA,2021-10-06,143185,1126
+Santa Clara County,CA,2021-10-13,144207,1022
+Santa Clara County,CA,2021-10-20,145286,1079
+Santa Clara County,CA,2021-10-27,146276,990
+Santa Clara County,CA,2021-11-03,147510,1234
+Santa Clara County,CA,2021-11-10,148720,1210
+Santa Clara County,CA,2021-11-17,149939,1219
+Santa Clara County,CA,2021-11-24,151249,1310
+Santa Clara County,CA,2021-12-01,152403,1154
+Santa Clara County,CA,2021-12-08,154189,1786
+Santa Clara County,CA,2021-12-15,155623,1434
+Santa Clara County,CA,2021-12-22,157739,2116
+Santa Clara County,CA,2021-12-29,163335,5596
+Siskiyou County,CA,2021-01-06,1133,92
+Siskiyou County,CA,2021-01-13,1257,124
+Siskiyou County,CA,2021-01-20,1334,77
+Siskiyou County,CA,2021-01-27,1404,70
+Siskiyou County,CA,2021-02-03,1459,55
+Siskiyou County,CA,2021-02-10,1522,63
+Siskiyou County,CA,2021-02-17,1574,52
+Siskiyou County,CA,2021-02-24,1610,36
+Siskiyou County,CA,2021-03-03,1655,45
+Siskiyou County,CA,2021-03-10,1697,42
+Siskiyou County,CA,2021-03-17,1731,34
+Siskiyou County,CA,2021-03-24,1746,15
+Siskiyou County,CA,2021-03-31,1767,21
+Siskiyou County,CA,2021-04-07,1784,17
+Siskiyou County,CA,2021-04-14,1793,9
+Siskiyou County,CA,2021-04-21,1843,50
+Siskiyou County,CA,2021-04-28,1899,56
+Siskiyou County,CA,2021-05-05,2013,114
+Siskiyou County,CA,2021-05-12,2095,82
+Siskiyou County,CA,2021-05-19,2151,56
+Siskiyou County,CA,2021-05-26,2207,56
+Siskiyou County,CA,2021-06-02,2226,19
+Siskiyou County,CA,2021-06-09,2240,14
+Siskiyou County,CA,2021-06-16,2259,19
+Siskiyou County,CA,2021-06-23,2265,6
+Siskiyou County,CA,2021-06-30,2272,7
+Siskiyou County,CA,2021-07-07,2291,19
+Siskiyou County,CA,2021-07-14,2324,33
+Siskiyou County,CA,2021-07-21,2356,32
+Siskiyou County,CA,2021-07-28,2397,41
+Siskiyou County,CA,2021-08-04,2466,69
+Siskiyou County,CA,2021-08-11,2605,139
+Siskiyou County,CA,2021-08-18,2773,168
+Siskiyou County,CA,2021-08-25,2977,204
+Siskiyou County,CA,2021-09-01,3222,245
+Siskiyou County,CA,2021-09-08,3532,310
+Siskiyou County,CA,2021-09-15,3757,225
+Siskiyou County,CA,2021-09-22,4011,254
+Siskiyou County,CA,2021-09-29,4183,172
+Siskiyou County,CA,2021-10-06,4305,122
+Siskiyou County,CA,2021-10-13,4390,85
+Siskiyou County,CA,2021-10-20,4477,87
+Siskiyou County,CA,2021-10-27,4541,64
+Siskiyou County,CA,2021-11-03,4575,34
+Siskiyou County,CA,2021-11-10,4627,52
+Siskiyou County,CA,2021-11-17,4645,18
+Siskiyou County,CA,2021-11-24,4692,47
+Siskiyou County,CA,2021-12-01,4758,66
+Siskiyou County,CA,2021-12-08,4805,47
+Siskiyou County,CA,2021-12-15,4833,28
+Siskiyou County,CA,2021-12-22,4869,36
+Siskiyou County,CA,2021-12-29,4911,42
+Stanislaus County,CA,2021-01-06,40142,3047
+Stanislaus County,CA,2021-01-13,43763,3621
+Stanislaus County,CA,2021-01-20,47195,3432
+Stanislaus County,CA,2021-01-27,49488,2293
+Stanislaus County,CA,2021-02-03,51291,1803
+Stanislaus County,CA,2021-02-10,53056,1765
+Stanislaus County,CA,2021-02-17,54178,1122
+Stanislaus County,CA,2021-02-24,55109,931
+Stanislaus County,CA,2021-03-03,55790,681
+Stanislaus County,CA,2021-03-10,56383,593
+Stanislaus County,CA,2021-03-17,56973,590
+Stanislaus County,CA,2021-03-24,57746,773
+Stanislaus County,CA,2021-03-31,58347,601
+Stanislaus County,CA,2021-04-07,59010,663
+Stanislaus County,CA,2021-04-14,59560,550
+Stanislaus County,CA,2021-04-21,60044,484
+Stanislaus County,CA,2021-04-28,60553,509
+Stanislaus County,CA,2021-05-05,61066,513
+Stanislaus County,CA,2021-05-12,61520,454
+Stanislaus County,CA,2021-05-19,61840,320
+Stanislaus County,CA,2021-05-26,62166,326
+Stanislaus County,CA,2021-06-02,62361,195
+Stanislaus County,CA,2021-06-09,62584,223
+Stanislaus County,CA,2021-06-16,62778,194
+Stanislaus County,CA,2021-06-23,62992,214
+Stanislaus County,CA,2021-06-30,63076,84
+Stanislaus County,CA,2021-07-07,63253,177
+Stanislaus County,CA,2021-07-14,63466,213
+Stanislaus County,CA,2021-07-21,63989,523
+Stanislaus County,CA,2021-07-28,64687,698
+Stanislaus County,CA,2021-08-04,65800,1113
+Stanislaus County,CA,2021-08-11,67365,1565
+Stanislaus County,CA,2021-08-18,69488,2123
+Stanislaus County,CA,2021-08-25,71623,2135
+Stanislaus County,CA,2021-09-01,74678,3055
+Stanislaus County,CA,2021-09-08,76715,2037
+Stanislaus County,CA,2021-09-15,78799,2084
+Stanislaus County,CA,2021-09-22,80463,1664
+Stanislaus County,CA,2021-09-29,81928,1465
+Stanislaus County,CA,2021-10-06,83108,1180
+Stanislaus County,CA,2021-10-13,84208,1100
+Stanislaus County,CA,2021-10-20,85233,1025
+Stanislaus County,CA,2021-10-27,86384,1151
+Stanislaus County,CA,2021-11-03,87563,1179
+Stanislaus County,CA,2021-11-10,88535,972
+Stanislaus County,CA,2021-11-17,89340,805
+Stanislaus County,CA,2021-11-24,89984,644
+Stanislaus County,CA,2021-12-01,90573,589
+Stanislaus County,CA,2021-12-08,91370,797
+Stanislaus County,CA,2021-12-15,92051,681
+Stanislaus County,CA,2021-12-22,92749,698
+Stanislaus County,CA,2021-12-29,93695,946
+Tuolumne County,CA,2021-01-06,3015,206
+Tuolumne County,CA,2021-01-13,3205,190
+Tuolumne County,CA,2021-01-20,3356,151
+Tuolumne County,CA,2021-01-27,3480,124
+Tuolumne County,CA,2021-02-03,3577,97
+Tuolumne County,CA,2021-02-10,3703,126
+Tuolumne County,CA,2021-02-17,3827,124
+Tuolumne County,CA,2021-02-24,3895,68
+Tuolumne County,CA,2021-03-03,3939,44
+Tuolumne County,CA,2021-03-10,3962,23
+Tuolumne County,CA,2021-03-17,3972,10
+Tuolumne County,CA,2021-03-24,3991,19
+Tuolumne County,CA,2021-03-31,4007,16
+Tuolumne County,CA,2021-04-07,4016,9
+Tuolumne County,CA,2021-04-14,4030,14
+Tuolumne County,CA,2021-04-21,4050,20
+Tuolumne County,CA,2021-04-28,4064,14
+Tuolumne County,CA,2021-05-05,4077,13
+Tuolumne County,CA,2021-05-12,4093,16
+Tuolumne County,CA,2021-05-19,4110,17
+Tuolumne County,CA,2021-05-26,4121,11
+Tuolumne County,CA,2021-06-02,4133,12
+Tuolumne County,CA,2021-06-09,4137,4
+Tuolumne County,CA,2021-06-16,4150,13
+Tuolumne County,CA,2021-06-23,4150,0
+Tuolumne County,CA,2021-06-30,4150,0
+Tuolumne County,CA,2021-07-07,4152,2
+Tuolumne County,CA,2021-07-14,4162,10
+Tuolumne County,CA,2021-07-21,4198,36
+Tuolumne County,CA,2021-07-28,4324,126
+Tuolumne County,CA,2021-08-04,4606,282
+Tuolumne County,CA,2021-08-11,4823,217
+Tuolumne County,CA,2021-08-18,5092,269
+Tuolumne County,CA,2021-08-25,5342,250
+Tuolumne County,CA,2021-09-01,5572,230
+Tuolumne County,CA,2021-09-08,5817,245
+Tuolumne County,CA,2021-09-15,6016,199
+Tuolumne County,CA,2021-09-22,6207,191
+Tuolumne County,CA,2021-09-29,6380,173
+Tuolumne County,CA,2021-10-06,6547,167
+Tuolumne County,CA,2021-10-13,6713,166
+Tuolumne County,CA,2021-10-20,6864,151
+Tuolumne County,CA,2021-10-27,7082,218
+Tuolumne County,CA,2021-11-03,7297,215
+Tuolumne County,CA,2021-11-10,7450,153
+Tuolumne County,CA,2021-11-17,7583,133
+Tuolumne County,CA,2021-11-24,7680,97
+Tuolumne County,CA,2021-12-01,7750,70
+Tuolumne County,CA,2021-12-08,7851,101
+Tuolumne County,CA,2021-12-15,7923,72
+Tuolumne County,CA,2021-12-22,8007,84
+Tuolumne County,CA,2021-12-29,8123,116
+Ventura County,CA,2021-01-06,48345,7955
+Ventura County,CA,2021-01-13,57422,9077
+Ventura County,CA,2021-01-20,64980,7558
+Ventura County,CA,2021-01-27,70010,5030
+Ventura County,CA,2021-02-03,74166,4156
+Ventura County,CA,2021-02-10,77013,2847
+Ventura County,CA,2021-02-17,78784,1771
+Ventura County,CA,2021-02-24,79878,1094
+Ventura County,CA,2021-03-03,80762,884
+Ventura County,CA,2021-03-10,81362,600
+Ventura County,CA,2021-03-17,81526,164
+Ventura County,CA,2021-03-24,81809,283
+Ventura County,CA,2021-03-31,82185,376
+Ventura County,CA,2021-04-07,82476,291
+Ventura County,CA,2021-04-14,82792,316
+Ventura County,CA,2021-04-21,82974,182
+Ventura County,CA,2021-04-28,83120,146
+Ventura County,CA,2021-05-05,83331,211
+Ventura County,CA,2021-05-12,83539,208
+Ventura County,CA,2021-05-19,83725,186
+Ventura County,CA,2021-05-26,83914,189
+Ventura County,CA,2021-06-02,84037,123
+Ventura County,CA,2021-06-09,84172,135
+Ventura County,CA,2021-06-16,84248,76
+Ventura County,CA,2021-06-23,84353,105
+Ventura County,CA,2021-06-30,84467,114
+Ventura County,CA,2021-07-07,84682,215
+Ventura County,CA,2021-07-14,85254,572
+Ventura County,CA,2021-07-21,85881,627
+Ventura County,CA,2021-07-28,86680,799
+Ventura County,CA,2021-08-04,87866,1186
+Ventura County,CA,2021-08-11,89414,1548
+Ventura County,CA,2021-08-18,91433,2019
+Ventura County,CA,2021-08-25,93092,1659
+Ventura County,CA,2021-09-01,94278,1186
+Ventura County,CA,2021-09-08,95289,1011
+Ventura County,CA,2021-09-15,96945,1656
+Ventura County,CA,2021-09-22,97973,1028
+Ventura County,CA,2021-09-29,98829,856
+Ventura County,CA,2021-10-06,99582,753
+Ventura County,CA,2021-10-13,100282,700
+Ventura County,CA,2021-10-20,100829,547
+Ventura County,CA,2021-10-27,101326,497
+Ventura County,CA,2021-11-03,101911,585
+Ventura County,CA,2021-11-10,102564,653
+Ventura County,CA,2021-11-17,103115,551
+Ventura County,CA,2021-11-24,103578,463
+Ventura County,CA,2021-12-01,104063,485
+Ventura County,CA,2021-12-08,105089,1026
+Ventura County,CA,2021-12-15,105922,833
+Ventura County,CA,2021-12-22,107407,1485
+Ventura County,CA,2021-12-29,111399,3992
+Alameda County,CA,2021-01-06,57658,5716
+Alameda County,CA,2021-01-13,64034,6376
+Alameda County,CA,2021-01-20,69938,5904
+Alameda County,CA,2021-01-27,73432,3494
+Alameda County,CA,2021-02-03,76282,2850
+Alameda County,CA,2021-02-10,78707,2425
+Alameda County,CA,2021-02-17,80475,1768
+Alameda County,CA,2021-02-24,81695,1220
+Alameda County,CA,2021-03-03,82670,975
+Alameda County,CA,2021-03-10,83393,723
+Alameda County,CA,2021-03-17,84048,655
+Alameda County,CA,2021-03-24,84611,563
+Alameda County,CA,2021-03-31,85226,615
+Alameda County,CA,2021-04-07,85949,723
+Alameda County,CA,2021-04-14,86802,853
+Alameda County,CA,2021-04-21,87557,755
+Alameda County,CA,2021-04-28,88226,669
+Alameda County,CA,2021-05-05,88844,618
+Alameda County,CA,2021-05-12,89377,533
+Alameda County,CA,2021-05-19,89794,417
+Alameda County,CA,2021-05-26,90223,429
+Alameda County,CA,2021-06-02,90469,246
+Alameda County,CA,2021-06-09,90739,270
+Alameda County,CA,2021-06-16,91022,283
+Alameda County,CA,2021-06-23,91328,306
+Alameda County,CA,2021-06-30,91671,343
+Alameda County,CA,2021-07-07,91979,308
+Alameda County,CA,2021-07-14,92987,1008
+Alameda County,CA,2021-07-21,94830,1843
+Alameda County,CA,2021-07-28,96935,2105
+Alameda County,CA,2021-08-04,99570,2635
+Alameda County,CA,2021-08-11,102112,2542
+Alameda County,CA,2021-08-18,104790,2678
+Alameda County,CA,2021-08-25,107866,3076
+Alameda County,CA,2021-09-01,111452,3586
+Alameda County,CA,2021-09-08,113203,1751
+Alameda County,CA,2021-09-15,115009,1806
+Alameda County,CA,2021-09-22,116473,1464
+Alameda County,CA,2021-09-29,117611,1138
+Alameda County,CA,2021-10-06,118747,1136
+Alameda County,CA,2021-10-13,119616,869
+Alameda County,CA,2021-10-20,120381,765
+Alameda County,CA,2021-10-27,121229,848
+Alameda County,CA,2021-11-03,122138,909
+Alameda County,CA,2021-11-10,122982,844
+Alameda County,CA,2021-11-17,123780,798
+Alameda County,CA,2021-11-24,124621,841
+Alameda County,CA,2021-12-01,125241,620
+Alameda County,CA,2021-12-08,126428,1187
+Alameda County,CA,2021-12-15,127440,1012
+Alameda County,CA,2021-12-22,129380,1940
+Alameda County,CA,2021-12-29,134359,4979
+Fresno County,CA,2021-01-06,76593,6615
+Fresno County,CA,2021-01-13,83873,7280
+Fresno County,CA,2021-01-20,89841,5968
+Fresno County,CA,2021-01-27,93589,3748
+Fresno County,CA,2021-02-03,96741,3152
+Fresno County,CA,2021-02-10,99139,2398
+Fresno County,CA,2021-02-17,100958,1819
+Fresno County,CA,2021-02-24,102488,1530
+Fresno County,CA,2021-03-03,103660,1172
+Fresno County,CA,2021-03-10,104758,1098
+Fresno County,CA,2021-03-17,105786,1028
+Fresno County,CA,2021-03-24,106622,836
+Fresno County,CA,2021-03-31,107514,892
+Fresno County,CA,2021-04-07,108244,730
+Fresno County,CA,2021-04-14,108856,612
+Fresno County,CA,2021-04-21,109322,466
+Fresno County,CA,2021-04-28,109756,434
+Fresno County,CA,2021-05-05,110133,377
+Fresno County,CA,2021-05-12,110515,382
+Fresno County,CA,2021-05-19,110820,305
+Fresno County,CA,2021-05-26,111111,291
+Fresno County,CA,2021-06-02,111332,221
+Fresno County,CA,2021-06-09,111333,1
+Fresno County,CA,2021-06-16,111333,0
+Fresno County,CA,2021-06-23,111333,0
+Fresno County,CA,2021-06-30,111333,0
+Fresno County,CA,2021-07-07,111545,212
+Fresno County,CA,2021-07-14,111912,367
+Fresno County,CA,2021-07-21,112546,634
+Fresno County,CA,2021-07-28,113491,945
+Fresno County,CA,2021-08-04,115114,1623
+Fresno County,CA,2021-08-11,117219,2105
+Fresno County,CA,2021-08-18,120181,2962
+Fresno County,CA,2021-08-25,123271,3090
+Fresno County,CA,2021-09-01,127707,4436
+Fresno County,CA,2021-09-08,131114,3407
+Fresno County,CA,2021-09-15,134287,3173
+Fresno County,CA,2021-09-22,137125,2838
+Fresno County,CA,2021-09-29,139356,2231
+Fresno County,CA,2021-10-06,141587,2231
+Fresno County,CA,2021-10-13,143653,2066
+Fresno County,CA,2021-10-20,145766,2113
+Fresno County,CA,2021-10-27,148348,2582
+Fresno County,CA,2021-11-03,150948,2600
+Fresno County,CA,2021-11-10,153074,2126
+Fresno County,CA,2021-11-17,154733,1659
+Fresno County,CA,2021-11-24,155987,1254
+Fresno County,CA,2021-12-01,157053,1066
+Fresno County,CA,2021-12-08,158449,1396
+Fresno County,CA,2021-12-15,159566,1117
+Fresno County,CA,2021-12-22,160598,1032
+Fresno County,CA,2021-12-29,162125,1527
+Humboldt County,CA,2021-01-06,1891,268
+Humboldt County,CA,2021-01-13,2084,193
+Humboldt County,CA,2021-01-20,2372,288
+Humboldt County,CA,2021-01-27,2629,257
+Humboldt County,CA,2021-02-03,2803,174
+Humboldt County,CA,2021-02-10,2923,120
+Humboldt County,CA,2021-02-17,3018,95
+Humboldt County,CA,2021-02-24,3130,112
+Humboldt County,CA,2021-03-03,3206,76
+Humboldt County,CA,2021-03-10,3310,104
+Humboldt County,CA,2021-03-17,3375,65
+Humboldt County,CA,2021-03-24,3429,54
+Humboldt County,CA,2021-03-31,3486,57
+Humboldt County,CA,2021-04-07,3502,16
+Humboldt County,CA,2021-04-14,3566,64
+Humboldt County,CA,2021-04-21,3642,76
+Humboldt County,CA,2021-04-28,3811,169
+Humboldt County,CA,2021-05-05,3909,98
+Humboldt County,CA,2021-05-12,3997,88
+Humboldt County,CA,2021-05-19,4166,169
+Humboldt County,CA,2021-05-26,4267,101
+Humboldt County,CA,2021-06-02,4337,70
+Humboldt County,CA,2021-06-09,4401,64
+Humboldt County,CA,2021-06-16,4454,53
+Humboldt County,CA,2021-06-23,4526,72
+Humboldt County,CA,2021-06-30,4568,42
+Humboldt County,CA,2021-07-07,4618,50
+Humboldt County,CA,2021-07-14,4690,72
+Humboldt County,CA,2021-07-21,4797,107
+Humboldt County,CA,2021-07-28,5000,203
+Humboldt County,CA,2021-08-04,5288,288
+Humboldt County,CA,2021-08-11,5822,534
+Humboldt County,CA,2021-08-18,6303,481
+Humboldt County,CA,2021-08-25,6793,490
+Humboldt County,CA,2021-09-01,7302,509
+Humboldt County,CA,2021-09-08,7734,432
+Humboldt County,CA,2021-09-15,8106,372
+Humboldt County,CA,2021-09-22,8372,266
+Humboldt County,CA,2021-09-29,8597,225
+Humboldt County,CA,2021-10-06,8859,262
+Humboldt County,CA,2021-10-13,9078,219
+Humboldt County,CA,2021-10-20,9240,162
+Humboldt County,CA,2021-10-27,9385,145
+Humboldt County,CA,2021-11-03,9521,136
+Humboldt County,CA,2021-11-10,9726,205
+Humboldt County,CA,2021-11-17,9900,174
+Humboldt County,CA,2021-11-24,10071,171
+Humboldt County,CA,2021-12-01,10234,163
+Humboldt County,CA,2021-12-08,10417,183
+Humboldt County,CA,2021-12-15,10584,167
+Humboldt County,CA,2021-12-22,10766,182
+Humboldt County,CA,2021-12-29,11052,286
+Inyo County,CA,2021-01-06,648,58
+Inyo County,CA,2021-01-13,794,146
+Inyo County,CA,2021-01-20,912,118
+Inyo County,CA,2021-01-27,1039,127
+Inyo County,CA,2021-02-03,1095,56
+Inyo County,CA,2021-02-10,1158,63
+Inyo County,CA,2021-02-17,1212,54
+Inyo County,CA,2021-02-24,1272,60
+Inyo County,CA,2021-03-03,1314,42
+Inyo County,CA,2021-03-10,1346,32
+Inyo County,CA,2021-03-17,1368,22
+Inyo County,CA,2021-03-24,1386,18
+Inyo County,CA,2021-03-31,1396,10
+Inyo County,CA,2021-04-07,1401,5
+Inyo County,CA,2021-04-14,1413,12
+Inyo County,CA,2021-04-21,1415,2
+Inyo County,CA,2021-04-28,1418,3
+Inyo County,CA,2021-05-05,1422,4
+Inyo County,CA,2021-05-12,1424,2
+Inyo County,CA,2021-05-19,1425,1
+Inyo County,CA,2021-05-26,1426,1
+Inyo County,CA,2021-06-02,1427,1
+Inyo County,CA,2021-06-09,1429,2
+Inyo County,CA,2021-06-16,1429,0
+Inyo County,CA,2021-06-23,1429,0
+Inyo County,CA,2021-06-30,1432,3
+Inyo County,CA,2021-07-07,1436,4
+Inyo County,CA,2021-07-14,1439,3
+Inyo County,CA,2021-07-21,1444,5
+Inyo County,CA,2021-07-28,1454,10
+Inyo County,CA,2021-08-04,1485,31
+Inyo County,CA,2021-08-11,1508,23
+Inyo County,CA,2021-08-18,1518,10
+Inyo County,CA,2021-08-25,1538,20
+Inyo County,CA,2021-09-01,1578,40
+Inyo County,CA,2021-09-08,1621,43
+Inyo County,CA,2021-09-15,1650,29
+Inyo County,CA,2021-09-22,1693,43
+Inyo County,CA,2021-09-29,1755,62
+Inyo County,CA,2021-10-06,1853,98
+Inyo County,CA,2021-10-13,1943,90
+Inyo County,CA,2021-10-20,2099,156
+Inyo County,CA,2021-10-27,2255,156
+Inyo County,CA,2021-11-03,2379,124
+Inyo County,CA,2021-11-10,2459,80
+Inyo County,CA,2021-11-17,2504,45
+Inyo County,CA,2021-11-24,2561,57
+Inyo County,CA,2021-12-01,2586,25
+Inyo County,CA,2021-12-08,2623,37
+Inyo County,CA,2021-12-15,2657,34
+Inyo County,CA,2021-12-22,2684,27
+Inyo County,CA,2021-12-29,2738,54
+Lake County,CA,2021-01-06,2017,211
+Lake County,CA,2021-01-13,2262,245
+Lake County,CA,2021-01-20,2627,365
+Lake County,CA,2021-01-27,2751,124
+Lake County,CA,2021-02-03,2860,109
+Lake County,CA,2021-02-10,2958,98
+Lake County,CA,2021-02-17,3045,87
+Lake County,CA,2021-02-24,3129,84
+Lake County,CA,2021-03-03,3177,48
+Lake County,CA,2021-03-10,3210,33
+Lake County,CA,2021-03-17,3256,46
+Lake County,CA,2021-03-24,3304,48
+Lake County,CA,2021-03-31,3340,36
+Lake County,CA,2021-04-07,3370,30
+Lake County,CA,2021-04-14,3401,31
+Lake County,CA,2021-04-21,3429,28
+Lake County,CA,2021-04-28,3442,13
+Lake County,CA,2021-05-05,3465,23
+Lake County,CA,2021-05-12,3484,19
+Lake County,CA,2021-05-19,3506,22
+Lake County,CA,2021-05-26,3519,13
+Lake County,CA,2021-06-02,3534,15
+Lake County,CA,2021-06-09,3551,17
+Lake County,CA,2021-06-16,3570,19
+Lake County,CA,2021-06-23,3579,9
+Lake County,CA,2021-06-30,3609,30
+Lake County,CA,2021-07-07,3674,65
+Lake County,CA,2021-07-14,3734,60
+Lake County,CA,2021-07-21,3887,153
+Lake County,CA,2021-07-28,4174,287
+Lake County,CA,2021-08-04,4427,253
+Lake County,CA,2021-08-11,4734,307
+Lake County,CA,2021-08-18,4970,236
+Lake County,CA,2021-08-25,5196,226
+Lake County,CA,2021-09-01,5445,249
+Lake County,CA,2021-09-08,5704,259
+Lake County,CA,2021-09-15,5968,264
+Lake County,CA,2021-09-22,6141,173
+Lake County,CA,2021-09-29,6285,144
+Lake County,CA,2021-10-06,6394,109
+Lake County,CA,2021-10-13,6510,116
+Lake County,CA,2021-10-20,6607,97
+Lake County,CA,2021-10-27,6726,119
+Lake County,CA,2021-11-03,6828,102
+Lake County,CA,2021-11-10,6894,66
+Lake County,CA,2021-11-17,6940,46
+Lake County,CA,2021-11-24,6988,48
+Lake County,CA,2021-12-01,7049,61
+Lake County,CA,2021-12-08,7087,38
+Lake County,CA,2021-12-15,7131,44
+Lake County,CA,2021-12-22,7178,47
+Lake County,CA,2021-12-29,7242,64
+Mariposa County,CA,2021-01-06,260,45
+Mariposa County,CA,2021-01-13,305,45
+Mariposa County,CA,2021-01-20,326,21
+Mariposa County,CA,2021-01-27,336,10
+Mariposa County,CA,2021-02-03,349,13
+Mariposa County,CA,2021-02-10,360,11
+Mariposa County,CA,2021-02-17,372,12
+Mariposa County,CA,2021-02-24,380,8
+Mariposa County,CA,2021-03-03,382,2
+Mariposa County,CA,2021-03-10,382,0
+Mariposa County,CA,2021-03-17,385,3
+Mariposa County,CA,2021-03-24,390,5
+Mariposa County,CA,2021-03-31,394,4
+Mariposa County,CA,2021-04-07,397,3
+Mariposa County,CA,2021-04-14,401,4
+Mariposa County,CA,2021-04-21,414,13
+Mariposa County,CA,2021-04-28,425,11
+Mariposa County,CA,2021-05-05,430,5
+Mariposa County,CA,2021-05-12,433,3
+Mariposa County,CA,2021-05-19,436,3
+Mariposa County,CA,2021-05-26,439,3
+Mariposa County,CA,2021-06-02,443,4
+Mariposa County,CA,2021-06-09,446,3
+Mariposa County,CA,2021-06-16,449,3
+Mariposa County,CA,2021-06-23,451,2
+Mariposa County,CA,2021-06-30,453,2
+Mariposa County,CA,2021-07-07,454,1
+Mariposa County,CA,2021-07-14,455,1
+Mariposa County,CA,2021-07-21,460,5
+Mariposa County,CA,2021-07-28,480,20
+Mariposa County,CA,2021-08-04,507,27
+Mariposa County,CA,2021-08-11,563,56
+Mariposa County,CA,2021-08-18,625,62
+Mariposa County,CA,2021-08-25,690,65
+Mariposa County,CA,2021-09-01,755,65
+Mariposa County,CA,2021-09-08,797,42
+Mariposa County,CA,2021-09-15,864,67
+Mariposa County,CA,2021-09-22,925,61
+Mariposa County,CA,2021-09-29,984,59
+Mariposa County,CA,2021-10-06,1065,81
+Mariposa County,CA,2021-10-13,1127,62
+Mariposa County,CA,2021-10-20,1211,84
+Mariposa County,CA,2021-10-27,1269,58
+Mariposa County,CA,2021-11-03,1317,48
+Mariposa County,CA,2021-11-10,1367,50
+Mariposa County,CA,2021-11-17,1406,39
+Mariposa County,CA,2021-11-24,1433,27
+Mariposa County,CA,2021-12-01,1472,39
+Mariposa County,CA,2021-12-08,1507,35
+Mariposa County,CA,2021-12-15,1524,17
+Mariposa County,CA,2021-12-22,1542,18
+Mariposa County,CA,2021-12-29,1562,20
+Merced County,CA,2021-01-06,20524,1700
+Merced County,CA,2021-01-13,22727,2203
+Merced County,CA,2021-01-20,24761,2034
+Merced County,CA,2021-01-27,26083,1322
+Merced County,CA,2021-02-03,27196,1113
+Merced County,CA,2021-02-10,27976,780
+Merced County,CA,2021-02-17,28572,596
+Merced County,CA,2021-02-24,29097,525
+Merced County,CA,2021-03-03,29505,408
+Merced County,CA,2021-03-10,29791,286
+Merced County,CA,2021-03-17,30123,332
+Merced County,CA,2021-03-24,30428,305
+Merced County,CA,2021-03-31,30686,258
+Merced County,CA,2021-04-07,31059,373
+Merced County,CA,2021-04-14,31249,190
+Merced County,CA,2021-04-21,31419,170
+Merced County,CA,2021-04-28,31605,186
+Merced County,CA,2021-05-05,31819,214
+Merced County,CA,2021-05-12,31884,65
+Merced County,CA,2021-05-19,32029,145
+Merced County,CA,2021-05-26,32127,98
+Merced County,CA,2021-06-02,32191,64
+Merced County,CA,2021-06-09,32226,35
+Merced County,CA,2021-06-16,32250,24
+Merced County,CA,2021-06-23,32255,5
+Merced County,CA,2021-06-30,32286,31
+Merced County,CA,2021-07-07,32327,41
+Merced County,CA,2021-07-14,32398,71
+Merced County,CA,2021-07-21,32618,220
+Merced County,CA,2021-07-28,32886,268
+Merced County,CA,2021-08-04,33288,402
+Merced County,CA,2021-08-11,33852,564
+Merced County,CA,2021-08-18,34692,840
+Merced County,CA,2021-08-25,35743,1051
+Merced County,CA,2021-09-01,36829,1086
+Merced County,CA,2021-09-08,37760,931
+Merced County,CA,2021-09-15,38842,1082
+Merced County,CA,2021-09-22,39672,830
+Merced County,CA,2021-09-29,40427,755
+Merced County,CA,2021-10-06,41157,730
+Merced County,CA,2021-10-13,41741,584
+Merced County,CA,2021-10-20,42314,573
+Merced County,CA,2021-10-27,43030,716
+Merced County,CA,2021-11-03,43610,580
+Merced County,CA,2021-11-10,44148,538
+Merced County,CA,2021-11-17,44504,356
+Merced County,CA,2021-11-24,44875,371
+Merced County,CA,2021-12-01,45193,318
+Merced County,CA,2021-12-08,45651,458
+Merced County,CA,2021-12-15,45960,309
+Merced County,CA,2021-12-22,46215,255
+Merced County,CA,2021-12-29,46593,378
+Mono County,CA,2021-01-06,908,28
+Mono County,CA,2021-01-13,1020,112
+Mono County,CA,2021-01-20,1119,99
+Mono County,CA,2021-01-27,1135,16
+Mono County,CA,2021-02-03,1162,27
+Mono County,CA,2021-02-10,1182,20
+Mono County,CA,2021-02-17,1195,13
+Mono County,CA,2021-02-24,1204,9
+Mono County,CA,2021-03-03,1207,3
+Mono County,CA,2021-03-10,1218,11
+Mono County,CA,2021-03-17,1222,4
+Mono County,CA,2021-03-24,1250,28
+Mono County,CA,2021-03-31,1260,10
+Mono County,CA,2021-04-07,1261,1
+Mono County,CA,2021-04-14,1266,5
+Mono County,CA,2021-04-21,1269,3
+Mono County,CA,2021-04-28,1273,4
+Mono County,CA,2021-05-05,1275,2
+Mono County,CA,2021-05-12,1280,5
+Mono County,CA,2021-05-19,1280,0
+Mono County,CA,2021-05-26,1289,9
+Mono County,CA,2021-06-02,1289,0
+Mono County,CA,2021-06-09,1289,0
+Mono County,CA,2021-06-16,1289,0
+Mono County,CA,2021-06-23,1289,0
+Mono County,CA,2021-06-30,1289,0
+Mono County,CA,2021-07-07,1290,1
+Mono County,CA,2021-07-14,1293,3
+Mono County,CA,2021-07-21,1297,4
+Mono County,CA,2021-07-28,1302,5
+Mono County,CA,2021-08-04,1319,17
+Mono County,CA,2021-08-11,1336,17
+Mono County,CA,2021-08-18,1357,21
+Mono County,CA,2021-08-25,1400,43
+Mono County,CA,2021-09-01,1414,14
+Mono County,CA,2021-09-08,1432,18
+Mono County,CA,2021-09-15,1456,24
+Mono County,CA,2021-09-22,1511,55
+Mono County,CA,2021-09-29,1545,34
+Mono County,CA,2021-10-06,1583,38
+Mono County,CA,2021-10-13,1626,43
+Mono County,CA,2021-10-20,1671,45
+Mono County,CA,2021-10-27,1700,29
+Mono County,CA,2021-11-03,1738,38
+Mono County,CA,2021-11-10,1759,21
+Mono County,CA,2021-11-17,1787,28
+Mono County,CA,2021-11-24,1830,43
+Mono County,CA,2021-12-01,1894,64
+Mono County,CA,2021-12-08,1942,48
+Mono County,CA,2021-12-15,1976,34
+Mono County,CA,2021-12-22,2000,24
+Mono County,CA,2021-12-29,2069,69
+Placer County,CA,2021-01-06,15440,1431
+Placer County,CA,2021-01-13,16915,1475
+Placer County,CA,2021-01-20,18238,1323
+Placer County,CA,2021-01-27,18993,755
+Placer County,CA,2021-02-03,19637,644
+Placer County,CA,2021-02-10,20070,433
+Placer County,CA,2021-02-17,20453,383
+Placer County,CA,2021-02-24,20718,265
+Placer County,CA,2021-03-03,20964,246
+Placer County,CA,2021-03-10,21291,327
+Placer County,CA,2021-03-17,21539,248
+Placer County,CA,2021-03-24,21793,254
+Placer County,CA,2021-03-31,22133,340
+Placer County,CA,2021-04-07,22512,379
+Placer County,CA,2021-04-14,22904,392
+Placer County,CA,2021-04-21,23247,343
+Placer County,CA,2021-04-28,23479,232
+Placer County,CA,2021-05-05,23776,297
+Placer County,CA,2021-05-12,24083,307
+Placer County,CA,2021-05-19,24231,148
+Placer County,CA,2021-05-26,24437,206
+Placer County,CA,2021-06-02,24548,111
+Placer County,CA,2021-06-09,24747,199
+Placer County,CA,2021-06-16,24941,194
+Placer County,CA,2021-06-23,25165,224
+Placer County,CA,2021-06-30,25331,166
+Placer County,CA,2021-07-07,25490,159
+Placer County,CA,2021-07-14,25763,273
+Placer County,CA,2021-07-21,26190,427
+Placer County,CA,2021-07-28,26807,617
+Placer County,CA,2021-08-04,27661,854
+Placer County,CA,2021-08-11,28773,1112
+Placer County,CA,2021-08-18,30071,1298
+Placer County,CA,2021-08-25,31259,1188
+Placer County,CA,2021-09-01,33583,2324
+Placer County,CA,2021-09-08,34724,1141
+Placer County,CA,2021-09-15,35875,1151
+Placer County,CA,2021-09-22,36858,983
+Placer County,CA,2021-09-29,37498,640
+Placer County,CA,2021-10-06,38159,661
+Placer County,CA,2021-10-13,38710,551
+Placer County,CA,2021-10-20,39224,514
+Placer County,CA,2021-10-27,39883,659
+Placer County,CA,2021-11-03,40520,637
+Placer County,CA,2021-11-10,41054,534
+Placer County,CA,2021-11-17,41491,437
+Placer County,CA,2021-11-24,41860,369
+Placer County,CA,2021-12-01,42246,386
+Placer County,CA,2021-12-08,42829,583
+Placer County,CA,2021-12-15,43239,410
+Placer County,CA,2021-12-22,43755,516
+Placer County,CA,2021-12-29,44774,1019
+Sacramento County,CA,2021-01-06,71447,5710
+Sacramento County,CA,2021-01-13,78091,6644
+Sacramento County,CA,2021-01-20,82166,4075
+Sacramento County,CA,2021-01-27,86123,3957
+Sacramento County,CA,2021-02-03,88231,2108
+Sacramento County,CA,2021-02-10,90553,2322
+Sacramento County,CA,2021-02-17,92445,1892
+Sacramento County,CA,2021-02-24,93880,1435
+Sacramento County,CA,2021-03-03,94981,1101
+Sacramento County,CA,2021-03-10,96053,1072
+Sacramento County,CA,2021-03-17,96890,837
+Sacramento County,CA,2021-03-24,97927,1037
+Sacramento County,CA,2021-03-31,99166,1239
+Sacramento County,CA,2021-04-07,100615,1449
+Sacramento County,CA,2021-04-14,102106,1491
+Sacramento County,CA,2021-04-21,103249,1143
+Sacramento County,CA,2021-04-28,104272,1023
+Sacramento County,CA,2021-05-05,105107,835
+Sacramento County,CA,2021-05-12,106253,1146
+Sacramento County,CA,2021-05-19,106855,602
+Sacramento County,CA,2021-05-26,107616,761
+Sacramento County,CA,2021-06-02,108140,524
+Sacramento County,CA,2021-06-09,108729,589
+Sacramento County,CA,2021-06-16,109216,487
+Sacramento County,CA,2021-06-23,109667,451
+Sacramento County,CA,2021-06-30,109959,292
+Sacramento County,CA,2021-07-07,110775,816
+Sacramento County,CA,2021-07-14,111989,1214
+Sacramento County,CA,2021-07-21,113951,1962
+Sacramento County,CA,2021-07-28,116658,2707
+Sacramento County,CA,2021-08-04,119929,3271
+Sacramento County,CA,2021-08-11,123620,3691
+Sacramento County,CA,2021-08-18,127838,4218
+Sacramento County,CA,2021-08-25,132488,4650
+Sacramento County,CA,2021-09-01,141081,8593
+Sacramento County,CA,2021-09-08,145802,4721
+Sacramento County,CA,2021-09-15,148724,2922
+Sacramento County,CA,2021-09-22,151262,2538
+Sacramento County,CA,2021-09-29,153327,2065
+Sacramento County,CA,2021-10-06,155260,1933
+Sacramento County,CA,2021-10-13,157245,1985
+Sacramento County,CA,2021-10-20,159014,1769
+Sacramento County,CA,2021-10-27,161230,2216
+Sacramento County,CA,2021-11-03,162808,1578
+Sacramento County,CA,2021-11-10,164656,1848
+Sacramento County,CA,2021-11-17,165990,1334
+Sacramento County,CA,2021-11-24,167279,1289
+Sacramento County,CA,2021-12-01,168454,1175
+Sacramento County,CA,2021-12-08,170298,1844
+Sacramento County,CA,2021-12-15,171881,1583
+Sacramento County,CA,2021-12-22,173877,1996
+Sacramento County,CA,2021-12-29,177386,3509
+San Joaquin County,CA,2021-01-06,50957,4583
+San Joaquin County,CA,2021-01-13,55857,4900
+San Joaquin County,CA,2021-01-20,60035,4178
+San Joaquin County,CA,2021-01-27,62375,2340
+San Joaquin County,CA,2021-02-03,64293,1918
+San Joaquin County,CA,2021-02-10,66002,1709
+San Joaquin County,CA,2021-02-17,67177,1175
+San Joaquin County,CA,2021-02-24,67929,752
+San Joaquin County,CA,2021-03-03,68606,677
+San Joaquin County,CA,2021-03-10,69298,692
+San Joaquin County,CA,2021-03-17,69867,569
+San Joaquin County,CA,2021-03-24,71012,1145
+San Joaquin County,CA,2021-03-31,71836,824
+San Joaquin County,CA,2021-04-07,72625,789
+San Joaquin County,CA,2021-04-14,73407,782
+San Joaquin County,CA,2021-04-21,74019,612
+San Joaquin County,CA,2021-04-28,74583,564
+San Joaquin County,CA,2021-05-05,75095,512
+San Joaquin County,CA,2021-05-12,75550,455
+San Joaquin County,CA,2021-05-19,75861,311
+San Joaquin County,CA,2021-05-26,76228,367
+San Joaquin County,CA,2021-06-02,76479,251
+San Joaquin County,CA,2021-06-09,76835,356
+San Joaquin County,CA,2021-06-16,77156,321
+San Joaquin County,CA,2021-06-23,77415,259
+San Joaquin County,CA,2021-06-30,77429,14
+San Joaquin County,CA,2021-07-07,77756,327
+San Joaquin County,CA,2021-07-14,78318,562
+San Joaquin County,CA,2021-07-21,79063,745
+San Joaquin County,CA,2021-07-28,80118,1055
+San Joaquin County,CA,2021-08-04,81697,1579
+San Joaquin County,CA,2021-08-11,83584,1887
+San Joaquin County,CA,2021-08-18,85660,2076
+San Joaquin County,CA,2021-08-25,88257,2597
+San Joaquin County,CA,2021-09-01,92083,3826
+San Joaquin County,CA,2021-09-08,94311,2228
+San Joaquin County,CA,2021-09-15,96067,1756
+San Joaquin County,CA,2021-09-22,97847,1780
+San Joaquin County,CA,2021-09-29,99354,1507
+San Joaquin County,CA,2021-10-06,100518,1164
+San Joaquin County,CA,2021-10-13,101565,1047
+San Joaquin County,CA,2021-10-20,102481,916
+San Joaquin County,CA,2021-10-27,103466,985
+San Joaquin County,CA,2021-11-03,104565,1099
+San Joaquin County,CA,2021-11-10,105389,824
+San Joaquin County,CA,2021-11-17,106244,855
+San Joaquin County,CA,2021-11-24,107032,788
+San Joaquin County,CA,2021-12-01,107681,649
+San Joaquin County,CA,2021-12-08,108535,854
+San Joaquin County,CA,2021-12-15,109281,746
+San Joaquin County,CA,2021-12-22,110108,827
+San Joaquin County,CA,2021-12-29,111630,1522
+San Mateo County,CA,2021-01-06,26643,2759
+San Mateo County,CA,2021-01-13,29949,3306
+San Mateo County,CA,2021-01-20,33007,3058
+San Mateo County,CA,2021-01-27,34770,1763
+San Mateo County,CA,2021-02-03,36370,1600
+San Mateo County,CA,2021-02-10,37613,1243
+San Mateo County,CA,2021-02-17,38434,821
+San Mateo County,CA,2021-02-24,39072,638
+San Mateo County,CA,2021-03-03,39561,489
+San Mateo County,CA,2021-03-10,39956,395
+San Mateo County,CA,2021-03-17,40233,277
+San Mateo County,CA,2021-03-24,40465,232
+San Mateo County,CA,2021-03-31,40812,347
+San Mateo County,CA,2021-04-07,41088,276
+San Mateo County,CA,2021-04-14,41401,313
+San Mateo County,CA,2021-04-21,41704,303
+San Mateo County,CA,2021-04-28,41933,229
+San Mateo County,CA,2021-05-05,42175,242
+San Mateo County,CA,2021-05-12,42454,279
+San Mateo County,CA,2021-05-19,42572,118
+San Mateo County,CA,2021-05-26,42745,173
+San Mateo County,CA,2021-06-02,42867,122
+San Mateo County,CA,2021-06-09,42968,101
+San Mateo County,CA,2021-06-16,43037,69
+San Mateo County,CA,2021-06-23,43037,0
+San Mateo County,CA,2021-06-30,43037,0
+San Mateo County,CA,2021-07-07,43400,363
+San Mateo County,CA,2021-07-14,43709,309
+San Mateo County,CA,2021-07-21,44226,517
+San Mateo County,CA,2021-07-28,44973,747
+San Mateo County,CA,2021-08-04,45941,968
+San Mateo County,CA,2021-08-11,46972,1031
+San Mateo County,CA,2021-08-18,48026,1054
+San Mateo County,CA,2021-08-25,49047,1021
+San Mateo County,CA,2021-09-01,50379,1332
+San Mateo County,CA,2021-09-08,51075,696
+San Mateo County,CA,2021-09-15,51821,746
+San Mateo County,CA,2021-09-22,52423,602
+San Mateo County,CA,2021-09-29,52971,548
+San Mateo County,CA,2021-10-06,53409,438
+San Mateo County,CA,2021-10-13,53749,340
+San Mateo County,CA,2021-10-20,54079,330
+San Mateo County,CA,2021-10-27,54505,426
+San Mateo County,CA,2021-11-03,54934,429
+San Mateo County,CA,2021-11-10,55334,400
+San Mateo County,CA,2021-11-17,55734,400
+San Mateo County,CA,2021-11-24,56118,384
+San Mateo County,CA,2021-12-01,56468,350
+San Mateo County,CA,2021-12-08,57076,608
+San Mateo County,CA,2021-12-15,57588,512
+San Mateo County,CA,2021-12-22,58663,1075
+San Mateo County,CA,2021-12-29,62274,3611
+Santa Cruz County,CA,2021-01-06,10210,1345
+Santa Cruz County,CA,2021-01-13,11833,1623
+Santa Cruz County,CA,2021-01-20,13054,1221
+Santa Cruz County,CA,2021-01-27,13742,688
+Santa Cruz County,CA,2021-02-03,14304,562
+Santa Cruz County,CA,2021-02-10,14726,422
+Santa Cruz County,CA,2021-02-17,15045,319
+Santa Cruz County,CA,2021-02-24,15231,186
+Santa Cruz County,CA,2021-03-03,15416,185
+Santa Cruz County,CA,2021-03-10,15572,156
+Santa Cruz County,CA,2021-03-17,15743,171
+Santa Cruz County,CA,2021-03-24,15924,181
+Santa Cruz County,CA,2021-03-31,16028,104
+Santa Cruz County,CA,2021-04-07,16075,47
+Santa Cruz County,CA,2021-04-14,16273,198
+Santa Cruz County,CA,2021-04-21,16472,199
+Santa Cruz County,CA,2021-04-28,16733,261
+Santa Cruz County,CA,2021-05-05,16836,103
+Santa Cruz County,CA,2021-05-12,16945,109
+Santa Cruz County,CA,2021-05-19,16951,6
+Santa Cruz County,CA,2021-05-26,16961,10
+Santa Cruz County,CA,2021-06-02,16975,14
+Santa Cruz County,CA,2021-06-09,16993,18
+Santa Cruz County,CA,2021-06-16,17013,20
+Santa Cruz County,CA,2021-06-23,17052,39
+Santa Cruz County,CA,2021-06-30,17085,33
+Santa Cruz County,CA,2021-07-07,17111,26
+Santa Cruz County,CA,2021-07-14,17155,44
+Santa Cruz County,CA,2021-07-21,17242,87
+Santa Cruz County,CA,2021-07-28,17370,128
+Santa Cruz County,CA,2021-08-04,17643,273
+Santa Cruz County,CA,2021-08-11,18031,388
+Santa Cruz County,CA,2021-08-18,18446,415
+Santa Cruz County,CA,2021-08-25,18874,428
+Santa Cruz County,CA,2021-09-01,19389,515
+Santa Cruz County,CA,2021-09-08,19656,267
+Santa Cruz County,CA,2021-09-15,19957,301
+Santa Cruz County,CA,2021-09-22,20136,179
+Santa Cruz County,CA,2021-09-29,20325,189
+Santa Cruz County,CA,2021-10-06,20593,268
+Santa Cruz County,CA,2021-10-13,20774,181
+Santa Cruz County,CA,2021-10-20,20918,144
+Santa Cruz County,CA,2021-10-27,21096,178
+Santa Cruz County,CA,2021-11-03,21302,206
+Santa Cruz County,CA,2021-11-10,21504,202
+Santa Cruz County,CA,2021-11-17,21733,229
+Santa Cruz County,CA,2021-11-24,21987,254
+Santa Cruz County,CA,2021-12-01,22234,247
+Santa Cruz County,CA,2021-12-08,22569,335
+Santa Cruz County,CA,2021-12-15,22823,254
+Santa Cruz County,CA,2021-12-22,23141,318
+Santa Cruz County,CA,2021-12-29,23694,553
+Solano County,CA,2021-01-06,21100,2482
+Solano County,CA,2021-01-13,23424,2324
+Solano County,CA,2021-01-20,25811,2387
+Solano County,CA,2021-01-27,27167,1356
+Solano County,CA,2021-02-03,28292,1125
+Solano County,CA,2021-02-10,29107,815
+Solano County,CA,2021-02-17,29595,488
+Solano County,CA,2021-02-24,29901,306
+Solano County,CA,2021-03-03,30198,297
+Solano County,CA,2021-03-10,30470,272
+Solano County,CA,2021-03-17,30689,219
+Solano County,CA,2021-03-24,30931,242
+Solano County,CA,2021-03-31,31218,287
+Solano County,CA,2021-04-07,31509,291
+Solano County,CA,2021-04-14,31784,275
+Solano County,CA,2021-04-21,32146,362
+Solano County,CA,2021-04-28,32462,316
+Solano County,CA,2021-05-05,32744,282
+Solano County,CA,2021-05-12,33044,300
+Solano County,CA,2021-05-19,33198,154
+Solano County,CA,2021-05-26,33375,177
+Solano County,CA,2021-06-02,33535,160
+Solano County,CA,2021-06-09,33694,159
+Solano County,CA,2021-06-16,33832,138
+Solano County,CA,2021-06-23,33970,138
+Solano County,CA,2021-06-30,34020,50
+Solano County,CA,2021-07-07,34212,192
+Solano County,CA,2021-07-14,34552,340
+Solano County,CA,2021-07-21,35014,462
+Solano County,CA,2021-07-28,35813,799
+Solano County,CA,2021-08-04,36742,929
+Solano County,CA,2021-08-11,37606,864
+Solano County,CA,2021-08-18,38579,973
+Solano County,CA,2021-08-25,39716,1137
+Solano County,CA,2021-09-01,42104,2388
+Solano County,CA,2021-09-08,42930,826
+Solano County,CA,2021-09-15,43697,767
+Solano County,CA,2021-09-22,44351,654
+Solano County,CA,2021-09-29,44798,447
+Solano County,CA,2021-10-06,45320,522
+Solano County,CA,2021-10-13,45699,379
+Solano County,CA,2021-10-20,45985,286
+Solano County,CA,2021-10-27,46265,280
+Solano County,CA,2021-11-03,46616,351
+Solano County,CA,2021-11-10,46896,280
+Solano County,CA,2021-11-17,47187,291
+Solano County,CA,2021-11-24,47459,272
+Solano County,CA,2021-12-01,47744,285
+Solano County,CA,2021-12-08,48135,391
+Solano County,CA,2021-12-15,48410,275
+Solano County,CA,2021-12-22,48859,449
+Solano County,CA,2021-12-29,49850,991
+Trinity County,CA,2021-01-06,303,8
+Trinity County,CA,2021-01-13,317,14
+Trinity County,CA,2021-01-20,320,3
+Trinity County,CA,2021-01-27,320,0
+Trinity County,CA,2021-02-03,320,0
+Trinity County,CA,2021-02-10,330,10
+Trinity County,CA,2021-02-17,340,10
+Trinity County,CA,2021-02-24,363,23
+Trinity County,CA,2021-03-03,375,12
+Trinity County,CA,2021-03-10,378,3
+Trinity County,CA,2021-03-17,385,7
+Trinity County,CA,2021-03-24,388,3
+Trinity County,CA,2021-03-31,395,7
+Trinity County,CA,2021-04-07,400,5
+Trinity County,CA,2021-04-14,405,5
+Trinity County,CA,2021-04-21,406,1
+Trinity County,CA,2021-04-28,406,0
+Trinity County,CA,2021-05-05,407,1
+Trinity County,CA,2021-05-12,410,3
+Trinity County,CA,2021-05-19,414,4
+Trinity County,CA,2021-05-26,416,2
+Trinity County,CA,2021-06-02,417,1
+Trinity County,CA,2021-06-09,420,3
+Trinity County,CA,2021-06-16,423,3
+Trinity County,CA,2021-06-23,429,6
+Trinity County,CA,2021-06-30,434,5
+Trinity County,CA,2021-07-07,435,1
+Trinity County,CA,2021-07-14,440,5
+Trinity County,CA,2021-07-21,446,6
+Trinity County,CA,2021-07-28,459,13
+Trinity County,CA,2021-08-04,473,14
+Trinity County,CA,2021-08-11,506,33
+Trinity County,CA,2021-08-18,531,25
+Trinity County,CA,2021-08-25,587,56
+Trinity County,CA,2021-09-01,641,54
+Trinity County,CA,2021-09-08,691,50
+Trinity County,CA,2021-09-15,722,31
+Trinity County,CA,2021-09-22,764,42
+Trinity County,CA,2021-09-29,809,45
+Trinity County,CA,2021-10-06,854,45
+Trinity County,CA,2021-10-13,877,23
+Trinity County,CA,2021-10-20,894,17
+Trinity County,CA,2021-10-27,913,19
+Trinity County,CA,2021-11-03,939,26
+Trinity County,CA,2021-11-10,958,19
+Trinity County,CA,2021-11-17,980,22
+Trinity County,CA,2021-11-24,1010,30
+Trinity County,CA,2021-12-01,1020,10
+Trinity County,CA,2021-12-08,1040,20
+Trinity County,CA,2021-12-15,1043,3
+Trinity County,CA,2021-12-22,1048,5
+Trinity County,CA,2021-12-29,1054,6
+Tulare County,CA,2021-01-06,40188,3725
+Tulare County,CA,2021-01-13,44161,3973
+Tulare County,CA,2021-01-20,47641,3480
+Tulare County,CA,2021-01-27,50074,2433
+Tulare County,CA,2021-02-03,51861,1787
+Tulare County,CA,2021-02-10,53250,1389
+Tulare County,CA,2021-02-17,54275,1025
+Tulare County,CA,2021-02-24,54993,718
+Tulare County,CA,2021-03-03,55593,600
+Tulare County,CA,2021-03-10,56087,494
+Tulare County,CA,2021-03-17,56448,361
+Tulare County,CA,2021-03-24,56754,306
+Tulare County,CA,2021-03-31,56984,230
+Tulare County,CA,2021-04-07,57167,183
+Tulare County,CA,2021-04-14,57361,194
+Tulare County,CA,2021-04-21,57533,172
+Tulare County,CA,2021-04-28,57698,165
+Tulare County,CA,2021-05-05,57887,189
+Tulare County,CA,2021-05-12,58061,174
+Tulare County,CA,2021-05-19,58279,218
+Tulare County,CA,2021-05-26,58491,212
+Tulare County,CA,2021-06-02,58633,142
+Tulare County,CA,2021-06-09,58718,85
+Tulare County,CA,2021-06-16,58817,99
+Tulare County,CA,2021-06-23,58995,178
+Tulare County,CA,2021-06-30,59066,71
+Tulare County,CA,2021-07-07,59184,118
+Tulare County,CA,2021-07-14,59321,137
+Tulare County,CA,2021-07-21,59587,266
+Tulare County,CA,2021-07-28,60048,461
+Tulare County,CA,2021-08-04,60799,751
+Tulare County,CA,2021-08-11,61818,1019
+Tulare County,CA,2021-08-18,63190,1372
+Tulare County,CA,2021-08-25,64977,1787
+Tulare County,CA,2021-09-01,67300,2323
+Tulare County,CA,2021-09-08,69344,2044
+Tulare County,CA,2021-09-15,71489,2145
+Tulare County,CA,2021-09-22,73579,2090
+Tulare County,CA,2021-09-29,75315,1736
+Tulare County,CA,2021-10-06,76873,1558
+Tulare County,CA,2021-10-13,78317,1444
+Tulare County,CA,2021-10-20,79721,1404
+Tulare County,CA,2021-10-27,81379,1658
+Tulare County,CA,2021-11-03,82813,1434
+Tulare County,CA,2021-11-10,83895,1082
+Tulare County,CA,2021-11-17,84756,861
+Tulare County,CA,2021-11-24,85485,729
+Tulare County,CA,2021-12-01,86223,738
+Tulare County,CA,2021-12-08,87020,797
+Tulare County,CA,2021-12-15,87598,578
+Tulare County,CA,2021-12-22,88216,618
+Tulare County,CA,2021-12-29,89150,934
+Unallocated California,CA,2021-01-06,0,0
+Unallocated California,CA,2021-01-13,0,0
+Unallocated California,CA,2021-01-20,0,0
+Unallocated California,CA,2021-01-27,0,0
+Unallocated California,CA,2021-02-03,0,0
+Unallocated California,CA,2021-02-10,0,0
+Unallocated California,CA,2021-02-17,0,0
+Unallocated California,CA,2021-02-24,0,0
+Unallocated California,CA,2021-03-03,0,0
+Unallocated California,CA,2021-03-10,0,0
+Unallocated California,CA,2021-03-17,0,0
+Unallocated California,CA,2021-03-24,0,0
+Unallocated California,CA,2021-03-31,0,0
+Unallocated California,CA,2021-04-07,59,59
+Unallocated California,CA,2021-04-14,66,7
+Unallocated California,CA,2021-04-21,47,-19
+Unallocated California,CA,2021-04-28,53,6
+Unallocated California,CA,2021-05-05,44,-9
+Unallocated California,CA,2021-05-12,37,-7
+Unallocated California,CA,2021-05-19,29,-8
+Unallocated California,CA,2021-05-26,30,1
+Unallocated California,CA,2021-06-02,34,4
+Unallocated California,CA,2021-06-09,38,4
+Unallocated California,CA,2021-06-16,33,-5
+Unallocated California,CA,2021-06-23,34,1
+Unallocated California,CA,2021-06-30,35,1
+Unallocated California,CA,2021-07-07,37,2
+Unallocated California,CA,2021-07-14,26,-11
+Unallocated California,CA,2021-07-21,25,-1
+Unallocated California,CA,2021-07-28,53,28
+Unallocated California,CA,2021-08-04,81,28
+Unallocated California,CA,2021-08-11,80,-1
+Unallocated California,CA,2021-08-18,73,-7
+Unallocated California,CA,2021-08-25,258,185
+Unallocated California,CA,2021-09-01,223,-35
+Unallocated California,CA,2021-09-08,203,-20
+Unallocated California,CA,2021-09-15,103,-100
+Unallocated California,CA,2021-09-22,114,11
+Unallocated California,CA,2021-09-29,95,-19
+Unallocated California,CA,2021-10-06,108,13
+Unallocated California,CA,2021-10-13,102,-6
+Unallocated California,CA,2021-10-20,226,124
+Unallocated California,CA,2021-10-27,175,-51
+Unallocated California,CA,2021-11-03,164,-11
+Unallocated California,CA,2021-11-10,98,-66
+Unallocated California,CA,2021-11-17,113,15
+Unallocated California,CA,2021-11-24,243,130
+Unallocated California,CA,2021-12-01,81,-162
+Unallocated California,CA,2021-12-08,84,3
+Unallocated California,CA,2021-12-15,295,211
+Unallocated California,CA,2021-12-22,327,32
+Unallocated California,CA,2021-12-29,17712,17385
+Calaveras County,CA,2021-01-06,1298,185
+Calaveras County,CA,2021-01-13,1482,184
+Calaveras County,CA,2021-01-20,1629,147
+Calaveras County,CA,2021-01-27,1733,104
+Calaveras County,CA,2021-02-03,1797,64
+Calaveras County,CA,2021-02-10,1859,62
+Calaveras County,CA,2021-02-17,1868,9
+Calaveras County,CA,2021-02-24,1875,7
+Calaveras County,CA,2021-03-03,1902,27
+Calaveras County,CA,2021-03-10,1925,23
+Calaveras County,CA,2021-03-17,1957,32
+Calaveras County,CA,2021-03-24,1983,26
+Calaveras County,CA,2021-03-31,2010,27
+Calaveras County,CA,2021-04-07,2033,23
+Calaveras County,CA,2021-04-14,2048,15
+Calaveras County,CA,2021-04-21,2065,17
+Calaveras County,CA,2021-04-28,2089,24
+Calaveras County,CA,2021-05-05,2114,25
+Calaveras County,CA,2021-05-12,2132,18
+Calaveras County,CA,2021-05-19,2145,13
+Calaveras County,CA,2021-05-26,2162,17
+Calaveras County,CA,2021-06-02,2187,25
+Calaveras County,CA,2021-06-09,2195,8
+Calaveras County,CA,2021-06-16,2202,7
+Calaveras County,CA,2021-06-23,2212,10
+Calaveras County,CA,2021-06-30,2212,0
+Calaveras County,CA,2021-07-07,2225,13
+Calaveras County,CA,2021-07-14,2246,21
+Calaveras County,CA,2021-07-21,2265,19
+Calaveras County,CA,2021-07-28,2296,31
+Calaveras County,CA,2021-08-04,2372,76
+Calaveras County,CA,2021-08-11,2507,135
+Calaveras County,CA,2021-08-18,2643,136
+Calaveras County,CA,2021-08-25,2831,188
+Calaveras County,CA,2021-09-01,3028,197
+Calaveras County,CA,2021-09-08,3161,133
+Calaveras County,CA,2021-09-15,3310,149
+Calaveras County,CA,2021-09-22,3478,168
+Calaveras County,CA,2021-09-29,3573,95
+Calaveras County,CA,2021-10-06,3701,128
+Calaveras County,CA,2021-10-13,3794,93
+Calaveras County,CA,2021-10-20,3874,80
+Calaveras County,CA,2021-10-27,4019,145
+Calaveras County,CA,2021-11-03,4131,112
+Calaveras County,CA,2021-11-10,4235,104
+Calaveras County,CA,2021-11-17,4310,75
+Calaveras County,CA,2021-11-24,4356,46
+Calaveras County,CA,2021-12-01,4423,67
+Calaveras County,CA,2021-12-08,4510,87
+Calaveras County,CA,2021-12-15,4584,74
+Calaveras County,CA,2021-12-22,4643,59
+Calaveras County,CA,2021-12-29,4711,68
+Del Norte County,CA,2021-01-06,772,46
+Del Norte County,CA,2021-01-13,818,46
+Del Norte County,CA,2021-01-20,846,28
+Del Norte County,CA,2021-01-27,860,14
+Del Norte County,CA,2021-02-03,872,12
+Del Norte County,CA,2021-02-10,890,18
+Del Norte County,CA,2021-02-17,917,27
+Del Norte County,CA,2021-02-24,957,40
+Del Norte County,CA,2021-03-03,988,31
+Del Norte County,CA,2021-03-10,1022,34
+Del Norte County,CA,2021-03-17,1053,31
+Del Norte County,CA,2021-03-24,1089,36
+Del Norte County,CA,2021-03-31,1128,39
+Del Norte County,CA,2021-04-07,1208,80
+Del Norte County,CA,2021-04-14,1232,24
+Del Norte County,CA,2021-04-21,1261,29
+Del Norte County,CA,2021-04-28,1277,16
+Del Norte County,CA,2021-05-05,1326,49
+Del Norte County,CA,2021-05-12,1359,33
+Del Norte County,CA,2021-05-19,1383,24
+Del Norte County,CA,2021-05-26,1397,14
+Del Norte County,CA,2021-06-02,1407,10
+Del Norte County,CA,2021-06-09,1416,9
+Del Norte County,CA,2021-06-16,1426,10
+Del Norte County,CA,2021-06-23,1431,5
+Del Norte County,CA,2021-06-30,1450,19
+Del Norte County,CA,2021-07-07,1460,10
+Del Norte County,CA,2021-07-14,1486,26
+Del Norte County,CA,2021-07-21,1505,19
+Del Norte County,CA,2021-07-28,1553,48
+Del Norte County,CA,2021-08-04,1706,153
+Del Norte County,CA,2021-08-11,1887,181
+Del Norte County,CA,2021-08-18,2205,318
+Del Norte County,CA,2021-08-25,2560,355
+Del Norte County,CA,2021-09-01,2849,289
+Del Norte County,CA,2021-09-08,3102,253
+Del Norte County,CA,2021-09-15,3274,172
+Del Norte County,CA,2021-09-22,3409,135
+Del Norte County,CA,2021-09-29,3502,93
+Del Norte County,CA,2021-10-06,3530,28
+Del Norte County,CA,2021-10-13,3564,34
+Del Norte County,CA,2021-10-20,3584,20
+Del Norte County,CA,2021-10-27,3617,33
+Del Norte County,CA,2021-11-03,3651,34
+Del Norte County,CA,2021-11-10,3676,25
+Del Norte County,CA,2021-11-17,3687,11
+Del Norte County,CA,2021-11-24,3718,31
+Del Norte County,CA,2021-12-01,3775,57
+Del Norte County,CA,2021-12-08,3823,48
+Del Norte County,CA,2021-12-15,3845,22
+Del Norte County,CA,2021-12-22,3851,6
+Del Norte County,CA,2021-12-29,3875,24
+Kern County,CA,2021-01-06,74538,6171
+Kern County,CA,2021-01-13,82411,7873
+Kern County,CA,2021-01-20,87948,5537
+Kern County,CA,2021-01-27,92218,4270
+Kern County,CA,2021-02-03,95341,3123
+Kern County,CA,2021-02-10,97963,2622
+Kern County,CA,2021-02-17,99837,1874
+Kern County,CA,2021-02-24,101199,1362
+Kern County,CA,2021-03-03,102269,1070
+Kern County,CA,2021-03-10,103027,758
+Kern County,CA,2021-03-17,103570,543
+Kern County,CA,2021-03-24,104043,473
+Kern County,CA,2021-03-31,104539,496
+Kern County,CA,2021-04-07,104905,366
+Kern County,CA,2021-04-14,105452,547
+Kern County,CA,2021-04-21,105838,386
+Kern County,CA,2021-04-28,106158,320
+Kern County,CA,2021-05-05,106472,314
+Kern County,CA,2021-05-12,106779,307
+Kern County,CA,2021-05-19,107070,291
+Kern County,CA,2021-05-26,107317,247
+Kern County,CA,2021-06-02,107537,220
+Kern County,CA,2021-06-09,107782,245
+Kern County,CA,2021-06-16,107944,162
+Kern County,CA,2021-06-23,108227,283
+Kern County,CA,2021-06-30,108516,289
+Kern County,CA,2021-07-07,108836,320
+Kern County,CA,2021-07-14,109154,318
+Kern County,CA,2021-07-21,109783,629
+Kern County,CA,2021-07-28,110720,937
+Kern County,CA,2021-08-04,112162,1442
+Kern County,CA,2021-08-11,114297,2135
+Kern County,CA,2021-08-18,116813,2516
+Kern County,CA,2021-08-25,120091,3278
+Kern County,CA,2021-09-01,123902,3811
+Kern County,CA,2021-09-08,127485,3583
+Kern County,CA,2021-09-15,131041,3556
+Kern County,CA,2021-09-22,134018,2977
+Kern County,CA,2021-09-29,136565,2547
+Kern County,CA,2021-10-06,139046,2481
+Kern County,CA,2021-10-13,141143,2097
+Kern County,CA,2021-10-20,143363,2220
+Kern County,CA,2021-10-27,146101,2738
+Kern County,CA,2021-11-03,148790,2689
+Kern County,CA,2021-11-10,150941,2151
+Kern County,CA,2021-11-17,152567,1626
+Kern County,CA,2021-11-24,154001,1434
+Kern County,CA,2021-12-01,155484,1483
+Kern County,CA,2021-12-08,156926,1442
+Kern County,CA,2021-12-15,158142,1216
+Kern County,CA,2021-12-22,159320,1178
+Kern County,CA,2021-12-29,161310,1990
+Modoc County,CA,2021-01-06,334,25
+Modoc County,CA,2021-01-13,358,24
+Modoc County,CA,2021-01-20,373,15
+Modoc County,CA,2021-01-27,388,15
+Modoc County,CA,2021-02-03,413,25
+Modoc County,CA,2021-02-10,429,16
+Modoc County,CA,2021-02-17,439,10
+Modoc County,CA,2021-02-24,443,4
+Modoc County,CA,2021-03-03,449,6
+Modoc County,CA,2021-03-10,456,7
+Modoc County,CA,2021-03-17,461,5
+Modoc County,CA,2021-03-24,462,1
+Modoc County,CA,2021-03-31,466,4
+Modoc County,CA,2021-04-07,471,5
+Modoc County,CA,2021-04-14,477,6
+Modoc County,CA,2021-04-21,481,4
+Modoc County,CA,2021-04-28,482,1
+Modoc County,CA,2021-05-05,482,0
+Modoc County,CA,2021-05-12,487,5
+Modoc County,CA,2021-05-19,490,3
+Modoc County,CA,2021-05-26,498,8
+Modoc County,CA,2021-06-02,507,9
+Modoc County,CA,2021-06-09,516,9
+Modoc County,CA,2021-06-16,529,13
+Modoc County,CA,2021-06-23,552,23
+Modoc County,CA,2021-06-30,559,7
+Modoc County,CA,2021-07-07,559,0
+Modoc County,CA,2021-07-14,560,1
+Modoc County,CA,2021-07-21,562,2
+Modoc County,CA,2021-07-28,562,0
+Modoc County,CA,2021-08-04,565,3
+Modoc County,CA,2021-08-11,571,6
+Modoc County,CA,2021-08-18,576,5
+Modoc County,CA,2021-08-25,588,12
+Modoc County,CA,2021-09-01,594,6
+Modoc County,CA,2021-09-08,608,14
+Modoc County,CA,2021-09-15,614,6
+Modoc County,CA,2021-09-22,624,10
+Modoc County,CA,2021-09-29,637,13
+Modoc County,CA,2021-10-06,647,10
+Modoc County,CA,2021-10-13,665,18
+Modoc County,CA,2021-10-20,687,22
+Modoc County,CA,2021-10-27,700,13
+Modoc County,CA,2021-11-03,715,15
+Modoc County,CA,2021-11-10,735,20
+Modoc County,CA,2021-11-17,741,6
+Modoc County,CA,2021-11-24,754,13
+Modoc County,CA,2021-12-01,779,25
+Modoc County,CA,2021-12-08,797,18
+Modoc County,CA,2021-12-15,800,3
+Modoc County,CA,2021-12-22,803,3
+Modoc County,CA,2021-12-29,811,8
+Monterey County,CA,2021-01-06,30910,3287
+Monterey County,CA,2021-01-13,34454,3544
+Monterey County,CA,2021-01-20,37099,2645
+Monterey County,CA,2021-01-27,39340,2241
+Monterey County,CA,2021-02-03,40867,1527
+Monterey County,CA,2021-02-10,41883,1016
+Monterey County,CA,2021-02-17,42626,743
+Monterey County,CA,2021-02-24,43156,530
+Monterey County,CA,2021-03-03,43449,293
+Monterey County,CA,2021-03-10,43642,193
+Monterey County,CA,2021-03-17,43804,162
+Monterey County,CA,2021-03-24,43972,168
+Monterey County,CA,2021-03-31,44123,151
+Monterey County,CA,2021-04-07,44244,121
+Monterey County,CA,2021-04-14,44431,187
+Monterey County,CA,2021-04-21,44533,102
+Monterey County,CA,2021-04-28,44633,100
+Monterey County,CA,2021-05-05,44734,101
+Monterey County,CA,2021-05-12,44835,101
+Monterey County,CA,2021-05-19,44876,41
+Monterey County,CA,2021-05-26,44918,42
+Monterey County,CA,2021-06-02,44959,41
+Monterey County,CA,2021-06-09,44987,28
+Monterey County,CA,2021-06-16,45028,41
+Monterey County,CA,2021-06-23,45073,45
+Monterey County,CA,2021-06-30,45115,42
+Monterey County,CA,2021-07-07,45156,41
+Monterey County,CA,2021-07-14,45284,128
+Monterey County,CA,2021-07-21,45458,174
+Monterey County,CA,2021-07-28,45665,207
+Monterey County,CA,2021-08-04,45968,303
+Monterey County,CA,2021-08-11,46485,517
+Monterey County,CA,2021-08-18,47056,571
+Monterey County,CA,2021-08-25,47661,605
+Monterey County,CA,2021-09-01,48269,608
+Monterey County,CA,2021-09-08,48801,532
+Monterey County,CA,2021-09-15,49262,461
+Monterey County,CA,2021-09-22,49728,466
+Monterey County,CA,2021-09-29,50108,380
+Monterey County,CA,2021-10-06,50431,323
+Monterey County,CA,2021-10-13,50653,222
+Monterey County,CA,2021-10-20,50883,230
+Monterey County,CA,2021-10-27,51139,256
+Monterey County,CA,2021-11-03,51470,331
+Monterey County,CA,2021-11-10,51816,346
+Monterey County,CA,2021-11-17,52166,350
+Monterey County,CA,2021-11-24,52454,288
+Monterey County,CA,2021-12-01,52759,305
+Monterey County,CA,2021-12-08,53225,466
+Monterey County,CA,2021-12-15,53736,511
+Monterey County,CA,2021-12-22,54301,565
+Monterey County,CA,2021-12-29,55286,985
+Napa County,CA,2021-01-06,6290,601
+Napa County,CA,2021-01-13,6967,677
+Napa County,CA,2021-01-20,7703,736
+Napa County,CA,2021-01-27,8178,475
+Napa County,CA,2021-02-03,8538,360
+Napa County,CA,2021-02-10,8782,244
+Napa County,CA,2021-02-17,8887,105
+Napa County,CA,2021-02-24,9000,113
+Napa County,CA,2021-03-03,9114,114
+Napa County,CA,2021-03-10,9189,75
+Napa County,CA,2021-03-17,9243,54
+Napa County,CA,2021-03-24,9333,90
+Napa County,CA,2021-03-31,9425,92
+Napa County,CA,2021-04-07,9543,118
+Napa County,CA,2021-04-14,9661,118
+Napa County,CA,2021-04-21,9745,84
+Napa County,CA,2021-04-28,9808,63
+Napa County,CA,2021-05-05,9860,52
+Napa County,CA,2021-05-12,9906,46
+Napa County,CA,2021-05-19,9941,35
+Napa County,CA,2021-05-26,9962,21
+Napa County,CA,2021-06-02,9987,25
+Napa County,CA,2021-06-09,10001,14
+Napa County,CA,2021-06-16,10048,47
+Napa County,CA,2021-06-23,10068,20
+Napa County,CA,2021-06-30,10073,5
+Napa County,CA,2021-07-07,10118,45
+Napa County,CA,2021-07-14,10160,42
+Napa County,CA,2021-07-21,10240,80
+Napa County,CA,2021-07-28,10404,164
+Napa County,CA,2021-08-04,10588,184
+Napa County,CA,2021-08-11,10768,180
+Napa County,CA,2021-08-18,11075,307
+Napa County,CA,2021-08-25,11369,294
+Napa County,CA,2021-09-01,11695,326
+Napa County,CA,2021-09-08,11894,199
+Napa County,CA,2021-09-15,12152,258
+Napa County,CA,2021-09-22,12328,176
+Napa County,CA,2021-09-29,12481,153
+Napa County,CA,2021-10-06,12634,153
+Napa County,CA,2021-10-13,12775,141
+Napa County,CA,2021-10-20,12878,103
+Napa County,CA,2021-10-27,12959,81
+Napa County,CA,2021-11-03,13046,87
+Napa County,CA,2021-11-10,13168,122
+Napa County,CA,2021-11-17,13269,101
+Napa County,CA,2021-11-24,13377,108
+Napa County,CA,2021-12-01,13430,53
+Napa County,CA,2021-12-08,13539,109
+Napa County,CA,2021-12-15,13665,126
+Napa County,CA,2021-12-22,13864,199
+Napa County,CA,2021-12-29,14347,483
+San Diego County,CA,2021-01-06,181705,24079
+San Diego County,CA,2021-01-13,208274,26569
+San Diego County,CA,2021-01-20,227525,19251
+San Diego County,CA,2021-01-27,241399,13874
+San Diego County,CA,2021-02-03,251990,10591
+San Diego County,CA,2021-02-10,260364,8374
+San Diego County,CA,2021-02-17,266186,5822
+San Diego County,CA,2021-02-24,270563,4377
+San Diego County,CA,2021-03-03,273961,3398
+San Diego County,CA,2021-03-10,276877,2916
+San Diego County,CA,2021-03-17,279135,2258
+San Diego County,CA,2021-03-24,281492,2357
+San Diego County,CA,2021-03-31,283527,2035
+San Diego County,CA,2021-04-07,285625,2098
+San Diego County,CA,2021-04-14,287709,2084
+San Diego County,CA,2021-04-21,289433,1724
+San Diego County,CA,2021-04-28,290125,692
+San Diego County,CA,2021-05-05,291453,1328
+San Diego County,CA,2021-05-12,293023,1570
+San Diego County,CA,2021-05-19,294087,1064
+San Diego County,CA,2021-05-26,294700,613
+San Diego County,CA,2021-06-02,295281,581
+San Diego County,CA,2021-06-09,295953,672
+San Diego County,CA,2021-06-16,296539,586
+San Diego County,CA,2021-06-23,297139,600
+San Diego County,CA,2021-06-30,297913,774
+San Diego County,CA,2021-07-07,298912,999
+San Diego County,CA,2021-07-14,301041,2129
+San Diego County,CA,2021-07-21,304785,3744
+San Diego County,CA,2021-07-28,310421,5636
+San Diego County,CA,2021-08-04,317623,7202
+San Diego County,CA,2021-08-11,326233,8610
+San Diego County,CA,2021-08-18,335661,9428
+San Diego County,CA,2021-08-25,344995,9334
+San Diego County,CA,2021-09-01,354037,9042
+San Diego County,CA,2021-09-08,360702,6665
+San Diego County,CA,2021-09-15,366552,5850
+San Diego County,CA,2021-09-22,370820,4268
+San Diego County,CA,2021-09-29,376122,5302
+San Diego County,CA,2021-10-06,380143,4021
+San Diego County,CA,2021-10-13,383394,3251
+San Diego County,CA,2021-10-20,386613,3219
+San Diego County,CA,2021-10-27,390572,3959
+San Diego County,CA,2021-11-03,394152,3580
+San Diego County,CA,2021-11-10,397906,3754
+San Diego County,CA,2021-11-17,401540,3634
+San Diego County,CA,2021-11-24,404913,3373
+San Diego County,CA,2021-12-01,407873,2960
+San Diego County,CA,2021-12-08,413873,6000
+San Diego County,CA,2021-12-15,418884,5011
+San Diego County,CA,2021-12-22,426099,7215
+San Diego County,CA,2021-12-29,443051,16952
+San Francisco County,CA,2021-01-06,25282,2055
+San Francisco County,CA,2021-01-13,27986,2704
+San Francisco County,CA,2021-01-20,30177,2191
+San Francisco County,CA,2021-01-27,31727,1550
+San Francisco County,CA,2021-02-03,32719,992
+San Francisco County,CA,2021-02-10,33778,1059
+San Francisco County,CA,2021-02-17,34541,763
+San Francisco County,CA,2021-02-24,35081,540
+San Francisco County,CA,2021-03-03,35503,422
+San Francisco County,CA,2021-03-10,35797,294
+San Francisco County,CA,2021-03-17,36014,217
+San Francisco County,CA,2021-03-24,36280,266
+San Francisco County,CA,2021-03-31,36554,274
+San Francisco County,CA,2021-04-07,36813,259
+San Francisco County,CA,2021-04-14,37128,315
+San Francisco County,CA,2021-04-21,37397,269
+San Francisco County,CA,2021-04-28,37649,252
+San Francisco County,CA,2021-05-05,37844,195
+San Francisco County,CA,2021-05-12,38005,161
+San Francisco County,CA,2021-05-19,38128,123
+San Francisco County,CA,2021-05-26,38255,127
+San Francisco County,CA,2021-06-02,38351,96
+San Francisco County,CA,2021-06-09,38381,30
+San Francisco County,CA,2021-06-16,38381,0
+San Francisco County,CA,2021-06-23,38381,0
+San Francisco County,CA,2021-06-30,38381,0
+San Francisco County,CA,2021-07-07,38617,236
+San Francisco County,CA,2021-07-14,39119,502
+San Francisco County,CA,2021-07-21,39988,869
+San Francisco County,CA,2021-07-28,41506,1518
+San Francisco County,CA,2021-08-04,43475,1969
+San Francisco County,CA,2021-08-11,45256,1781
+San Francisco County,CA,2021-08-18,46826,1570
+San Francisco County,CA,2021-08-25,48122,1296
+San Francisco County,CA,2021-09-01,49648,1526
+San Francisco County,CA,2021-09-08,50455,807
+San Francisco County,CA,2021-09-15,51330,875
+San Francisco County,CA,2021-09-22,52042,712
+San Francisco County,CA,2021-09-29,52661,619
+San Francisco County,CA,2021-10-06,53286,625
+San Francisco County,CA,2021-10-13,53801,515
+San Francisco County,CA,2021-10-20,54247,446
+San Francisco County,CA,2021-10-27,54639,392
+San Francisco County,CA,2021-11-03,55070,431
+San Francisco County,CA,2021-11-10,55653,583
+San Francisco County,CA,2021-11-17,56106,453
+San Francisco County,CA,2021-11-24,56556,450
+San Francisco County,CA,2021-12-01,56903,347
+San Francisco County,CA,2021-12-08,57526,623
+San Francisco County,CA,2021-12-15,58145,619
+San Francisco County,CA,2021-12-22,60137,1992
+San Francisco County,CA,2021-12-29,65533,5396
+Shasta County,CA,2021-01-06,9207,687
+Shasta County,CA,2021-01-13,10029,822
+Shasta County,CA,2021-01-20,10630,601
+Shasta County,CA,2021-01-27,11111,481
+Shasta County,CA,2021-02-03,11490,379
+Shasta County,CA,2021-02-10,11757,267
+Shasta County,CA,2021-02-17,11932,175
+Shasta County,CA,2021-02-24,12123,191
+Shasta County,CA,2021-03-03,12264,141
+Shasta County,CA,2021-03-10,12336,72
+Shasta County,CA,2021-03-17,12365,29
+Shasta County,CA,2021-03-24,12576,211
+Shasta County,CA,2021-03-31,12685,109
+Shasta County,CA,2021-04-07,12839,154
+Shasta County,CA,2021-04-14,12954,115
+Shasta County,CA,2021-04-21,13118,164
+Shasta County,CA,2021-04-28,13266,148
+Shasta County,CA,2021-05-05,13433,167
+Shasta County,CA,2021-05-12,13591,158
+Shasta County,CA,2021-05-19,13763,172
+Shasta County,CA,2021-05-26,13919,156
+Shasta County,CA,2021-06-02,14015,96
+Shasta County,CA,2021-06-09,14132,117
+Shasta County,CA,2021-06-16,14227,95
+Shasta County,CA,2021-06-23,14234,7
+Shasta County,CA,2021-06-30,14234,0
+Shasta County,CA,2021-07-07,14283,49
+Shasta County,CA,2021-07-14,14360,77
+Shasta County,CA,2021-07-21,14462,102
+Shasta County,CA,2021-07-28,14609,147
+Shasta County,CA,2021-08-04,14918,309
+Shasta County,CA,2021-08-11,15355,437
+Shasta County,CA,2021-08-18,16052,697
+Shasta County,CA,2021-08-25,16873,821
+Shasta County,CA,2021-09-01,17775,902
+Shasta County,CA,2021-09-08,18733,958
+Shasta County,CA,2021-09-15,20079,1346
+Shasta County,CA,2021-09-22,21127,1048
+Shasta County,CA,2021-09-29,21927,800
+Shasta County,CA,2021-10-06,22611,684
+Shasta County,CA,2021-10-13,23136,525
+Shasta County,CA,2021-10-20,23712,576
+Shasta County,CA,2021-10-27,24306,594
+Shasta County,CA,2021-11-03,24772,466
+Shasta County,CA,2021-11-10,25249,477
+Shasta County,CA,2021-11-17,25578,329
+Shasta County,CA,2021-11-24,25896,318
+Shasta County,CA,2021-12-01,26106,210
+Shasta County,CA,2021-12-08,26373,267
+Shasta County,CA,2021-12-15,26555,182
+Shasta County,CA,2021-12-22,26737,182
+Shasta County,CA,2021-12-29,26899,162
+Sierra County,CA,2021-01-06,38,8
+Sierra County,CA,2021-01-13,40,2
+Sierra County,CA,2021-01-20,51,11
+Sierra County,CA,2021-01-27,55,4
+Sierra County,CA,2021-02-03,55,0
+Sierra County,CA,2021-02-10,57,2
+Sierra County,CA,2021-02-17,60,3
+Sierra County,CA,2021-02-24,60,0
+Sierra County,CA,2021-03-03,61,1
+Sierra County,CA,2021-03-10,61,0
+Sierra County,CA,2021-03-17,62,1
+Sierra County,CA,2021-03-24,63,1
+Sierra County,CA,2021-03-31,63,0
+Sierra County,CA,2021-04-07,64,1
+Sierra County,CA,2021-04-14,64,0
+Sierra County,CA,2021-04-21,64,0
+Sierra County,CA,2021-04-28,64,0
+Sierra County,CA,2021-05-05,67,3
+Sierra County,CA,2021-05-12,67,0
+Sierra County,CA,2021-05-19,67,0
+Sierra County,CA,2021-05-26,67,0
+Sierra County,CA,2021-06-02,68,1
+Sierra County,CA,2021-06-09,68,0
+Sierra County,CA,2021-06-16,68,0
+Sierra County,CA,2021-06-23,70,2
+Sierra County,CA,2021-06-30,72,2
+Sierra County,CA,2021-07-07,73,1
+Sierra County,CA,2021-07-14,75,2
+Sierra County,CA,2021-07-21,77,2
+Sierra County,CA,2021-07-28,78,1
+Sierra County,CA,2021-08-04,85,7
+Sierra County,CA,2021-08-11,89,4
+Sierra County,CA,2021-08-18,96,7
+Sierra County,CA,2021-08-25,104,8
+Sierra County,CA,2021-09-01,109,5
+Sierra County,CA,2021-09-08,125,16
+Sierra County,CA,2021-09-15,137,12
+Sierra County,CA,2021-09-22,141,4
+Sierra County,CA,2021-09-29,144,3
+Sierra County,CA,2021-10-06,152,8
+Sierra County,CA,2021-10-13,172,20
+Sierra County,CA,2021-10-20,187,15
+Sierra County,CA,2021-10-27,190,3
+Sierra County,CA,2021-11-03,201,11
+Sierra County,CA,2021-11-10,208,7
+Sierra County,CA,2021-11-17,211,3
+Sierra County,CA,2021-11-24,216,5
+Sierra County,CA,2021-12-01,217,1
+Sierra County,CA,2021-12-08,221,4
+Sierra County,CA,2021-12-15,221,0
+Sierra County,CA,2021-12-22,223,2
+Sierra County,CA,2021-12-29,228,5
+Sonoma County,CA,2021-01-06,20367,1466
+Sonoma County,CA,2021-01-13,22526,2159
+Sonoma County,CA,2021-01-20,24260,1734
+Sonoma County,CA,2021-01-27,25409,1149
+Sonoma County,CA,2021-02-03,26198,789
+Sonoma County,CA,2021-02-10,26985,787
+Sonoma County,CA,2021-02-17,27558,573
+Sonoma County,CA,2021-02-24,28084,526
+Sonoma County,CA,2021-03-03,28483,399
+Sonoma County,CA,2021-03-10,28830,347
+Sonoma County,CA,2021-03-17,29094,264
+Sonoma County,CA,2021-03-24,29277,183
+Sonoma County,CA,2021-03-31,29474,197
+Sonoma County,CA,2021-04-07,29675,201
+Sonoma County,CA,2021-04-14,29841,166
+Sonoma County,CA,2021-04-21,29978,137
+Sonoma County,CA,2021-04-28,30073,95
+Sonoma County,CA,2021-05-05,30192,119
+Sonoma County,CA,2021-05-12,30296,104
+Sonoma County,CA,2021-05-19,30385,89
+Sonoma County,CA,2021-05-26,30541,156
+Sonoma County,CA,2021-06-02,30665,124
+Sonoma County,CA,2021-06-09,30875,210
+Sonoma County,CA,2021-06-16,31067,192
+Sonoma County,CA,2021-06-23,31299,232
+Sonoma County,CA,2021-06-30,31318,19
+Sonoma County,CA,2021-07-07,31502,184
+Sonoma County,CA,2021-07-14,31806,304
+Sonoma County,CA,2021-07-21,32144,338
+Sonoma County,CA,2021-07-28,32759,615
+Sonoma County,CA,2021-08-04,33650,891
+Sonoma County,CA,2021-08-11,34469,819
+Sonoma County,CA,2021-08-18,35381,912
+Sonoma County,CA,2021-08-25,36300,919
+Sonoma County,CA,2021-09-01,37842,1542
+Sonoma County,CA,2021-09-08,38480,638
+Sonoma County,CA,2021-09-15,39074,594
+Sonoma County,CA,2021-09-22,39533,459
+Sonoma County,CA,2021-09-29,39890,357
+Sonoma County,CA,2021-10-06,40256,366
+Sonoma County,CA,2021-10-13,40612,356
+Sonoma County,CA,2021-10-20,40893,281
+Sonoma County,CA,2021-10-27,41313,420
+Sonoma County,CA,2021-11-03,41815,502
+Sonoma County,CA,2021-11-10,42260,445
+Sonoma County,CA,2021-11-17,42595,335
+Sonoma County,CA,2021-11-24,42918,323
+Sonoma County,CA,2021-12-01,43230,312
+Sonoma County,CA,2021-12-08,43741,511
+Sonoma County,CA,2021-12-15,44134,393
+Sonoma County,CA,2021-12-22,44672,538
+Sonoma County,CA,2021-12-29,45825,1153
+Tehama County,CA,2021-01-06,3605,336
+Tehama County,CA,2021-01-13,3987,382
+Tehama County,CA,2021-01-20,4322,335
+Tehama County,CA,2021-01-27,4578,256
+Tehama County,CA,2021-02-03,4763,185
+Tehama County,CA,2021-02-10,4900,137
+Tehama County,CA,2021-02-17,4993,93
+Tehama County,CA,2021-02-24,5051,58
+Tehama County,CA,2021-03-03,5095,44
+Tehama County,CA,2021-03-10,5124,29
+Tehama County,CA,2021-03-17,5169,45
+Tehama County,CA,2021-03-24,5220,51
+Tehama County,CA,2021-03-31,5271,51
+Tehama County,CA,2021-04-07,5330,59
+Tehama County,CA,2021-04-14,5392,62
+Tehama County,CA,2021-04-21,5436,44
+Tehama County,CA,2021-04-28,5482,46
+Tehama County,CA,2021-05-05,5527,45
+Tehama County,CA,2021-05-12,5554,27
+Tehama County,CA,2021-05-19,5594,40
+Tehama County,CA,2021-05-26,5632,38
+Tehama County,CA,2021-06-02,5669,37
+Tehama County,CA,2021-06-09,5685,16
+Tehama County,CA,2021-06-16,5695,10
+Tehama County,CA,2021-06-23,5714,19
+Tehama County,CA,2021-06-30,5722,8
+Tehama County,CA,2021-07-07,5727,5
+Tehama County,CA,2021-07-14,5748,21
+Tehama County,CA,2021-07-21,5761,13
+Tehama County,CA,2021-07-28,5807,46
+Tehama County,CA,2021-08-04,5907,100
+Tehama County,CA,2021-08-11,6055,148
+Tehama County,CA,2021-08-18,6323,268
+Tehama County,CA,2021-08-25,6654,331
+Tehama County,CA,2021-09-01,7117,463
+Tehama County,CA,2021-09-08,7555,438
+Tehama County,CA,2021-09-15,8012,457
+Tehama County,CA,2021-09-22,8374,362
+Tehama County,CA,2021-09-29,8645,271
+Tehama County,CA,2021-10-06,8924,279
+Tehama County,CA,2021-10-13,9185,261
+Tehama County,CA,2021-10-20,9479,294
+Tehama County,CA,2021-10-27,9725,246
+Tehama County,CA,2021-11-03,9921,196
+Tehama County,CA,2021-11-10,10065,144
+Tehama County,CA,2021-11-17,10149,84
+Tehama County,CA,2021-11-24,10219,70
+Tehama County,CA,2021-12-01,10284,65
+Tehama County,CA,2021-12-08,10327,43
+Tehama County,CA,2021-12-15,10375,48
+Tehama County,CA,2021-12-22,10425,50
+Tehama County,CA,2021-12-29,10498,73
+Yuba County,CA,2021-01-06,4097,334
+Yuba County,CA,2021-01-13,4445,348
+Yuba County,CA,2021-01-20,4758,313
+Yuba County,CA,2021-01-27,5015,257
+Yuba County,CA,2021-02-03,5188,173
+Yuba County,CA,2021-02-10,5315,127
+Yuba County,CA,2021-02-17,5415,100
+Yuba County,CA,2021-02-24,5503,88
+Yuba County,CA,2021-03-03,5564,61
+Yuba County,CA,2021-03-10,5628,64
+Yuba County,CA,2021-03-17,5688,60
+Yuba County,CA,2021-03-24,5725,37
+Yuba County,CA,2021-03-31,5786,61
+Yuba County,CA,2021-04-07,5847,61
+Yuba County,CA,2021-04-14,5892,45
+Yuba County,CA,2021-04-21,5933,41
+Yuba County,CA,2021-04-28,5974,41
+Yuba County,CA,2021-05-05,6012,38
+Yuba County,CA,2021-05-12,6072,60
+Yuba County,CA,2021-05-19,6112,40
+Yuba County,CA,2021-05-26,6152,40
+Yuba County,CA,2021-06-02,6197,45
+Yuba County,CA,2021-06-09,6236,39
+Yuba County,CA,2021-06-16,6263,27
+Yuba County,CA,2021-06-23,6314,51
+Yuba County,CA,2021-06-30,6321,7
+Yuba County,CA,2021-07-07,6364,43
+Yuba County,CA,2021-07-14,6412,48
+Yuba County,CA,2021-07-21,6528,116
+Yuba County,CA,2021-07-28,6708,180
+Yuba County,CA,2021-08-04,6940,232
+Yuba County,CA,2021-08-11,7195,255
+Yuba County,CA,2021-08-18,7526,331
+Yuba County,CA,2021-08-25,7900,374
+Yuba County,CA,2021-09-01,8437,537
+Yuba County,CA,2021-09-08,8833,396
+Yuba County,CA,2021-09-15,9131,298
+Yuba County,CA,2021-09-22,9346,215
+Yuba County,CA,2021-09-29,9544,198
+Yuba County,CA,2021-10-06,9735,191
+Yuba County,CA,2021-10-13,9937,202
+Yuba County,CA,2021-10-20,10094,157
+Yuba County,CA,2021-10-27,10238,144
+Yuba County,CA,2021-11-03,10418,180
+Yuba County,CA,2021-11-10,10527,109
+Yuba County,CA,2021-11-17,10629,102
+Yuba County,CA,2021-11-24,10710,81
+Yuba County,CA,2021-12-01,10778,68
+Yuba County,CA,2021-12-08,10896,118
+Yuba County,CA,2021-12-15,10992,96
+Yuba County,CA,2021-12-22,11096,104
+Yuba County,CA,2021-12-29,11213,117
+Alpine County,CA,2021-01-06,70,5
+Alpine County,CA,2021-01-13,71,1
+Alpine County,CA,2021-01-20,71,0
+Alpine County,CA,2021-01-27,72,1
+Alpine County,CA,2021-02-03,72,0
+Alpine County,CA,2021-02-10,76,4
+Alpine County,CA,2021-02-17,76,0
+Alpine County,CA,2021-02-24,77,1
+Alpine County,CA,2021-03-03,77,0
+Alpine County,CA,2021-03-10,78,1
+Alpine County,CA,2021-03-17,82,4
+Alpine County,CA,2021-03-24,84,2
+Alpine County,CA,2021-03-31,85,1
+Alpine County,CA,2021-04-07,85,0
+Alpine County,CA,2021-04-14,85,0
+Alpine County,CA,2021-04-21,85,0
+Alpine County,CA,2021-04-28,88,3
+Alpine County,CA,2021-05-05,88,0
+Alpine County,CA,2021-05-12,88,0
+Alpine County,CA,2021-05-19,88,0
+Alpine County,CA,2021-05-26,88,0
+Alpine County,CA,2021-06-02,88,0
+Alpine County,CA,2021-06-09,88,0
+Alpine County,CA,2021-06-16,88,0
+Alpine County,CA,2021-06-23,88,0
+Alpine County,CA,2021-06-30,89,1
+Alpine County,CA,2021-07-07,89,0
+Alpine County,CA,2021-07-14,89,0
+Alpine County,CA,2021-07-21,89,0
+Alpine County,CA,2021-07-28,89,0
+Alpine County,CA,2021-08-04,91,2
+Alpine County,CA,2021-08-11,91,0
+Alpine County,CA,2021-08-18,91,0
+Alpine County,CA,2021-08-25,92,1
+Alpine County,CA,2021-09-01,92,0
+Alpine County,CA,2021-09-08,94,2
+Alpine County,CA,2021-09-15,98,4
+Alpine County,CA,2021-09-22,100,2
+Alpine County,CA,2021-09-29,101,1
+Alpine County,CA,2021-10-06,102,1
+Alpine County,CA,2021-10-13,102,0
+Alpine County,CA,2021-10-20,103,1
+Alpine County,CA,2021-10-27,105,2
+Alpine County,CA,2021-11-03,105,0
+Alpine County,CA,2021-11-10,105,0
+Alpine County,CA,2021-11-17,105,0
+Alpine County,CA,2021-11-24,106,1
+Alpine County,CA,2021-12-01,108,2
+Alpine County,CA,2021-12-08,108,0
+Alpine County,CA,2021-12-15,109,1
+Alpine County,CA,2021-12-22,112,3
+Alpine County,CA,2021-12-29,113,1
+Butte County,CA,2021-01-06,9120,1010
+Butte County,CA,2021-01-13,10150,1030
+Butte County,CA,2021-01-20,10921,771
+Butte County,CA,2021-01-27,11412,491
+Butte County,CA,2021-02-03,11839,427
+Butte County,CA,2021-02-10,12141,302
+Butte County,CA,2021-02-17,12348,207
+Butte County,CA,2021-02-24,12510,162
+Butte County,CA,2021-03-03,12648,138
+Butte County,CA,2021-03-10,12741,93
+Butte County,CA,2021-03-17,12818,77
+Butte County,CA,2021-03-24,12909,91
+Butte County,CA,2021-03-31,12989,80
+Butte County,CA,2021-04-07,13104,115
+Butte County,CA,2021-04-14,13220,116
+Butte County,CA,2021-04-21,13366,146
+Butte County,CA,2021-04-28,13510,144
+Butte County,CA,2021-05-05,13683,173
+Butte County,CA,2021-05-12,13830,147
+Butte County,CA,2021-05-19,13994,164
+Butte County,CA,2021-05-26,14137,143
+Butte County,CA,2021-06-02,14277,140
+Butte County,CA,2021-06-09,14399,122
+Butte County,CA,2021-06-16,14493,94
+Butte County,CA,2021-06-23,14549,56
+Butte County,CA,2021-06-30,14566,17
+Butte County,CA,2021-07-07,14663,97
+Butte County,CA,2021-07-14,14745,82
+Butte County,CA,2021-07-21,14888,143
+Butte County,CA,2021-07-28,15151,263
+Butte County,CA,2021-08-04,15593,442
+Butte County,CA,2021-08-11,16104,511
+Butte County,CA,2021-08-18,16762,658
+Butte County,CA,2021-08-25,17573,811
+Butte County,CA,2021-09-01,18732,1159
+Butte County,CA,2021-09-08,19757,1025
+Butte County,CA,2021-09-15,20742,985
+Butte County,CA,2021-09-22,21580,838
+Butte County,CA,2021-09-29,22243,663
+Butte County,CA,2021-10-06,22686,443
+Butte County,CA,2021-10-13,23109,423
+Butte County,CA,2021-10-20,23629,520
+Butte County,CA,2021-10-27,24111,482
+Butte County,CA,2021-11-03,24538,427
+Butte County,CA,2021-11-10,24868,330
+Butte County,CA,2021-11-17,25086,218
+Butte County,CA,2021-11-24,25299,213
+Butte County,CA,2021-12-01,25505,206
+Butte County,CA,2021-12-08,25736,231
+Butte County,CA,2021-12-15,25898,162
+Butte County,CA,2021-12-22,26070,172
+Butte County,CA,2021-12-29,26424,354
+Colusa County,CA,2021-01-06,1501,141
+Colusa County,CA,2021-01-13,1660,159
+Colusa County,CA,2021-01-20,1793,133
+Colusa County,CA,2021-01-27,1922,129
+Colusa County,CA,2021-02-03,1996,74
+Colusa County,CA,2021-02-10,2054,58
+Colusa County,CA,2021-02-17,2110,56
+Colusa County,CA,2021-02-24,2128,18
+Colusa County,CA,2021-03-03,2140,12
+Colusa County,CA,2021-03-10,2154,14
+Colusa County,CA,2021-03-17,2156,2
+Colusa County,CA,2021-03-24,2159,3
+Colusa County,CA,2021-03-31,2166,7
+Colusa County,CA,2021-04-07,2172,6
+Colusa County,CA,2021-04-14,2189,17
+Colusa County,CA,2021-04-21,2204,15
+Colusa County,CA,2021-04-28,2220,16
+Colusa County,CA,2021-05-05,2232,12
+Colusa County,CA,2021-05-12,2238,6
+Colusa County,CA,2021-05-19,2250,12
+Colusa County,CA,2021-05-26,2263,13
+Colusa County,CA,2021-06-02,2272,9
+Colusa County,CA,2021-06-09,2279,7
+Colusa County,CA,2021-06-16,2287,8
+Colusa County,CA,2021-06-23,2290,3
+Colusa County,CA,2021-06-30,2290,0
+Colusa County,CA,2021-07-07,2298,8
+Colusa County,CA,2021-07-14,2307,9
+Colusa County,CA,2021-07-21,2328,21
+Colusa County,CA,2021-07-28,2353,25
+Colusa County,CA,2021-08-04,2388,35
+Colusa County,CA,2021-08-11,2499,111
+Colusa County,CA,2021-08-18,2602,103
+Colusa County,CA,2021-08-25,2695,93
+Colusa County,CA,2021-09-01,2780,85
+Colusa County,CA,2021-09-08,2823,43
+Colusa County,CA,2021-09-15,2878,55
+Colusa County,CA,2021-09-22,2932,54
+Colusa County,CA,2021-09-29,2964,32
+Colusa County,CA,2021-10-06,2988,24
+Colusa County,CA,2021-10-13,3025,37
+Colusa County,CA,2021-10-20,3067,42
+Colusa County,CA,2021-10-27,3115,48
+Colusa County,CA,2021-11-03,3146,31
+Colusa County,CA,2021-11-10,3173,27
+Colusa County,CA,2021-11-17,3204,31
+Colusa County,CA,2021-11-24,3238,34
+Colusa County,CA,2021-12-01,3273,35
+Colusa County,CA,2021-12-08,3310,37
+Colusa County,CA,2021-12-15,3325,15
+Colusa County,CA,2021-12-22,3348,23
+Colusa County,CA,2021-12-29,3384,36
+Glenn County,CA,2021-01-06,1931,202
+Glenn County,CA,2021-01-13,2156,225
+Glenn County,CA,2021-01-20,2357,201
+Glenn County,CA,2021-01-27,2467,110
+Glenn County,CA,2021-02-03,2549,82
+Glenn County,CA,2021-02-10,2633,84
+Glenn County,CA,2021-02-17,2675,42
+Glenn County,CA,2021-02-24,2707,32
+Glenn County,CA,2021-03-03,2735,28
+Glenn County,CA,2021-03-10,2756,21
+Glenn County,CA,2021-03-17,2784,28
+Glenn County,CA,2021-03-24,2819,35
+Glenn County,CA,2021-03-31,2843,24
+Glenn County,CA,2021-04-07,2874,31
+Glenn County,CA,2021-04-14,2892,18
+Glenn County,CA,2021-04-21,2901,9
+Glenn County,CA,2021-04-28,2912,11
+Glenn County,CA,2021-05-05,2927,15
+Glenn County,CA,2021-05-12,2948,21
+Glenn County,CA,2021-05-19,2966,18
+Glenn County,CA,2021-05-26,2978,12
+Glenn County,CA,2021-06-02,2990,12
+Glenn County,CA,2021-06-09,2992,2
+Glenn County,CA,2021-06-16,2997,5
+Glenn County,CA,2021-06-23,3007,10
+Glenn County,CA,2021-06-30,3015,8
+Glenn County,CA,2021-07-07,3019,4
+Glenn County,CA,2021-07-14,3030,11
+Glenn County,CA,2021-07-21,3037,7
+Glenn County,CA,2021-07-28,3051,14
+Glenn County,CA,2021-08-04,3088,37
+Glenn County,CA,2021-08-11,3168,80
+Glenn County,CA,2021-08-18,3282,114
+Glenn County,CA,2021-08-25,3445,163
+Glenn County,CA,2021-09-01,3611,166
+Glenn County,CA,2021-09-08,3773,162
+Glenn County,CA,2021-09-15,3925,152
+Glenn County,CA,2021-09-22,4037,112
+Glenn County,CA,2021-09-29,4124,87
+Glenn County,CA,2021-10-06,4208,84
+Glenn County,CA,2021-10-13,4274,66
+Glenn County,CA,2021-10-20,4349,75
+Glenn County,CA,2021-10-27,4414,65
+Glenn County,CA,2021-11-03,4462,48
+Glenn County,CA,2021-11-10,4501,39
+Glenn County,CA,2021-11-17,4533,32
+Glenn County,CA,2021-11-24,4546,13
+Glenn County,CA,2021-12-01,4573,27
+Glenn County,CA,2021-12-08,4605,32
+Glenn County,CA,2021-12-15,4622,17
+Glenn County,CA,2021-12-22,4635,13
+Glenn County,CA,2021-12-29,4686,51
+Imperial County,CA,2021-01-06,25002,1462
+Imperial County,CA,2021-01-13,26659,1657
+Imperial County,CA,2021-01-20,27618,959
+Imperial County,CA,2021-01-27,28222,604
+Imperial County,CA,2021-02-03,28777,555
+Imperial County,CA,2021-02-10,29007,230
+Imperial County,CA,2021-02-17,29212,205
+Imperial County,CA,2021-02-24,29343,131
+Imperial County,CA,2021-03-03,29483,140
+Imperial County,CA,2021-03-10,29631,148
+Imperial County,CA,2021-03-17,29749,118
+Imperial County,CA,2021-03-24,29954,205
+Imperial County,CA,2021-03-31,30117,163
+Imperial County,CA,2021-04-07,30332,215
+Imperial County,CA,2021-04-14,30586,254
+Imperial County,CA,2021-04-21,30743,157
+Imperial County,CA,2021-04-28,30884,141
+Imperial County,CA,2021-05-05,31035,151
+Imperial County,CA,2021-05-12,31196,161
+Imperial County,CA,2021-05-19,31335,139
+Imperial County,CA,2021-05-26,31388,53
+Imperial County,CA,2021-06-02,31457,69
+Imperial County,CA,2021-06-09,31457,0
+Imperial County,CA,2021-06-16,31457,0
+Imperial County,CA,2021-06-23,31457,0
+Imperial County,CA,2021-06-30,31457,0
+Imperial County,CA,2021-07-07,31507,50
+Imperial County,CA,2021-07-14,31611,104
+Imperial County,CA,2021-07-21,31754,143
+Imperial County,CA,2021-07-28,31872,118
+Imperial County,CA,2021-08-04,32175,303
+Imperial County,CA,2021-08-11,32396,221
+Imperial County,CA,2021-08-18,32678,282
+Imperial County,CA,2021-08-25,32977,299
+Imperial County,CA,2021-09-01,33322,345
+Imperial County,CA,2021-09-08,33591,269
+Imperial County,CA,2021-09-15,33891,300
+Imperial County,CA,2021-09-22,34253,362
+Imperial County,CA,2021-09-29,34630,377
+Imperial County,CA,2021-10-06,35037,407
+Imperial County,CA,2021-10-13,35437,400
+Imperial County,CA,2021-10-20,35826,389
+Imperial County,CA,2021-10-27,36244,418
+Imperial County,CA,2021-11-03,36648,404
+Imperial County,CA,2021-11-10,37107,459
+Imperial County,CA,2021-11-17,37647,540
+Imperial County,CA,2021-11-24,38170,523
+Imperial County,CA,2021-12-01,38669,499
+Imperial County,CA,2021-12-08,39340,671
+Imperial County,CA,2021-12-15,40046,706
+Imperial County,CA,2021-12-22,40803,757
+Imperial County,CA,2021-12-29,41781,978
+Los Angeles County,CA,2021-01-06,851872,97271
+Los Angeles County,CA,2021-01-13,958295,106423
+Los Angeles County,CA,2021-01-20,1044819,86524
+Los Angeles County,CA,2021-01-27,1096707,51888
+Los Angeles County,CA,2021-02-03,1135064,38357
+Los Angeles County,CA,2021-02-10,1161139,26075
+Los Angeles County,CA,2021-02-17,1177210,16071
+Los Angeles County,CA,2021-02-24,1188291,11081
+Los Angeles County,CA,2021-03-03,1196501,8210
+Los Angeles County,CA,2021-03-10,1207909,11408
+Los Angeles County,CA,2021-03-17,1212842,4933
+Los Angeles County,CA,2021-03-24,1216960,4118
+Los Angeles County,CA,2021-03-31,1220683,3723
+Los Angeles County,CA,2021-04-07,1224364,3681
+Los Angeles County,CA,2021-04-14,1227578,3214
+Los Angeles County,CA,2021-04-21,1230595,3017
+Los Angeles County,CA,2021-04-28,1232997,2402
+Los Angeles County,CA,2021-05-05,1235100,2103
+Los Angeles County,CA,2021-05-12,1236843,1743
+Los Angeles County,CA,2021-05-19,1238492,1649
+Los Angeles County,CA,2021-05-26,1239845,1353
+Los Angeles County,CA,2021-06-02,1244660,4815
+Los Angeles County,CA,2021-06-09,1245855,1195
+Los Angeles County,CA,2021-06-16,1247070,1215
+Los Angeles County,CA,2021-06-23,1248399,1329
+Los Angeles County,CA,2021-06-30,1250322,1923
+Los Angeles County,CA,2021-07-07,1253780,3458
+Los Angeles County,CA,2021-07-14,1260774,6994
+Los Angeles County,CA,2021-07-21,1272126,11352
+Los Angeles County,CA,2021-07-28,1289048,16922
+Los Angeles County,CA,2021-08-04,1309643,20595
+Los Angeles County,CA,2021-08-11,1333248,23605
+Los Angeles County,CA,2021-08-18,1357190,23942
+Los Angeles County,CA,2021-08-25,1378823,21633
+Los Angeles County,CA,2021-09-01,1397359,18536
+Los Angeles County,CA,2021-09-08,1411681,14322
+Los Angeles County,CA,2021-09-15,1424635,12954
+Los Angeles County,CA,2021-09-22,1435601,10966
+Los Angeles County,CA,2021-09-29,1445171,9570
+Los Angeles County,CA,2021-10-06,1453421,8250
+Los Angeles County,CA,2021-10-13,1460929,7508
+Los Angeles County,CA,2021-10-20,1467767,6838
+Los Angeles County,CA,2021-10-27,1476135,8368
+Los Angeles County,CA,2021-11-03,1484425,8290
+Los Angeles County,CA,2021-11-10,1494417,9992
+Los Angeles County,CA,2021-11-17,1502515,8098
+Los Angeles County,CA,2021-11-24,1510623,8108
+Los Angeles County,CA,2021-12-01,1516775,6152
+Los Angeles County,CA,2021-12-08,1528173,11398
+Los Angeles County,CA,2021-12-15,1539222,11049
+Los Angeles County,CA,2021-12-22,1561760,22538
+Los Angeles County,CA,2021-12-29,1631098,69338
+Madera County,CA,2021-01-06,11921,1208
+Madera County,CA,2021-01-13,13117,1196
+Madera County,CA,2021-01-20,14206,1089
+Madera County,CA,2021-01-27,14842,636
+Madera County,CA,2021-02-03,15338,496
+Madera County,CA,2021-02-10,15684,346
+Madera County,CA,2021-02-17,15913,229
+Madera County,CA,2021-02-24,16174,261
+Madera County,CA,2021-03-03,16372,198
+Madera County,CA,2021-03-10,16568,196
+Madera County,CA,2021-03-17,16701,133
+Madera County,CA,2021-03-24,16797,96
+Madera County,CA,2021-03-31,16901,104
+Madera County,CA,2021-04-07,16996,95
+Madera County,CA,2021-04-14,17128,132
+Madera County,CA,2021-04-21,17228,100
+Madera County,CA,2021-04-28,17293,65
+Madera County,CA,2021-05-05,17348,55
+Madera County,CA,2021-05-12,17396,48
+Madera County,CA,2021-05-19,17432,36
+Madera County,CA,2021-05-26,17465,33
+Madera County,CA,2021-06-02,17498,33
+Madera County,CA,2021-06-09,17529,31
+Madera County,CA,2021-06-16,17553,24
+Madera County,CA,2021-06-23,17608,55
+Madera County,CA,2021-06-30,17641,33
+Madera County,CA,2021-07-07,17700,59
+Madera County,CA,2021-07-14,17750,50
+Madera County,CA,2021-07-21,17850,100
+Madera County,CA,2021-07-28,18024,174
+Madera County,CA,2021-08-04,18288,264
+Madera County,CA,2021-08-11,18630,342
+Madera County,CA,2021-08-18,19070,440
+Madera County,CA,2021-08-25,19582,512
+Madera County,CA,2021-09-01,20257,675
+Madera County,CA,2021-09-08,20860,603
+Madera County,CA,2021-09-15,21412,552
+Madera County,CA,2021-09-22,21991,579
+Madera County,CA,2021-09-29,22503,512
+Madera County,CA,2021-10-06,23004,501
+Madera County,CA,2021-10-13,23479,475
+Madera County,CA,2021-10-20,23919,440
+Madera County,CA,2021-10-27,24402,483
+Madera County,CA,2021-11-03,24948,546
+Madera County,CA,2021-11-10,25453,505
+Madera County,CA,2021-11-17,25863,410
+Madera County,CA,2021-11-24,26129,266
+Madera County,CA,2021-12-01,26388,259
+Madera County,CA,2021-12-08,26686,298
+Madera County,CA,2021-12-15,26887,201
+Madera County,CA,2021-12-22,27076,189
+Madera County,CA,2021-12-29,27308,232
+Marin County,CA,2021-01-06,10322,644
+Marin County,CA,2021-01-13,11080,758
+Marin County,CA,2021-01-20,11779,699
+Marin County,CA,2021-01-27,12136,357
+Marin County,CA,2021-02-03,12521,385
+Marin County,CA,2021-02-10,12779,258
+Marin County,CA,2021-02-17,12992,213
+Marin County,CA,2021-02-24,13182,190
+Marin County,CA,2021-03-03,13358,176
+Marin County,CA,2021-03-10,13516,158
+Marin County,CA,2021-03-17,13609,93
+Marin County,CA,2021-03-24,13712,103
+Marin County,CA,2021-03-31,13827,115
+Marin County,CA,2021-04-07,13905,78
+Marin County,CA,2021-04-14,13998,93
+Marin County,CA,2021-04-21,14050,52
+Marin County,CA,2021-04-28,14098,48
+Marin County,CA,2021-05-05,14188,90
+Marin County,CA,2021-05-12,14243,55
+Marin County,CA,2021-05-19,14284,41
+Marin County,CA,2021-05-26,14315,31
+Marin County,CA,2021-06-02,14348,33
+Marin County,CA,2021-06-09,14381,33
+Marin County,CA,2021-06-16,14398,17
+Marin County,CA,2021-06-23,14398,0
+Marin County,CA,2021-06-30,14398,0
+Marin County,CA,2021-07-07,14453,55
+Marin County,CA,2021-07-14,14529,76
+Marin County,CA,2021-07-21,14684,155
+Marin County,CA,2021-07-28,14929,245
+Marin County,CA,2021-08-04,15211,282
+Marin County,CA,2021-08-11,15512,301
+Marin County,CA,2021-08-18,15896,384
+Marin County,CA,2021-08-25,16250,354
+Marin County,CA,2021-09-01,16583,333
+Marin County,CA,2021-09-08,16744,161
+Marin County,CA,2021-09-15,16975,231
+Marin County,CA,2021-09-22,17154,179
+Marin County,CA,2021-09-29,17302,148
+Marin County,CA,2021-10-06,17454,152
+Marin County,CA,2021-10-13,17566,112
+Marin County,CA,2021-10-20,17687,121
+Marin County,CA,2021-10-27,17809,122
+Marin County,CA,2021-11-03,17944,135
+Marin County,CA,2021-11-10,18106,162
+Marin County,CA,2021-11-17,18220,114
+Marin County,CA,2021-11-24,18355,135
+Marin County,CA,2021-12-01,18533,178
+Marin County,CA,2021-12-08,18836,303
+Marin County,CA,2021-12-15,19065,229
+Marin County,CA,2021-12-22,19477,412
+Marin County,CA,2021-12-29,20661,1184
+Orange County,CA,2021-01-06,182572,21566
+Orange County,CA,2021-01-13,206808,24236
+Orange County,CA,2021-01-20,224275,17467
+Orange County,CA,2021-01-27,235403,11128
+Orange County,CA,2021-02-03,243492,8089
+Orange County,CA,2021-02-10,249104,5612
+Orange County,CA,2021-02-17,252482,3378
+Orange County,CA,2021-02-24,254794,2312
+Orange County,CA,2021-03-03,256319,1525
+Orange County,CA,2021-03-10,257440,1121
+Orange County,CA,2021-03-17,258418,978
+Orange County,CA,2021-03-24,259378,960
+Orange County,CA,2021-03-31,260238,860
+Orange County,CA,2021-04-07,261260,1022
+Orange County,CA,2021-04-14,262544,1284
+Orange County,CA,2021-04-21,263282,738
+Orange County,CA,2021-04-28,263883,601
+Orange County,CA,2021-05-05,264465,582
+Orange County,CA,2021-05-12,264881,416
+Orange County,CA,2021-05-19,265414,533
+Orange County,CA,2021-05-26,265741,327
+Orange County,CA,2021-06-02,266051,310
+Orange County,CA,2021-06-09,266341,290
+Orange County,CA,2021-06-16,266645,304
+Orange County,CA,2021-06-23,267022,377
+Orange County,CA,2021-06-30,267372,350
+Orange County,CA,2021-07-07,267955,583
+Orange County,CA,2021-07-14,269211,1256
+Orange County,CA,2021-07-21,271406,2195
+Orange County,CA,2021-07-28,274449,3043
+Orange County,CA,2021-08-04,279128,4679
+Orange County,CA,2021-08-11,284401,5273
+Orange County,CA,2021-08-18,290144,5743
+Orange County,CA,2021-08-25,294763,4619
+Orange County,CA,2021-09-01,298873,4110
+Orange County,CA,2021-09-08,302021,3148
+Orange County,CA,2021-09-15,305378,3357
+Orange County,CA,2021-09-22,307995,2617
+Orange County,CA,2021-09-29,310862,2867
+Orange County,CA,2021-10-06,313043,2181
+Orange County,CA,2021-10-13,314858,1815
+Orange County,CA,2021-10-20,316461,1603
+Orange County,CA,2021-10-27,318496,2035
+Orange County,CA,2021-11-03,320646,2150
+Orange County,CA,2021-11-10,322897,2251
+Orange County,CA,2021-11-17,324832,1935
+Orange County,CA,2021-11-24,326647,1815
+Orange County,CA,2021-12-01,328512,1865
+Orange County,CA,2021-12-08,331453,2941
+Orange County,CA,2021-12-15,334073,2620
+Orange County,CA,2021-12-22,338222,4149
+Orange County,CA,2021-12-29,352313,14091
+San Bernardino County,CA,2021-01-06,219108,22928
+San Bernardino County,CA,2021-01-13,244241,25133
+San Bernardino County,CA,2021-01-20,261372,17131
+San Bernardino County,CA,2021-01-27,271785,10413
+San Bernardino County,CA,2021-02-03,278762,6977
+San Bernardino County,CA,2021-02-10,283419,4657
+San Bernardino County,CA,2021-02-17,286462,3043
+San Bernardino County,CA,2021-02-24,288876,2414
+San Bernardino County,CA,2021-03-03,290559,1683
+San Bernardino County,CA,2021-03-10,291647,1088
+San Bernardino County,CA,2021-03-17,292705,1058
+San Bernardino County,CA,2021-03-24,293666,961
+San Bernardino County,CA,2021-03-31,294581,915
+San Bernardino County,CA,2021-04-07,295657,1076
+San Bernardino County,CA,2021-04-14,297840,2183
+San Bernardino County,CA,2021-04-21,298852,1012
+San Bernardino County,CA,2021-04-28,299432,580
+San Bernardino County,CA,2021-05-05,299933,501
+San Bernardino County,CA,2021-05-12,300444,511
+San Bernardino County,CA,2021-05-19,301056,612
+San Bernardino County,CA,2021-05-26,301541,485
+San Bernardino County,CA,2021-06-02,302054,513
+San Bernardino County,CA,2021-06-09,302270,216
+San Bernardino County,CA,2021-06-16,302569,299
+San Bernardino County,CA,2021-06-23,302899,330
+San Bernardino County,CA,2021-06-30,303305,406
+San Bernardino County,CA,2021-07-07,303902,597
+San Bernardino County,CA,2021-07-14,304873,971
+San Bernardino County,CA,2021-07-21,306620,1747
+San Bernardino County,CA,2021-07-28,309077,2457
+San Bernardino County,CA,2021-08-04,312967,3890
+San Bernardino County,CA,2021-08-11,318391,5424
+San Bernardino County,CA,2021-08-18,324289,5898
+San Bernardino County,CA,2021-08-25,330393,6104
+San Bernardino County,CA,2021-09-01,335704,5311
+San Bernardino County,CA,2021-09-08,340413,4709
+San Bernardino County,CA,2021-09-15,344534,4121
+San Bernardino County,CA,2021-09-22,348046,3512
+San Bernardino County,CA,2021-09-29,351106,3060
+San Bernardino County,CA,2021-10-06,353592,2486
+San Bernardino County,CA,2021-10-13,355719,2127
+San Bernardino County,CA,2021-10-20,357821,2102
+San Bernardino County,CA,2021-10-27,360494,2673
+San Bernardino County,CA,2021-11-03,363096,2602
+San Bernardino County,CA,2021-11-10,366374,3278
+San Bernardino County,CA,2021-11-17,369016,2642
+San Bernardino County,CA,2021-11-24,371669,2653
+San Bernardino County,CA,2021-12-01,374754,3085
+San Bernardino County,CA,2021-12-08,378893,4139
+San Bernardino County,CA,2021-12-15,382644,3751
+San Bernardino County,CA,2021-12-22,386507,3863
+San Bernardino County,CA,2021-12-29,394408,7901
+Sutter County,CA,2021-01-06,6821,472
+Sutter County,CA,2021-01-13,7336,515
+Sutter County,CA,2021-01-20,7779,443
+Sutter County,CA,2021-01-27,8146,367
+Sutter County,CA,2021-02-03,8420,274
+Sutter County,CA,2021-02-10,8621,201
+Sutter County,CA,2021-02-17,8752,131
+Sutter County,CA,2021-02-24,8848,96
+Sutter County,CA,2021-03-03,8915,67
+Sutter County,CA,2021-03-10,8997,82
+Sutter County,CA,2021-03-17,9053,56
+Sutter County,CA,2021-03-24,9122,69
+Sutter County,CA,2021-03-31,9190,68
+Sutter County,CA,2021-04-07,9263,73
+Sutter County,CA,2021-04-14,9310,47
+Sutter County,CA,2021-04-21,9363,53
+Sutter County,CA,2021-04-28,9426,63
+Sutter County,CA,2021-05-05,9459,33
+Sutter County,CA,2021-05-12,9502,43
+Sutter County,CA,2021-05-19,9541,39
+Sutter County,CA,2021-05-26,9584,43
+Sutter County,CA,2021-06-02,9618,34
+Sutter County,CA,2021-06-09,9671,53
+Sutter County,CA,2021-06-16,9708,37
+Sutter County,CA,2021-06-23,9726,18
+Sutter County,CA,2021-06-30,9726,0
+Sutter County,CA,2021-07-07,9766,40
+Sutter County,CA,2021-07-14,9848,82
+Sutter County,CA,2021-07-21,9952,104
+Sutter County,CA,2021-07-28,10104,152
+Sutter County,CA,2021-08-04,10375,271
+Sutter County,CA,2021-08-11,10686,311
+Sutter County,CA,2021-08-18,11095,409
+Sutter County,CA,2021-08-25,11527,432
+Sutter County,CA,2021-09-01,12071,544
+Sutter County,CA,2021-09-08,12512,441
+Sutter County,CA,2021-09-15,12896,384
+Sutter County,CA,2021-09-22,13188,292
+Sutter County,CA,2021-09-29,13375,187
+Sutter County,CA,2021-10-06,13558,183
+Sutter County,CA,2021-10-13,13742,184
+Sutter County,CA,2021-10-20,13889,147
+Sutter County,CA,2021-10-27,14082,193
+Sutter County,CA,2021-11-03,14221,139
+Sutter County,CA,2021-11-10,14354,133
+Sutter County,CA,2021-11-17,14434,80
+Sutter County,CA,2021-11-24,14509,75
+Sutter County,CA,2021-12-01,14607,98
+Sutter County,CA,2021-12-08,14734,127
+Sutter County,CA,2021-12-15,14836,102
+Sutter County,CA,2021-12-22,14913,77
+Sutter County,CA,2021-12-29,15105,192
+Yolo County,CA,2021-01-06,9069,876
+Yolo County,CA,2021-01-13,9962,893
+Yolo County,CA,2021-01-20,10921,959
+Yolo County,CA,2021-01-27,11522,601
+Yolo County,CA,2021-02-03,12075,553
+Yolo County,CA,2021-02-10,12424,349
+Yolo County,CA,2021-02-17,12672,248
+Yolo County,CA,2021-02-24,12950,278
+Yolo County,CA,2021-03-03,13094,144
+Yolo County,CA,2021-03-10,13244,150
+Yolo County,CA,2021-03-17,13409,165
+Yolo County,CA,2021-03-24,13504,95
+Yolo County,CA,2021-03-31,13606,102
+Yolo County,CA,2021-04-07,13699,93
+Yolo County,CA,2021-04-14,13782,83
+Yolo County,CA,2021-04-21,13859,77
+Yolo County,CA,2021-04-28,13984,125
+Yolo County,CA,2021-05-05,14116,132
+Yolo County,CA,2021-05-12,14211,95
+Yolo County,CA,2021-05-19,14271,60
+Yolo County,CA,2021-05-26,14345,74
+Yolo County,CA,2021-06-02,14398,53
+Yolo County,CA,2021-06-09,14436,38
+Yolo County,CA,2021-06-16,14474,38
+Yolo County,CA,2021-06-23,14518,44
+Yolo County,CA,2021-06-30,14536,18
+Yolo County,CA,2021-07-07,14614,78
+Yolo County,CA,2021-07-14,14732,118
+Yolo County,CA,2021-07-21,14937,205
+Yolo County,CA,2021-07-28,15243,306
+Yolo County,CA,2021-08-04,15702,459
+Yolo County,CA,2021-08-11,16199,497
+Yolo County,CA,2021-08-18,16682,483
+Yolo County,CA,2021-08-25,17277,595
+Yolo County,CA,2021-09-01,18052,775
+Yolo County,CA,2021-09-08,18548,496
+Yolo County,CA,2021-09-15,18970,422
+Yolo County,CA,2021-09-22,19277,307
+Yolo County,CA,2021-09-29,19558,281
+Yolo County,CA,2021-10-06,19807,249
+Yolo County,CA,2021-10-13,20043,236
+Yolo County,CA,2021-10-20,20302,259
+Yolo County,CA,2021-10-27,20606,304
+Yolo County,CA,2021-11-03,20886,280
+Yolo County,CA,2021-11-10,21112,226
+Yolo County,CA,2021-11-17,21286,174
+Yolo County,CA,2021-11-24,21468,182
+Yolo County,CA,2021-12-01,21639,171
+Yolo County,CA,2021-12-08,21839,200
+Yolo County,CA,2021-12-15,22054,215
+Yolo County,CA,2021-12-22,22331,277
+Yolo County,CA,2021-12-29,22858,527
