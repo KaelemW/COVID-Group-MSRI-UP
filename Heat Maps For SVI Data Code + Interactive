@@ -1,9 +1,3 @@
-#heat map of california for svi
-library(sf)
-library(ggplot2)
-install.packages("tigris")
-library(tigris)
-options(tigris_use_cache = TRUE)
 ca_counties <- counties(state = "CA", cb = TRUE, class = "sf")
 
 #Change the county name to all caps to join data sets
@@ -22,6 +16,11 @@ ggplot(ca_svi_map) +
     subtitle = "Based on CDC",
     caption = "Data source: CDC SVI 2020"
   )
+#interactive for the svi
+mapview::mapview(ca_svi_map, zcol = "svi",
+                 layer.name = "SVI (Overall)",
+                 legend = TRUE)
+
 #ses map
 ggplot(ca_svi_map) +
   geom_sf(aes(fill = ses), color = "white") + 
@@ -32,33 +31,53 @@ ggplot(ca_svi_map) +
     subtitle = "Based on CDC",
     caption = "Data Source: CDC SVI 2020"
   )
+#interactive for the ses
+mapview::mapview(ca_svi_map, zcol = "ses",
+                 layer.name = "SES (Overall)",
+                 legend = TRUE)
+
 #hhc map
 ggplot(ca_svi_map) +
   geom_sf(aes(fill = hhc), color = "white") + 
-  scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SES (Overall)") +
+  scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "HHC (Overall)") +
   theme_minimal() +
   labs(
     title = "Household Characteristics by California County (2020)",
     subtitle = "Based on CDC",
     caption = "Data Source: CDC SVI 2020"
   )
+#interactive for the hhc
+mapview::mapview(ca_svi_map, zcol = "hhc",
+                 layer.name = "HHC (Overall)",
+                 legend = TRUE)
+
 #rems map
 ggplot(ca_svi_map) +
   geom_sf(aes(fill = rems), color = "white") + 
-  scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SES (Overall)") +
+  scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "REMS (Overall)") +
   theme_minimal() +
   labs(
     title = "Race & Ethnic Minority Status by California County (2020)",
     subtitle = "Based on CDC",
     caption = "Data Source: CDC SVI 2020"
   )
+#interactive for the rems
+mapview::mapview(ca_svi_map, zcol = "rems",
+                 layer.name = "REMS (Overall)",
+                 legend = TRUE)
+
 #htt map
 ggplot(ca_svi_map) +
   geom_sf(aes(fill = htt), color = "white") + 
-  scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "SES (Overall)") +
+  scale_fill_viridis_c(option = "plasma", na.value = "gray90", name = "HTT (Overall)") +
   theme_minimal() +
   labs(
     title = "Housing Type & Transportation by California County (2020)",
     subtitle = "Based on CDC",
     caption = "Data Source: CDC SVI 2020"
   )
+#interactive for the htt
+mapview::mapview(ca_svi_map, zcol = "htt",
+                 layer.name = "HTT (Overall)",
+                 legend = TRUE)
+
