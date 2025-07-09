@@ -14,3 +14,7 @@ covid_cases_CDC_CA <- covid_cases_CDC %>%
 
 #SVI Data
 svi_data <- read.csv("~/MSRI-UP-KBW-2/Covid Trial 2 please work/California_county.csv")
+
+# normalize data per 100,000 population 
+norm_pop_2021 <- counties_pop_2021 %>%
+  mutate(rate_per_100k = (cumulative_cases / Cumm_pop_2020) * 100000)
