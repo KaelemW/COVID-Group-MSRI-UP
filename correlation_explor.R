@@ -56,9 +56,6 @@ mod5 <- lm(Pop_Vacs_Pct~rems+hhc+ses+svi+htt, may_26)
 BIC(mod5) # 516
 
 
-summary(mod2)
-
-
 
 #Model relating race to new cases
 mod <- lm(New.cases~rems, data = may_26)
@@ -119,38 +116,30 @@ mod3 <- with(covid_race_hhc, lm(Pop_Vacs_Pct~native_pct+white_pct+multi_pct))
 summary(mod3)
 BIC(mod3) #315516
 
-#white, latino, asian, multi
 mod4 <- with(covid_race_hhc, lm(Pop_Vacs_Pct~white_pct+multi_pct+latino_pct+asian_pct))
 summary(mod4)
 BIC(mod4) #315100
 
-#latino, native, asian, other, multi
 mod5 <- with(covid_race_hhc, lm(Pop_Vacs_Pct~multi_pct+latino_pct+asian_pct+native_pct+other_pct))
 summary(mod5) # R-squared of 0.2243
 BIC(mod5) # 314785
 
 # BEST MODEL FOR PREDICTING VACCINATION FROM JUST RACE
-#all but acisl, native
 mod6 <- with(covid_race_hhc, lm(Pop_Vacs_Pct~white_pct+black_pct+latino_pct+asian_pct+other_pct+multi_pct))
 summary(mod6) #r-squared of 0.2283
 BIC(mod6) # 314623
 
-# all but multi
+
 mod7 <- with(covid_race_hhc, lm(Pop_Vacs_Pct~white_pct+black_pct+latino_pct+
                                   asian_pct+other_pct+native_pct+pacisl_pct))
 summary(mod7) 
 BIC(mod7) # 314628
 
+#maybe i should make simple linear models for each race
+
 
 
 # ALSO MODEL PREDICTING BASED OFF OF HHC AND RACE
-
-
-
-
-
-
-
 
 covid_race_hhc_may <- covid_race_hhc |>
   filter(Date == '2021-05-26')
@@ -159,7 +148,6 @@ covid_race_hhc_may <- covid_race_hhc |>
 
 
 # Predicting cases by race
-
 
 
 bestss_rh <- regsubsets(new_cases_pc~white_pct + black_pct + latino_pct + 
@@ -201,3 +189,5 @@ mod8 <-with(covid_race_hhc_may, lm(new_cases_pc~black_pct+asian_pct+pacisl_pct+
                                               white_pct + latino_pct + other_pct + native_pct+multi_pct))
 summary(mod8)
 BIC(mod8)
+
+
