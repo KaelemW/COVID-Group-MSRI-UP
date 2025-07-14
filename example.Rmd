@@ -16,8 +16,10 @@ ui <- dashboardPage(
   dashboardSidebar(width = 200),
   dashboardBody(
     fluidRow(
-      box(selectInput('plot_typ', "Choose a plot:",
-                  choices = c('Vaccinations', 'Cases'),
+      box(selectInput('dep', "Choose an SVI subcategory percentile:",
+                      choices = c('Racial and Ethnic Minority Status','Household Characteristics', 'Housing Type and Transportation')),
+        selectInput('plot_typ', "Choose an response variable:",
+                  choices = c('Covid-19 Cases', 'Covid-19 Vaccinations'),
                   ),
       plotlyOutput("plot"))
     )
@@ -28,27 +30,36 @@ ui <- dashboardPage(
 
 server <- function(input, output) { 
   
-  
   output$plot <- renderPlotly({
     
-      if(input$plot_typ == 'Vaccinations'){
+      if(input$plot_typ == 'Covid-19 Vaccinations'){
         y <- vax_cases_svi$vacs_100k
-      } else if(input$plot_typ == 'Cases'){
+        ylab <- 'Sum of Vax/100k'
+      } else if(input$plot_typ == 'Covid-19 Cases'){
         y <- vax_cases_svi$sum_cases_p100k
+        ylab <- 'Sum of Cases/100k'
       }
+    
+    if(input$dep == 'Racial and Ethnic Minority Status'){
+      x <- vax_cases_svi$rems
+      xlab <- 'Racial and Ethnic Minority Status'
+    } else if(input$dep == 'Household Characteristics'){
+      x <- vax_cases_svi$hhc
+      xlab <- 'Household Characteristics Vulnerability'
+    } else if (input$dep == 'Housing Type and Transportation'){
+      x <- vax_cases_svi$htt
+      xlab <- 'Housing Type and Transportation Vulnerability'
+    }
     
     
     ggplotly(
-      ggplot(vax_cases_svi, aes(x = rems, y = y)) +
+      ggplot(vax_cases_svi, aes(x = x, y = y)) +
         geom_point() +
-      xlab('Racial and Ethnic Minority Status Percentile') +
-      ylab('Sum of Vax/100k')+
-      labs(color = "Household Characteristics Vulnerability") + 
-      scale_color_manual(limits = c(TRUE, FALSE),
-                     values = c("#FFCC00","#336600"), 
-                     labels = c('Above 50th Percentile', "Below 50th Percentile")) +
+      xlab(xlab) +
+      ylab(ylab)+
       theme_gray()
     )
+    
   })
     
 }
