@@ -158,10 +158,11 @@ BIC(mod4) # 1113
 vax_2021_clean <- vax_2021_clean |>
   mutate(hhc_bin = (hhc >= 0.5))
 
+# Plot of Sum of Vax/100k in 2021 by Racial Minority Proportion
 ggplot(vax_2021_clean, aes(x = rems, y = vacs_100k, color = hhc_bin)) +
   geom_point() +
   theme_bw() +
-  ggtitle('Sum of Vax/100k in 2021 by Racial Minority Proportion') +
+  ggtitle('Sum of Vax/100k in 2021 by Racial Minority Percentile') +
   xlab('Racial and Ethnic Minority Status Percentile') +
   ylab('Sum of Vax/100k')+
   labs(color = "Household Characteristics Vulnerability") + 
@@ -170,3 +171,39 @@ ggplot(vax_2021_clean, aes(x = rems, y = vacs_100k, color = hhc_bin)) +
                      labels = c('Above 50th Percentile', "Below 50th Percentile")) +
   theme_gray()
 
+
+
+
+
+
+vax_cases_svi <- left_join(vax_2021_clean, cases_p_100k_svi, 
+          by = c("County", 'svi', 'rems', 'htt', 'hhc', 'ses'))
+
+
+# Plots from same df
+
+# Cases Plot
+ggplot(vax_cases_svi, aes(x = rems, y = sum_cases_p100k, color = htt_bin)) +
+  geom_point() +
+  theme_bw() +
+  ggtitle('Sum of Cases/100k in 2021 by Racial Minority Proportion') +
+  xlab('Racial and Ethnic Minority Status Percentile') +
+  ylab('Sum of Cases/100k')+
+  labs(color = "Housing Type and Transportation Vulnerability") + 
+  scale_color_manual(limits = c(TRUE, FALSE),
+                     values = c("#FFCC00","#336600"), 
+                     labels = c('Above 50th Percentile', "Below 50th Percentile")) +
+  theme_gray()
+
+# Vax Plot
+ggplot(vax_cases_svi, aes(x = rems, y = vacs_100k, color = hhc_bin)) +
+  geom_point() +
+  theme_bw() +
+  ggtitle('Sum of Vax/100k in 2021 by Racial Minority Percentile') +
+  xlab('Racial and Ethnic Minority Status Percentile') +
+  ylab('Sum of Vax/100k')+
+  labs(color = "Household Characteristics Vulnerability") + 
+  scale_color_manual(limits = c(TRUE, FALSE),
+                     values = c("#FFCC00","#336600"), 
+                     labels = c('Above 50th Percentile', "Below 50th Percentile")) +
+  theme_gray()

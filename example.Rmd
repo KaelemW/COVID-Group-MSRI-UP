@@ -1,0 +1,57 @@
+---
+title: "Covid Dashboard"
+author: "Audrey Garcia, Kaelem Walker, Genesis Walker"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r}
+library(shiny)
+library(shinydashboard)
+library(plotly)
+
+ui <- dashboardPage(
+  dashboardHeader(title = "The Influence of Social Vulnerability on Covid-19", 
+                  titleWidth = 500),
+  dashboardSidebar(width = 200),
+  dashboardBody(
+    fluidRow(
+      box(selectInput('plot_typ', "Choose a plot:",
+                  choices = c('Vaccinations', 'Cases'),
+                  ),
+      plotlyOutput("plot"))
+    )
+   )
+)
+
+
+
+server <- function(input, output) { 
+  
+  
+  output$plot <- renderPlotly({
+    
+      if(input$plot_typ == 'Vaccinations'){
+        y <- vax_cases_svi$vacs_100k
+      } else if(input$plot_typ == 'Cases'){
+        y <- vax_cases_svi$sum_cases_p100k
+      }
+    
+    
+    ggplotly(
+      ggplot(vax_cases_svi, aes(x = rems, y = y)) +
+        geom_point() +
+      xlab('Racial and Ethnic Minority Status Percentile') +
+      ylab('Sum of Vax/100k')+
+      labs(color = "Household Characteristics Vulnerability") + 
+      scale_color_manual(limits = c(TRUE, FALSE),
+                     values = c("#FFCC00","#336600"), 
+                     labels = c('Above 50th Percentile', "Below 50th Percentile")) +
+      theme_gray()
+    )
+  })
+    
+}
+
+shinyApp(ui, server)
+```
