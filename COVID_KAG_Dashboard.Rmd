@@ -1,0 +1,124 @@
+---
+title: "COVID_Dashboard"
+output: html_document
+date: "2025-07-14"
+---
+
+```{r setup, include=FALSE}
+library(shiny)
+library(plotly)
+library(leaflet)
+library(tidyverse)
+library(sf)
+library(highcharter)
+library(shinydashboard)
+
+```
+
+```{r}
+
+
+```
+
+## Including Plots
+
+
+```{r}
+ui <- dashboardPage(
+  dashboardHeader(title = "The Influence of Social Vulnerability on COVID-19",
+                  titleWidth = 500),
+  dashboardSidebar(width = 500),
+  dashboardBody(
+    # Boxes need to be put in a row (or column)
+    fluidRow(
+      box(selectInput(
+        "selected_county", 
+        "County:",
+            choices = c(sort(unique(covid_filtered_gg$County))),
+            selected = "Los Angeles County"),
+      plotlyOutput("plot1", height = 400, width = 600))
+      )
+    )
+  )
+
+
+
+server <- function(input, output) {
+  filtered_data_reactive <- reactive({
+    req(covid_filtered_gg) # Ensures data is available before proceeding
+
+    covid_filtered_gg %>%
+      filter(County %in% input$selected_county)
+    
+  })
+
+  
+  output$plot1 <- renderPlotly({
+    plot_data <- filtered_data_reactive()
+    
+    plot_data$Vaccinations_new <- ifelse(plot_data$Vaccinations == 0,
+                                        "No Vaccination Data",
+                                        "Vaccinations")
+    
+    if(sum(plot_data$Vaccinations, na.rm = TRUE) == 0)  {
+      return(ggplotly(ggplot(data = plot_data, aes(x = Date)) +
+      geom_line(aes(y = new_cases, color = 'new_cases')) + 
+        geom_line(aes(y = Vaccinations, color = Vaccinations_new)) +
+        scale_color_manual(
+                         name = "Legend", 
+                         #breaks = c("new_cases", 'Vaccinations'), 
+                         values = c("new_cases"="steelblue", "No Vaccinations Data" = "grey"), 
+                         labels = c("new_cases" = "COVID Cases", "Vaccinations" = "No Vaccination Data")) +
+                         labs(title = paste("COVID-19 Cases in",
+                         input$selected_county), x = 'Date', y = 'Total') + 
+        scale_y_continuous(labels = comma) + theme(
+    panel.background = element_blank(),
+    axis.text.y = element_text(angle = 0, vjust = -.5,
+                               margin = margin(r = -30)),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank(),
+    panel.grid.major.y = element_line(colour = 'grey',
+                                      linetype = 'dashed',size = .35),
+    axis.ticks.x = element_line(color = "grey"),
+    axis.ticks.y = element_blank(),
+    axis.line.x = element_line(colour = "grey", linetype = "solid",
+                               size = .5))))
+    } 
+    
+    else {
+      ggplotly(ggplot(data = plot_data, aes(x = Date)) +
+      geom_line(aes(y=new_cases, color = 'new_cases')) +
+      geom_line(aes(y=Vaccinations, color = "Vaccinations")) +
+      scale_color_manual(labels = c("new_cases" = "COVID Cases", "Vaccinations" = "Vaccinations"),
+                         name = "Legend", 
+                         breaks = c("new_cases", "Vaccinations"), 
+                         values = c("new_cases"="steelblue", "Vaccinations"  =  "coral2")) +
+                         labs(title = paste("COVID-19 Cases and Vaccinations in",
+                         input$selected_county), x = 'Date', y = 'Total') + 
+        scale_y_continuous(labels = comma) + theme(
+    panel.background = element_blank(),
+    axis.text.y = element_text(angle = 0, vjust = -.5,
+                               margin = margin(r = -30)),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank(),
+    panel.grid.major.y = element_line(colour = 'grey',
+                                      linetype = 'dashed',size = .35),
+    axis.ticks.x = element_line(color = "grey"),
+    axis.ticks.y = element_blank(),
+    axis.line.x = element_line(colour = "grey", linetype = "solid",
+                               size = .5)))
+ 
+    }     
+  })
+  
+  
+
+}
+  
+shinyApp(ui, server)
+  
+
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
