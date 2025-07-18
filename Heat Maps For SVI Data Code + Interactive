@@ -5,6 +5,7 @@ svi_2020$County <- toupper(svi_2020$County)
 ca_counties$NAME <- toupper(ca_counties$NAME)
 ca_svi_map <- ca_counties |>
   left_join(svi_2020, by = c("NAME" = "County"))
+ca_svi_map = subset(ca_svi_map, select = -c(STATEFP, COUNTYFP, COUNTYNS, GEOIDFQ, GEOID, STUSPS, LSAD, ALAND, AWATER))
 
 #svi map
 ggplot(ca_svi_map) +
@@ -81,3 +82,178 @@ mapview::mapview(ca_svi_map, zcol = "htt",
                  layer.name = "HTT (Overall)",
                  legend = TRUE)
 
+
+#redone maps
+#
+#
+#
+#
+#
+color_palette1 <- colorNumeric(palette = "YlOrRd",domain = ca_svi_map$svi, na.color = "transparent") 
+
+mytext <- paste(
+  "County: ", ca_svi_map$NAMELSAD, "<br/>",
+  "SVI Rate: ", ca_svi_map$svi, "<br/>" ,  # <br/> breaks the lines of text so theyre on top of eachother
+  sep = ""
+) %>%
+  lapply(htmltools::HTML)
+
+inter_map_svi2020 <- leaflet() %>%
+  addTiles() %>%
+  addControl("SVI Rating: 2020", position = "topleft") %>%  # this is the title of map
+  addPolygons(
+    data = ca_svi_map, 
+    fillColor = ~color_palette1(ca_svi_map$svi), #the variable you want to use goes into parenthesis 
+    stroke = TRUE,  # this displays outline of geography 
+    fillOpacity = 0.9,  # ranges from 0-1: 0 = sheer and 1= completely opaque for color fill of heat map
+    color = "white",  # color out outline of geography features 
+    weight = 0.3,  # thickness of outline ^ 
+    label = mytext,  # this displays the text when you hover over
+    labelOptions = labelOptions(
+      style = list("font-weight" = "normal", padding = "3px 8px"),
+      textsize = "13px",
+      direction = "auto"
+    )
+  ) %>%
+  addLegend(
+    pal = color_palette1, values = ca_svi_map$svi, opacity = 0.9,
+    title = "SVI Rating Based on CDC", position = "bottomleft"
+  )
+
+inter_map_svi2020 
+
+#ses map
+color_palette2 <- colorNumeric(palette = "YlOrRd",domain = ca_svi_map$ses, na.color = "transparent") 
+
+mytext2 <- paste(
+  "County: ", ca_svi_map$NAMELSAD, "<br/>",
+  "SES Rate: ", ca_svi_map$ses, "<br/>" ,  # <br/> breaks the lines of text so theyre on top of eachother
+  sep = ""
+) %>%
+  lapply(htmltools::HTML)
+
+inter_map_ses2020 <- leaflet() %>%
+  addTiles() %>%
+  addControl("SES Rating: 2020", position = "topleft") %>%  # this is the title of map
+  addPolygons(
+    data = ca_svi_map, 
+    fillColor = ~color_palette2(ca_svi_map$ses), #the variable you want to use goes into parenthesis 
+    stroke = TRUE,  # this displays outline of geography 
+    fillOpacity = 0.9,  # ranges from 0-1: 0 = sheer and 1= completely opaque for color fill of heat map
+    color = "white",  # color out outline of geography features 
+    weight = 0.3,  # thickness of outline ^ 
+    label = mytext2,  # this displays the text when you hover over
+    labelOptions = labelOptions(
+      style = list("font-weight" = "normal", padding = "3px 8px"),
+      textsize = "13px",
+      direction = "auto"
+    )
+  ) %>%
+  addLegend(
+    pal = color_palette2, values = ca_svi_map$ses, opacity = 0.9,
+    title = "SES Rating Based on CDC", position = "bottomleft"
+  )
+
+inter_map_ses2020 
+
+#hhc map
+color_palette3 <- colorNumeric(palette = "YlOrRd",domain = ca_svi_map$hhc, na.color = "transparent") 
+
+mytext3 <- paste(
+  "County: ", ca_svi_map$NAMELSAD, "<br/>",
+  "HHC Rate: ", ca_svi_map$hhc, "<br/>" ,  # <br/> breaks the lines of text so theyre on top of eachother
+  sep = ""
+) %>%
+  lapply(htmltools::HTML)
+
+inter_map_hhc2020 <- leaflet() %>%
+  addTiles() %>%
+  addControl("HHC Rating: 2020", position = "topleft") %>%  # this is the title of map
+  addPolygons(
+    data = ca_svi_map, 
+    fillColor = ~color_palette3(ca_svi_map$hhc), #the variable you want to use goes into parenthesis 
+    stroke = TRUE,  # this displays outline of geography 
+    fillOpacity = 0.9,  # ranges from 0-1: 0 = sheer and 1= completely opaque for color fill of heat map
+    color = "white",  # color out outline of geography features 
+    weight = 0.3,  # thickness of outline ^ 
+    label = mytext3,  # this displays the text when you hover over
+    labelOptions = labelOptions(
+      style = list("font-weight" = "normal", padding = "3px 8px"),
+      textsize = "13px",
+      direction = "auto"
+    )
+  ) %>%
+  addLegend(
+    pal = color_palette3, values = ca_svi_map$hhc, opacity = 0.9,
+    title = "HHC Rating Based on CDC", position = "bottomleft"
+  )
+
+inter_map_hhc2020 
+
+#rems map
+color_palette4 <- colorNumeric(palette = "YlOrRd",domain = ca_svi_map$rems, na.color = "transparent") 
+
+mytext4 <- paste(
+  "County: ", ca_svi_map$NAMELSAD, "<br/>",
+  "REMS Rate: ", ca_svi_map$rems, "<br/>" ,  # <br/> breaks the lines of text so theyre on top of eachother
+  sep = ""
+) %>%
+  lapply(htmltools::HTML)
+
+inter_map_rems2020 <- leaflet() %>%
+  addTiles() %>%
+  addControl("REMS Rating: 2020", position = "topleft") %>%  # this is the title of map
+  addPolygons(
+    data = ca_svi_map, 
+    fillColor = ~color_palette4(ca_svi_map$rems), #the variable you want to use goes into parenthesis 
+    stroke = TRUE,  # this displays outline of geography 
+    fillOpacity = 0.9,  # ranges from 0-1: 0 = sheer and 1= completely opaque for color fill of heat map
+    color = "white",  # color out outline of geography features 
+    weight = 0.3,  # thickness of outline ^ 
+    label = mytext4,  # this displays the text when you hover over
+    labelOptions = labelOptions(
+      style = list("font-weight" = "normal", padding = "3px 8px"),
+      textsize = "13px",
+      direction = "auto"
+    )
+  ) %>%
+  addLegend(
+    pal = color_palette4, values = ca_svi_map$rems, opacity = 0.9,
+    title = "REMS Rating Based on CDC", position = "bottomleft"
+  )
+
+inter_map_rems2020 
+
+#htt maps
+color_palette5 <- colorNumeric(palette = "YlOrRd",domain = ca_svi_map$htt, na.color = "transparent") 
+
+mytext5 <- paste(
+  "County: ", ca_svi_map$NAMELSAD, "<br/>",
+  "HTT Rate: ", ca_svi_map$htt, "<br/>" ,  # <br/> breaks the lines of text so theyre on top of eachother
+  sep = ""
+) %>%
+  lapply(htmltools::HTML)
+
+inter_map_htt2020 <- leaflet() %>%
+  addTiles() %>%
+  addControl("HTT Rating: 2020", position = "topleft") %>%  # this is the title of map
+  addPolygons(
+    data = ca_svi_map, 
+    fillColor = ~color_palette5(ca_svi_map$htt), #the variable you want to use goes into parenthesis 
+    stroke = TRUE,  # this displays outline of geography 
+    fillOpacity = 0.9,  # ranges from 0-1: 0 = sheer and 1= completely opaque for color fill of heat map
+    color = "white",  # color out outline of geography features 
+    weight = 0.3,  # thickness of outline ^ 
+    label = mytext5,  # this displays the text when you hover over
+    labelOptions = labelOptions(
+      style = list("font-weight" = "normal", padding = "3px 8px"),
+      textsize = "13px",
+      direction = "auto"
+    )
+  ) %>%
+  addLegend(
+    pal = color_palette5, values = ca_svi_map$htt, opacity = 0.9,
+    title = "HTT Rating Based on CDC", position = "bottomleft"
+  )
+
+inter_map_htt2020 
