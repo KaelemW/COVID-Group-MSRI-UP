@@ -1,0 +1,137 @@
+---
+title: "The Influence of SVI on COVID"
+author: "Audrey Garcia, Genesis Gomez, Kaelem Walker"
+date: "2025-07-14"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(shiny)
+library(tidyr)
+library(readr)
+library(dplyr)
+library(sf)
+library(ggplot2)
+library(corrplot)
+library(plotly)
+library(mapview)
+library(tigris)
+library(leaflet)
+options(tigris_use_cache = TRUE)
+
+ui <- dashboardPage(
+  dashboardHeader(title = "California SVI Map"),
+
+  dashboardSidebar(disable = TRUE), 
+
+dashboardBody(
+  fluidRow(
+    box(
+      leafletOutput("svi_map", height = 300),
+      width = 7,
+      selectInput("theme", "Select Theme:",
+                  choices = c("SVI" = "svi", "SES" = "ses", "HHC" = "hhc", "REMS" = "rems", "HTT" = "htt"),
+                  selected = "svi")
+    )
+  )
+)
+)
+
+
+server <- function(input, output, session) {
+  
+  output$svi_map <- renderLeaflet({
+    req(input$theme)
+    selected_theme <- input$theme
+    
+    selected_values <- ca_svi_map[[selected_theme]]
+    
+    color_palette <- colorNumeric(
+      palette = "YlOrRd",
+      domain = selected_values,
+      na.color = "transparent"
+    )
+    
+    mytext <- paste0(
+      "County: ", ca_svi_map$NAMELSAD, "<br/>",
+      toupper(selected_theme), " Rate: ", round(selected_values, 3)
+    ) %>% lapply(htmltools::HTML)
+    
+    leaflet(ca_svi_map) %>%
+      addTiles() %>%
+      addControl(paste(toupper(selected_theme), "Rating: 2020"), position = "topleft") %>%
+      addPolygons(
+        fillColor = ~color_palette(selected_values),
+        stroke = TRUE,
+        fillOpacity = 0.9,
+        color = "white",
+        weight = 0.3,
+        label = mytext,
+        labelOptions = labelOptions(
+          style = list("font-weight" = "normal", padding = "3px 8px"),
+          textsize = "13px",
+          direction = "auto"
+        )
+      ) %>%
+      addLegend(
+        pal = color_palette,
+        values = selected_values,
+        opacity = 0.9,
+        title = paste(toupper(selected_theme), "Rating Based on CDC"),
+        position = "bottomleft"
+      )
+  })
+}
+
+shinyApp(ui, server)
+```
+
+This R Markdown document is made interactive using Shiny. Unlike the more traditional workflow of creating static reports, you can now create documents that allow your readers to change the assumptions underlying your analysis and see the results immediately. 
+
+To learn more, see [Interactive Documents](http://rmarkdown.rstudio.com/authoring_shiny.html).
+
+## Inputs and Outputs
+
+You can embed Shiny inputs and outputs in your document. Outputs are automatically updated whenever inputs change.  This demonstrates how a standard R plot can be made interactive by wrapping it in the Shiny `renderPlot` function. The `selectInput` and `sliderInput` functions create the input widgets used to drive the plot.
+
+```{r eruptions, echo=FALSE}
+inputPanel(
+  selectInput("n_breaks", label = "Number of bins:",
+              choices = c(10, 20, 35, 50), selected = 20),
+  
+  sliderInput("bw_adjust", label = "Bandwidth adjustment:",
+              min = 0.2, max = 2, value = 1, step = 0.2)
+)
+
+renderPlot({
+  hist(faithful$eruptions, probability = TRUE, breaks = as.numeric(input$n_breaks),
+       xlab = "Duration (minutes)", main = "Geyser eruption duration")
+  
+  dens <- density(faithful$eruptions, adjust = input$bw_adjust)
+  lines(dens, col = "blue")
+})
+```
+
+## Embedded Application
+
+It's also possible to embed an entire Shiny application within an R Markdown document using the `shinyAppDir` function. This example embeds a Shiny application located in another directory:
+
+```{r tabsets, echo=FALSE}
+shinyAppDir(
+  system.file("examples/06_tabsets", package = "shiny"),
+  options = list(
+    width = "100%", height = 550
+  )
+)
+```
+
+Note the use of the `height` parameter to determine how much vertical space the embedded application should occupy.
+
+You can also use the `shinyApp` function to define an application inline rather then in an external directory.
+
+In all of R code chunks above the `echo = FALSE` attribute is used. This is to prevent the R code within the chunk from rendering in the document alongside the Shiny components.
+
+
+
