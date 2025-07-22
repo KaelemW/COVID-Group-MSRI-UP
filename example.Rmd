@@ -4,6 +4,10 @@ author: "Audrey Garcia, Kaelem Walker, Genesis Walker"
 date: "`r Sys.Date()`"
 output: html_document
 ---
+```{r}
+library(dplyr)
+vax_cases_svi <- read.csv("vax_cases_svi.csv") |> select(-1)
+```
 
 ```{r}
 library(shiny)
@@ -17,7 +21,7 @@ ui <- dashboardPage(
   dashboardBody(
     fluidRow(
       box(selectInput('dep', "Choose an SVI subcategory percentile:",
-                      choices = c('Racial and Ethnic Minority Status','Household Characteristics', 'Housing Type and Transportation')),
+                      choices = c('Racial and Ethnic Minority Status','Household Characteristics', 'Housing Type and Transportation', 'Socioeconomic Status', 'Social Vulnerability Index')),
         selectInput('plot_typ', "Choose an response variable:",
                   choices = c('Covid-19 Cases', 'Covid-19 Vaccinations'),
                   ),
@@ -42,23 +46,41 @@ server <- function(input, output) {
     
     if(input$dep == 'Racial and Ethnic Minority Status'){
       x <- vax_cases_svi$rems
-      xlab <- 'Racial and Ethnic Minority Status'
+      xlab <- 'Racial and Ethnic \nMinority Status'
     } else if(input$dep == 'Household Characteristics'){
       x <- vax_cases_svi$hhc
-      xlab <- 'Household Characteristics Vulnerability'
+      xlab <- 'Household Characteristics \nVulnerability'
     } else if (input$dep == 'Housing Type and Transportation'){
       x <- vax_cases_svi$htt
-      xlab <- 'Housing Type and Transportation Vulnerability'
+      xlab <- 'Housing Type and \nTransportation Vulnerability'
+    } else if (input$dep == 'Socioeconomic Status') {
+      x <- vax_cases_svi$ses
+      xlab <- 'Socioeconomic Status Vulnerability'
+    } else if (input$dep == 'Social Vulnerability Index') {
+      x <- vax_cases_svi$svi
+      xlab <- 'Social Vulnerability Index'
     }
     
+    vax_cases_svi <- vax_cases_svi |>
+      mutate(text = paste(
+        'County: ', County,
+        '\nREMS: ', rems,
+        '\nHHC: ', hhc,
+        "\nHTT: ", htt, 
+        '\nSES: ', ses,
+        "\nSVI: ", svi,
+        sep = "")
+      )
     
-    ggplotly(
-      ggplot(vax_cases_svi, aes(x = x, y = y)) +
-        geom_point() +
+    p <- ggplot(vax_cases_svi, aes(x = x, y = y, label = County)) +
+        geom_point(color = "darkblue") +
       xlab(xlab) +
       ylab(ylab)+
       theme_gray()
-    )
+    
+    
+    # ggplotly(p, tooltip = "text")
+    ggplotly(p)
     
   })
     
