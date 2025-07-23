@@ -1,0 +1,8 @@
+ca_counties <- counties(state = "CA", cb = TRUE, class = "sf")
+
+#Change the county name to all caps to join data sets
+svi_2020$County <- toupper(svi_2020$County)
+ca_counties$NAME <- toupper(ca_counties$NAME)
+ca_svi_map <- ca_counties |>
+  left_join(svi_2020, by = c("NAME" = "County"))
+ca_svi_map = subset(ca_svi_map, select = -c(STATEFP, COUNTYFP, COUNTYNS, GEOIDFQ, GEOID, STUSPS, LSAD, ALAND, AWATER))
